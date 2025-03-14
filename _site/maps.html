@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-0.9.649">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>WebGIS - Maps</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">WebGIS</span>
+  </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">Home</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html">About</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./open_letter.qmd">Letter</a>
+  </li>  
+  <li class="dropdown-header">
+ Map.qmd</li>
+  <li class="dropdown-header">
+ Data.qmd</li>
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#geospatial-data-visualizations" id="toc-geospatial-data-visualizations" class="nav-link active" data-scroll-target="#geospatial-data-visualizations">Geospatial Data Visualizations</a>
+  <ul class="collapse">
+  <li><a href="#covid-19-cases-in-nyc-modzcta" id="toc-covid-19-cases-in-nyc-modzcta" class="nav-link" data-scroll-target="#covid-19-cases-in-nyc-modzcta">COVID-19 Cases in NYC (MODZCTA)</a></li>
+  <li><a href="#key-insights-from-the-dashboard" id="toc-key-insights-from-the-dashboard" class="nav-link" data-scroll-target="#key-insights-from-the-dashboard">Key Insights from the Dashboard</a></li>
+  <li><a href="#other-mapping-projects" id="toc-other-mapping-projects" class="nav-link" data-scroll-target="#other-mapping-projects">Other Mapping Projects</a></li>
+  <li><a href="#tools-and-technologies" id="toc-tools-and-technologies" class="nav-link" data-scroll-target="#tools-and-technologies">Tools and Technologies</a></li>
+  <li><a href="#about-this-page" id="toc-about-this-page" class="nav-link" data-scroll-target="#about-this-page">About This Page</a></li>
+  <li><a href="#css-for-styling-optional" id="toc-css-for-styling-optional" class="nav-link" data-scroll-target="#css-for-styling-optional">CSS for Styling (Optional):</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Maps</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="geospatial-data-visualizations" class="level2">
+<h2 class="anchored" data-anchor-id="geospatial-data-visualizations">Geospatial Data Visualizations</h2>
+<p>This page showcases interactive maps and dashboards that communicate geospatial data effectively. Below is an example of a dashboard created on <strong>ArcGIS Online</strong> to visualize <strong>positive COVID-19 cases per MODZCTA (Modified Zip Code Tabulation Areas)</strong> in New York City.</p>
+<hr>
+<section id="covid-19-cases-in-nyc-modzcta" class="level3">
+<h3 class="anchored" data-anchor-id="covid-19-cases-in-nyc-modzcta">COVID-19 Cases in NYC (MODZCTA)</h3>
+<div style="display: flex; justify-content: center; padding: 20px;">
+<p><iframe style="width: 100%; max-width: 1200px; height: 700px; border: 2px solid #ddd; box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);" src="https://hunter.maps.arcgis.com/apps/dashboards/d2e637f5a2334034bd4c0d671a3fe541" title="ArcGIS Dashboard: COVID-19 Cases in NYC" frameborder="1" allowfullscreen=""> </iframe></p>
+</div>
+<hr>
+</section>
+<section id="key-insights-from-the-dashboard" class="level3">
+<h3 class="anchored" data-anchor-id="key-insights-from-the-dashboard">Key Insights from the Dashboard</h3>
+<ul>
+<li><strong>Hotspots</strong>: Areas with the highest concentration of positive cases.</li>
+<li><strong>Trends Over Time</strong>: Use the time slider to see how cases evolved during the pandemic.</li>
+<li><strong>Demographics</strong>: Explore how different neighborhoods were affected.</li>
+</ul>
+<hr>
+</section>
+<section id="other-mapping-projects" class="level3">
+<h3 class="anchored" data-anchor-id="other-mapping-projects">Other Mapping Projects</h3>
+<section id="vaccination-rates-in-nyc" class="level4">
+<h4 class="anchored" data-anchor-id="vaccination-rates-in-nyc">1. <strong>Vaccination Rates in NYC</strong></h4>
+<ul>
+<li><strong>Description</strong>: A map showing vaccination rates by neighborhood.</li>
+<li><strong>Tools Used</strong>: ArcGIS Online, NYC Health Data.</li>
+<li><a href="#">View Project</a></li>
+</ul>
+</section>
+<section id="public-transportation-accessibility" class="level4">
+<h4 class="anchored" data-anchor-id="public-transportation-accessibility">2. <strong>Public Transportation Accessibility</strong></h4>
+<ul>
+<li><strong>Description</strong>: A map visualizing subway and bus accessibility across NYC.</li>
+<li><strong>Tools Used</strong>: QGIS, OpenStreetMap.</li>
+<li><a href="#">View Project</a></li>
+</ul>
+</section>
+<section id="urban-heat-island-effect" class="level4">
+<h4 class="anchored" data-anchor-id="urban-heat-island-effect">3. <strong>Urban Heat Island Effect</strong></h4>
+<ul>
+<li><strong>Description</strong>: A map showing temperature variations across NYC.</li>
+<li><strong>Tools Used</strong>: ArcGIS Pro, Landsat Satellite Data.</li>
+<li><a href="#">View Project</a></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="tools-and-technologies" class="level3">
+<h3 class="anchored" data-anchor-id="tools-and-technologies">Tools and Technologies</h3>
+<ul>
+<li><strong>ArcGIS Online</strong>: For creating interactive dashboards.</li>
+<li><strong>QGIS</strong>: For advanced geospatial analysis.</li>
+<li><strong>R/Python</strong>: For data processing and visualization.</li>
+<li><strong>Leaflet.js</strong>: For custom web maps.</li>
+</ul>
+<hr>
+</section>
+<section id="about-this-page" class="level3">
+<h3 class="anchored" data-anchor-id="about-this-page">About This Page</h3>
+<p>This page is part of my portfolio for <strong>GTECH 78534: WebGIS</strong>. It demonstrates my ability to create user-interactive geospatial visualizations that communicate complex data effectively.</p>
+<p>For more information, feel free to <a href="mailto:youremail@example.com">contact me</a>.</p>
+<hr>
+</section>
+<section id="css-for-styling-optional" class="level3">
+<h3 class="anchored" data-anchor-id="css-for-styling-optional">CSS for Styling (Optional):</h3>
+<p>Add this to your <code>styles.css</code> file to improve the layout: ```css iframe { border-radius: 8px; margin: 20px 0; }</p>
+<p>h2 { color: #2c3e50; border-bottom: 2px solid #2c3e50; padding-bottom: 10px; }</p>
+<p>a { color: #007bff; text-decoration: none; }</p>
+<p>a:hover { text-decoration: underline; }</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

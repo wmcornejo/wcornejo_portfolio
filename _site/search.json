@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "maps.html",
+    "href": "maps.html",
+    "title": "Maps",
+    "section": "",
+    "text": "This page showcases interactive maps and dashboards that communicate geospatial data effectively. Below is an example of a dashboard created on ArcGIS Online to visualize positive COVID-19 cases per MODZCTA (Modified Zip Code Tabulation Areas) in New York City.\n\n\n\n\n \n\n\n\n\n\n\nHotspots: Areas with the highest concentration of positive cases.\nTrends Over Time: Use the time slider to see how cases evolved during the pandemic.\nDemographics: Explore how different neighborhoods were affected.\n\n\n\n\n\n\n\n\nDescription: A map showing vaccination rates by neighborhood.\nTools Used: ArcGIS Online, NYC Health Data.\nView Project\n\n\n\n\n\nDescription: A map visualizing subway and bus accessibility across NYC.\nTools Used: QGIS, OpenStreetMap.\nView Project\n\n\n\n\n\nDescription: A map showing temperature variations across NYC.\nTools Used: ArcGIS Pro, Landsat Satellite Data.\nView Project\n\n\n\n\n\n\n\nArcGIS Online: For creating interactive dashboards.\nQGIS: For advanced geospatial analysis.\nR/Python: For data processing and visualization.\nLeaflet.js: For custom web maps.\n\n\n\n\n\nThis page is part of my portfolio for GTECH 78534: WebGIS. It demonstrates my ability to create user-interactive geospatial visualizations that communicate complex data effectively.\nFor more information, feel free to contact me.\n\n\n\n\nAdd this to your styles.css file to improve the layout: ```css iframe { border-radius: 8px; margin: 20px 0; }\nh2 { color: #2c3e50; border-bottom: 2px solid #2c3e50; padding-bottom: 10px; }\na { color: #007bff; text-decoration: none; }\na:hover { text-decoration: underline; }"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  }
+]
