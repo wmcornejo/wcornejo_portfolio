@@ -14,13 +14,6 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Set up R
-        run: |
-          sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
-          sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/'
-          sudo apt update
-          sudo apt install -y r-base
-
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
