@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "William Cornejo Portfolio",
+    "section": "",
+    "text": "In past public health crises, visuals have proven to be one of the most effective ways to communicate data efficiently. Florence Nightingale’s work during the Crimean War used a “Coxcomb” diagram to visually represent the causes of soldier mortality, highlighting that the majority of deaths were due to preventable infections rather than battlefield injuries. Her work led to significant improvements in sanitation and medical care, reducing death rates (Source: Nightingale, 1858).\nToday, in an era of rapid urbanization and global connectivity, web maps should be the primary medium for sharing information about health hazards in cities. By leveraging GIS, we can provide real-time, actionable insights to policymakers, healthcare providers, and the public.\nThis project serves as a call to action for NYC officials, emphasizing the critical role that map data can play in addressing public health emergencies like the COVID-19 pandemic.\n\n\n\n\n\n\nExplore the interactive map to visualize COVID-19 data across New York City.\nView Map\n\n\n\nSee the datasets used in this project and how they were analyzed.\nView Data\n\n\n\nRead and sign the open letter to the mayor, addressing key concerns and recommendations for improving public health data communication.\nRead and Sign Letter\n\n\n\n\n\n\nNightingale, F. (1858). Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army. Link\nNYC Department of Health COVID-19 Data\nCDC Guidelines for Public Health Communication"
   }
 ]
