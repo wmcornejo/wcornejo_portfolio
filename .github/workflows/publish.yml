@@ -1,4 +1,4 @@
-name: Quarto Publish
+Zname: Quarto Publish
 
 on:
   push:
@@ -21,6 +21,10 @@ jobs:
     - name: Install dependencies
       run: |
         brew install curl-openssl libxml2
+        
+    - name: Install Quarto
+      run: |
+        brew install quarto
 
     - name: Render Quarto site
       run: |
