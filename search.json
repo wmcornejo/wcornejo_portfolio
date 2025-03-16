@@ -2,9 +2,30 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I’m passionate about using GIS and programming to solve real-world problems in public and environmental health. I believe in the power of data and technology to create meaningful change."
+  },
+  {
+    "objectID": "about.html#my-background",
+    "href": "about.html#my-background",
+    "title": "About Me",
+    "section": "My Background",
+    "text": "My Background\nI have a strong foundation in geospatial analysis, data visualization, and programming. My work focuses on applying these skills to address challenges in public health, environmental sustainability, and urban planning.\n\nEducation: Bachelor of Science in Computer Science from SUNY Binghamton.\nSkills: GIS (ArcGIS, QGIS), Python, R, JavaScript, Data Visualization, Spatial Analysis.\nInterests: Public health, environmental sustainability, open data, and community-driven solutions."
+  },
+  {
+    "objectID": "about.html#my-work",
+    "href": "about.html#my-work",
+    "title": "About Me",
+    "section": "My Work",
+    "text": "My Work\nI’ve worked on a variety of projects, including: - Mapping disease outbreaks to identify high-risk areas. - Developing interactive dashboards for visualizing environmental data. - Automating data workflows to improve efficiency and accuracy."
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About Me",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nI’m always excited to collaborate on new projects or discuss ideas. Feel free to reach out!\n\nLinkedIn\nGitHub"
   },
   {
     "objectID": "maps.html",
@@ -25,13 +46,13 @@
     "href": "index.html",
     "title": "William Cornejo Portfolio",
     "section": "",
-    "text": "In past public health crises, visuals have proven to be one of the most effective ways to communicate data efficiently. Florence Nightingale’s work during the Crimean War used a “Coxcomb” diagram to visually represent the causes of soldier mortality, highlighting that the majority of deaths were due to preventable infections rather than battlefield injuries. Her work led to significant improvements in sanitation and medical care, reducing death rates (Source: Nightingale, 1858).\nToday, in an era of rapid urbanization and global connectivity, web maps should be the primary medium for sharing information about health hazards in cities. By leveraging GIS, we can provide real-time, actionable insights to policymakers, healthcare providers, and the public.\nThis project serves as a call to action for NYC officials, emphasizing the critical role that map data can play in addressing public health emergencies like the COVID-19 pandemic.\n\n\n\n\n\n\nExplore the interactive map to visualize COVID-19 data across New York City.\nView Map\n\n\n\nSee the datasets used in this project and how they were analyzed.\nView Data\n\n\n\nRead and sign the open letter to the mayor, addressing key concerns and recommendations for improving public health data communication.\nRead and Sign Letter\n\n\n\n\n\n\nNightingale, F. (1858). Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army. Link\nNYC Department of Health COVID-19 Data\nCDC Guidelines for Public Health Communication"
+    "text": "Welcome to my portfolio, here is some work I’ve done in GIS and programming. My interests are apply GIS and/or programming techniques to public/environmental health.\n\n\n\n\n\nClick Here\n\n\n\nClick Here"
   },
   {
-    "objectID": "index.html#explore-the-project",
-    "href": "index.html#explore-the-project",
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
     "title": "William Cornejo Portfolio",
     "section": "",
-    "text": "Explore the interactive map to visualize COVID-19 data across New York City.\nView Map\n\n\n\nSee the datasets used in this project and how they were analyzed.\nView Data\n\n\n\nRead and sign the open letter to the mayor, addressing key concerns and recommendations for improving public health data communication.\nRead and Sign Letter\n\n\n\n\n\n\nNightingale, F. (1858). Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army. Link\nNYC Department of Health COVID-19 Data\nCDC Guidelines for Public Health Communication"
+    "text": "Click Here\n\n\n\nClick Here"
   }
 ]
