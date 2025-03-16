@@ -1,77 +1,78 @@
 ---
-title: "Park Management & Outside Work"
+title: "Park Management & Field Work"
 ---
 
-# I also like being outside :)
 
 My field work experience has allowed me to combine my passion for the environment with practical skills in trail mapping, park management, and community engagement. Below are some highlights from my internships and volunteer events.
 
----
+------------------------------------------------------------------------
 
-## GIS Trail Mapping Internship  
-**The Natural Areas Conservancy**  
+## GIS Trail Mapping Internship
+
+**The Natural Areas Conservancy**\
 *June - August 2024*
 
 ### Overview
-As a **GIS & Trail Mapping Intern** with the Natural Areas Conservancy, I was responsible for mapping and assessing trails in natural areas to improve accessibility and conservation efforts.
-For the summer of 2024, I, along with my partner, were tasked with mapping the 
-*North Forty Natural Area* in Floyd Bennett Field in Brooklyn New York.
+
+As a **GIS & Trail Mapping Intern** with the Natural Areas Conservancy, I was responsible for mapping and assessing trails in natural areas to improve accessibility and conservation efforts. For the summer of 2024, I, along with my partner, were tasked with mapping the *North Forty Natural Area* in Floyd Bennett Field in Brooklyn New York.
 
 This role involved extensive fieldwork, data collection, and collaboration with conservation teams.
 
 ### Key Responsibilities
-- Conducted **ground-truthing** to map trail conditions, including surface type, width, and accessibility features.
-- Used **GPS devices** and ESRI software (ArcGIS Online, FieldMaps) to create detailed trail maps.
-- Collected and analyzed data on **vegetation**, **erosion**, and **wildlife habitats** along trails.
-- Contributed trail data to the official NYC Parks Trail Map on ArcGIS Online.
+
+-   Conducted **ground-truthing** to map trail conditions, including surface type, width, and accessibility features.
+-   Used **GPS devices** and ESRI software (ArcGIS Online, FieldMaps) to create detailed trail maps.
+-   Collected and analyzed data on **vegetation** and **erosion** along trails.
+-   Contributed trail data to the official NYC Parks Trail Map on ArcGIS Online.
+
+
+![Trail Mapping](pictures/trail.jpg){.rounded .shadow width="600px"}\
+*Mapping trail segments in North Forty, Floyd Bennett Field.*
+
+
+![Trail Structures](pictures/ppark.jpg){.rounded .shadow width="600px"}\
+*Installing trail structures in Van Cortland Park.*
+
 
 ### Volunteer Events
-During my internship, I also participated in and led **volunteer events**, including:
+
+During my internship, I also participated in and led events such as:
+
+-   **Trail Cleanups**: Organized and led groups of volunteers to remove litter and debris from trails.
+-   **Invasive Species Removal**: Worked with volunteers to remove invasive plants and restore native habitats.
+
+We also participated in volunteer events in other parks across NYC, like Prospect Park and in Staten Island.
 
 
-- **Trail Cleanups**: Organized and led groups of volunteers to remove litter and debris from trails.
-- **Invasive Species Removal**: Worked with volunteers to remove invasive plants and restore native habitats.
+![Volunteer Event](pictures/ppark2.jpg){.rounded .shadow width="600px"}\
+*Participating in removing invasive species at Prospect Park.*
 
-We also participated in volunteer events in other parks across NYC, like Prospect
-Park and in Staten Island.
 
-We also spent a week in Eleuthera, Bahamas where we collected tree data in 
-the Leon Levy Natural Preserve.
+------------------------------------------------------------------------
 
-### Pictures
-![Trail Mapping](trail-mapping.jpg){.rounded .shadow width="600px"}  
-*Caption: Conducting a trail survey in [Park Name].*
+## Park Management & GIS Internship
 
-![Volunteer Event](volunteer-event.jpg){.rounded .shadow width="600px"}  
-*Caption: Leading a trail cleanup event with volunteers.*
-
----
-
-## Park Management & GIS Internship  
-**[NYC Parks & Recreation]**  
+**NYC Parks & Recreation**\
 *July 2023 - June 2024*
 
 ### Overview
-As a **Park Management Intern**, I played a key role in planning and executing park repairs, leading volunteer events, and ensuring the maintenance of public spaces. This internship allowed me to develop leadership and project management skills while contributing to the community.
+
+As a **Park Management and GIS Intern**, I played a key role in planning and executing park repairs, leading volunteer events, and ensuring the maintenance of public spaces. This internship allowed me to develop leadership and project management skills while contributing to the community.
 
 ### Key Responsibilities
-- **Planned and supervised park repair projects**, including trail maintenance, signage installation, and infrastructure improvements.
-- **Led volunteer events**, recruiting and managing teams of volunteers for park cleanups and restoration projects.
-- Conducted **site assessments** to identify areas in need of repair or improvement.
-- Collaborated with local organizations and community members to promote **park stewardship**.
+
+-   **Planned and supervised park repair projects**, including trail maintenance, signage installation, and infrastructure improvements.
+-   **Led volunteer events**, recruiting and managing teams of volunteers for park cleanups and restoration projects.
+-   Conducted **site assessments** to identify areas in need of repair or improvement.
+-   Collaborated with local organizations and community members to promote **park stewardship**.
 
 ### Volunteer Events
+
 During this internship, I organized and led several volunteer events, including:
 
+-   **Park Cleanups**: Coordinated teams to remove litter and maintain park facilities.
+-   **Tree Planting**: Led volunteers in planting native trees to restore park ecosystems.
 
-- **Park Cleanups**: Coordinated teams to remove litter and maintain park facilities.
-- **Tree Planting**: Led volunteers in planting native trees to restore park ecosystems.
-- **Educational Workshops**: Hosted workshops to teach volunteers about park conservation and sustainability.
-
-### Pictures
-![Park Repair](park-repair.jpg){.rounded .shadow width="600px"}  
-*Caption: Supervising a park repair project in [Park Name].*
-
-![Tree Planting](tree-planting.jpg){.rounded .shadow width="600px"}  
-*Caption: Leading a tree planting event with volunteers.*
+![Lawn Rennovation](pictures/tompkins.jpg){.rounded .shadow width="600px"}\
+*Leading a lawn renovation volunteer event at Tompkins Square Park.*
 
