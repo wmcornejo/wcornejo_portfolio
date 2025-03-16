@@ -1,9 +1,27 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hello! I’m passionate about using **GIS** and **programming** to solve real-world problems in public and environmental health. I believe in the power of data and technology to create meaningful change.
 
-```{r}
-1 + 1
-```
+## My Background
+
+I have a strong foundation in **geospatial analysis**, **data visualization**, and **programming**. My work focuses on applying these skills to address challenges in public health, environmental sustainability, and urban planning.
+
+- **Education**: Bachelor of Science in Computer Science from SUNY Binghamton.
+- **Skills**: GIS (ArcGIS, QGIS), Python, R, JavaScript, Data Visualization, Spatial Analysis.
+- **Interests**: Public health, environmental sustainability, open data, and community-driven solutions.
+
+## My Work
+
+I’ve worked on a variety of projects, including:
+- **Mapping disease outbreaks** to identify high-risk areas.
+- **Developing interactive dashboards** for visualizing environmental data.
+- **Automating data workflows** to improve efficiency and accuracy.
+
+## Let’s Connect
+
+I’m always excited to collaborate on new projects or discuss ideas. Feel free to reach out!
+
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [GitHub](https://github.com/yourprofile)

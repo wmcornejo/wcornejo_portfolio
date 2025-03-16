@@ -2,17 +2,17 @@ project:
   type: website
 
 website:
-  title: "WebGIS"
+  title: "Portfolio"
   navbar:
     search: true
-    right:
+    left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: open_letter.qmd
-        text: Letter
-      - Map.qmd
-      - Data.qmd
+      - href: maps.qmd
+        text: Maps
+      - href: other_projects.qmd
+        text: Coding Projects
 
 format:
   html:
