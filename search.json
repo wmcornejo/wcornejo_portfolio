@@ -1,58 +1,121 @@
 [
   {
+    "objectID": "field.html",
+    "href": "field.html",
+    "title": "Park Management & Outside Work",
+    "section": "",
+    "text": "My field work experience has allowed me to combine my passion for the environment with practical skills in trail mapping, park management, and community engagement. Below are some highlights from my internships and volunteer events.\n\n\n\nThe Natural Areas Conservancy\nJune - August 2024\n\n\nAs a GIS & Trail Mapping Intern with the Natural Areas Conservancy, I was responsible for mapping and assessing trails in natural areas to improve accessibility and conservation efforts. For the summer of 2024, I, along with my partner, were tasked with mapping the North Forty Natural Area in Floyd Bennett Field in Brooklyn New York.\nThis role involved extensive fieldwork, data collection, and collaboration with conservation teams.\n\n\n\n\nConducted ground-truthing to map trail conditions, including surface type, width, and accessibility features.\nUsed GPS devices and ESRI software (ArcGIS Online, FieldMaps) to create detailed trail maps.\nCollected and analyzed data on vegetation, erosion, and wildlife habitats along trails.\nContributed trail data to the official NYC Parks Trail Map on ArcGIS Online.\n\n\n\n\nDuring my internship, I also participated in and led volunteer events, including:\n\nTrail Cleanups: Organized and led groups of volunteers to remove litter and debris from trails.\nInvasive Species Removal: Worked with volunteers to remove invasive plants and restore native habitats.\n\nWe also participated in volunteer events in other parks across NYC, like Prospect Park and in Staten Island.\nWe also spent a week in Eleuthera, Bahamas where we collected tree data in the Leon Levy Natural Preserve.\n\n\n\n\nCaption: Conducting a trail survey in [Park Name].\n\nCaption: Leading a trail cleanup event with volunteers.\n\n\n\n\n\n[NYC Parks & Recreation]\nJuly 2023 - June 2024\n\n\nAs a Park Management Intern, I played a key role in planning and executing park repairs, leading volunteer events, and ensuring the maintenance of public spaces. This internship allowed me to develop leadership and project management skills while contributing to the community.\n\n\n\n\nPlanned and supervised park repair projects, including trail maintenance, signage installation, and infrastructure improvements.\nLed volunteer events, recruiting and managing teams of volunteers for park cleanups and restoration projects.\nConducted site assessments to identify areas in need of repair or improvement.\nCollaborated with local organizations and community members to promote park stewardship.\n\n\n\n\nDuring this internship, I organized and led several volunteer events, including:\n\nPark Cleanups: Coordinated teams to remove litter and maintain park facilities.\nTree Planting: Led volunteers in planting native trees to restore park ecosystems.\nEducational Workshops: Hosted workshops to teach volunteers about park conservation and sustainability.\n\n\n\n\n\nCaption: Supervising a park repair project in [Park Name].\n\nCaption: Leading a tree planting event with volunteers."
+  },
+  {
+    "objectID": "field.html#gis-trail-mapping-internship",
+    "href": "field.html#gis-trail-mapping-internship",
+    "title": "Park Management & Outside Work",
+    "section": "",
+    "text": "The Natural Areas Conservancy\nJune - August 2024\n\n\nAs a GIS & Trail Mapping Intern with the Natural Areas Conservancy, I was responsible for mapping and assessing trails in natural areas to improve accessibility and conservation efforts. For the summer of 2024, I, along with my partner, were tasked with mapping the North Forty Natural Area in Floyd Bennett Field in Brooklyn New York.\nThis role involved extensive fieldwork, data collection, and collaboration with conservation teams.\n\n\n\n\nConducted ground-truthing to map trail conditions, including surface type, width, and accessibility features.\nUsed GPS devices and ESRI software (ArcGIS Online, FieldMaps) to create detailed trail maps.\nCollected and analyzed data on vegetation, erosion, and wildlife habitats along trails.\nContributed trail data to the official NYC Parks Trail Map on ArcGIS Online.\n\n\n\n\nDuring my internship, I also participated in and led volunteer events, including:\n\nTrail Cleanups: Organized and led groups of volunteers to remove litter and debris from trails.\nInvasive Species Removal: Worked with volunteers to remove invasive plants and restore native habitats.\n\nWe also participated in volunteer events in other parks across NYC, like Prospect Park and in Staten Island.\nWe also spent a week in Eleuthera, Bahamas where we collected tree data in the Leon Levy Natural Preserve.\n\n\n\n\nCaption: Conducting a trail survey in [Park Name].\n\nCaption: Leading a trail cleanup event with volunteers."
+  },
+  {
+    "objectID": "field.html#park-management-gis-internship",
+    "href": "field.html#park-management-gis-internship",
+    "title": "Park Management & Outside Work",
+    "section": "",
+    "text": "[NYC Parks & Recreation]\nJuly 2023 - June 2024\n\n\nAs a Park Management Intern, I played a key role in planning and executing park repairs, leading volunteer events, and ensuring the maintenance of public spaces. This internship allowed me to develop leadership and project management skills while contributing to the community.\n\n\n\n\nPlanned and supervised park repair projects, including trail maintenance, signage installation, and infrastructure improvements.\nLed volunteer events, recruiting and managing teams of volunteers for park cleanups and restoration projects.\nConducted site assessments to identify areas in need of repair or improvement.\nCollaborated with local organizations and community members to promote park stewardship.\n\n\n\n\nDuring this internship, I organized and led several volunteer events, including:\n\nPark Cleanups: Coordinated teams to remove litter and maintain park facilities.\nTree Planting: Led volunteers in planting native trees to restore park ecosystems.\nEducational Workshops: Hosted workshops to teach volunteers about park conservation and sustainability.\n\n\n\n\n\nCaption: Supervising a park repair project in [Park Name].\n\nCaption: Leading a tree planting event with volunteers."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello! I’m passionate about using GIS and programming to solve real-world problems in public and environmental health. I believe in the power of data and technology to create meaningful change."
+    "text": "I’m passionate about using GIS and programming to solve real-world problems in public and environmental health. I believe in the power of data and technology to create meaningful change."
   },
   {
     "objectID": "about.html#my-background",
     "href": "about.html#my-background",
     "title": "About Me",
     "section": "My Background",
-    "text": "My Background\nI have a strong foundation in geospatial analysis, data visualization, and programming. My work focuses on applying these skills to address challenges in public health, environmental sustainability, and urban planning.\n\nEducation: Bachelor of Science in Computer Science from SUNY Binghamton.\nSkills: GIS (ArcGIS, QGIS), Python, R, JavaScript, Data Visualization, Spatial Analysis.\nInterests: Public health, environmental sustainability, open data, and community-driven solutions."
+    "text": "My Background\nI have a strong foundation in geospatial analysis, data visualization, and programming. My work focuses on applying these skills to address challenges in public health, environmental sustainability, and urban planning.\n\nEducation: Master of Science in Geographic Information Sciences from Hunter College (expected to graduate Spring 2026). Bachelor of Science in Computer Science from Binghamton University.\nSkills: GIS (ArcGIS, QGIS), Python (GDAL, Pandas), R, JavaScript, Data Visualization, Spatial Analysis.\nInterests: Public health, environmental sustainability, transportation systems."
   },
   {
     "objectID": "about.html#my-work",
     "href": "about.html#my-work",
     "title": "About Me",
     "section": "My Work",
-    "text": "My Work\nI’ve worked on a variety of projects, including: - Mapping disease outbreaks to identify high-risk areas. - Developing interactive dashboards for visualizing environmental data. - Automating data workflows to improve efficiency and accuracy."
-  },
-  {
-    "objectID": "about.html#lets-connect",
-    "href": "about.html#lets-connect",
-    "title": "About Me",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nI’m always excited to collaborate on new projects or discuss ideas. Feel free to reach out!\n\nLinkedIn\nGitHub"
+    "text": "My Work\nI’ve worked on a variety of projects, including:\n\nIdentified grocery store and deli distributions to identify food deserts in NYC.\nDeveloping map books for visualizing drains in Northern Manhattan Parks.\nContributed to IPARC a web app that keeps track of NYC Park Issues and streamlines the process of its fix.\nContributed to UCGIS a chapter on Object Oriented Programming and GIS.\nLeading Volunteer Events at NYC Manhattan Parks with NYC Cares.\nContributed to a Solar Panel Map of the US as an intern. ## Let’s Connect\n\nI’m always excited to collaborate on new projects or discuss ideas. Feel free to reach out!\n\nLinkedIn\nGitHub"
   },
   {
     "objectID": "maps.html",
     "href": "maps.html",
     "title": "Maps",
     "section": "",
-    "text": "This page showcases interactive maps and dashboards that communicate geospatial data effectively. Below is an example of a dashboard created on ArcGIS Online to visualize positive COVID-19 cases per MODZCTA (Modified Zip Code Tabulation Areas) in New York City.\n\n\n\n\n \n\n\n\n\n\n\nHotspots: Areas with the highest concentration of positive cases.\nTrends Over Time: Use the time slider to see how cases evolved during the pandemic.\nDemographics: Explore how different neighborhoods were affected.\n\n\n\n\n\n\n\n\nDescription: A map showing vaccination rates by neighborhood.\nTools Used: ArcGIS Online, NYC Health Data.\nView Project\n\n\n\n\n\nDescription: A map visualizing subway and bus accessibility across NYC.\nTools Used: QGIS, OpenStreetMap.\nView Project\n\n\n\n\n\nDescription: A map showing temperature variations across NYC.\nTools Used: ArcGIS Pro, Landsat Satellite Data.\nView Project\n\n\n\n\n\n\n\nArcGIS Online: For creating interactive dashboards.\nQGIS: For advanced geospatial analysis.\nR/Python: For data processing and visualization.\nLeaflet.js: For custom web maps.\n\n\n\n\n\nThis page is part of my portfolio for GTECH 78534: WebGIS. It demonstrates my ability to create user-interactive geospatial visualizations that communicate complex data effectively.\nFor more information, feel free to contact me.\n\n\n\n\nAdd this to your styles.css file to improve the layout: ```css iframe { border-radius: 8px; margin: 20px 0; }\nh2 { color: #2c3e50; border-bottom: 2px solid #2c3e50; padding-bottom: 10px; }\na { color: #007bff; text-decoration: none; }\na:hover { text-decoration: underline; }"
+    "text": "Here are some of the maps and GIS projects I’ve created. Each project reflects my passion for spatial analysis, cartography, and solving real-world problems using geospatial tools."
   },
   {
-    "objectID": "maps.html#geospatial-data-visualizations",
-    "href": "maps.html#geospatial-data-visualizations",
+    "objectID": "maps.html#featured-map-1-map-name",
+    "href": "maps.html#featured-map-1-map-name",
     "title": "Maps",
-    "section": "",
-    "text": "This page showcases interactive maps and dashboards that communicate geospatial data effectively. Below is an example of a dashboard created on ArcGIS Online to visualize positive COVID-19 cases per MODZCTA (Modified Zip Code Tabulation Areas) in New York City.\n\n\n\n\n \n\n\n\n\n\n\nHotspots: Areas with the highest concentration of positive cases.\nTrends Over Time: Use the time slider to see how cases evolved during the pandemic.\nDemographics: Explore how different neighborhoods were affected.\n\n\n\n\n\n\n\n\nDescription: A map showing vaccination rates by neighborhood.\nTools Used: ArcGIS Online, NYC Health Data.\nView Project\n\n\n\n\n\nDescription: A map visualizing subway and bus accessibility across NYC.\nTools Used: QGIS, OpenStreetMap.\nView Project\n\n\n\n\n\nDescription: A map showing temperature variations across NYC.\nTools Used: ArcGIS Pro, Landsat Satellite Data.\nView Project\n\n\n\n\n\n\n\nArcGIS Online: For creating interactive dashboards.\nQGIS: For advanced geospatial analysis.\nR/Python: For data processing and visualization.\nLeaflet.js: For custom web maps.\n\n\n\n\n\nThis page is part of my portfolio for GTECH 78534: WebGIS. It demonstrates my ability to create user-interactive geospatial visualizations that communicate complex data effectively.\nFor more information, feel free to contact me.\n\n\n\n\nAdd this to your styles.css file to improve the layout: ```css iframe { border-radius: 8px; margin: 20px 0; }\nh2 { color: #2c3e50; border-bottom: 2px solid #2c3e50; padding-bottom: 10px; }\na { color: #007bff; text-decoration: none; }\na:hover { text-decoration: underline; }"
+    "section": "Featured Map 1: [Map Name]",
+    "text": "Featured Map 1: [Map Name]\nDescription: A detailed description of the map. What is the purpose of the map? What data did you use? What insights does it provide?\nTools: ArcGIS, QGIS, Python (GeoPandas), R (sf)\nKey Features: - Feature 1: Describe a key feature of the map (e.g., interactive elements, unique data sources). - Feature 2: Highlight any spatial analysis techniques used (e.g., buffer analysis, spatial joins). - Feature 3: Mention any challenges and how you overcame them.\nScreenshot: \nLinks: - Interactive Map - GitHub Repository"
+  },
+  {
+    "objectID": "maps.html#featured-map-2-map-name",
+    "href": "maps.html#featured-map-2-map-name",
+    "title": "Maps",
+    "section": "Featured Map 2: [Map Name]",
+    "text": "Featured Map 2: [Map Name]\nDescription: A detailed description of the map. What is the purpose of the map? What data did you use? What insights does it provide?\nTools: ArcGIS Online, Leaflet, JavaScript\nKey Features: - Feature 1: Describe a key feature of the map (e.g., interactive elements, unique data sources). - Feature 2: Highlight any spatial analysis techniques used (e.g., heatmaps, clustering). - Feature 3: Mention any challenges and how you overcame them.\nScreenshot: \nLinks: - Interactive Map - GitHub Repository"
+  },
+  {
+    "objectID": "maps.html#other-maps",
+    "href": "maps.html#other-maps",
+    "title": "Maps",
+    "section": "Other Maps",
+    "text": "Other Maps\nHere are some other maps I’ve created:\n\n[Map Name]: Brief description. View Map\n[Map Name]: Brief description. View Map\n[Map Name]: Brief description. View Map"
+  },
+  {
+    "objectID": "maps.html#tools-i-use",
+    "href": "maps.html#tools-i-use",
+    "title": "Maps",
+    "section": "Tools I Use",
+    "text": "Tools I Use\nHere are some of the tools and technologies I use for GIS work:\n\nDesktop GIS: ArcGIS, QGIS\nProgramming: Python (GeoPandas, Shapely), R (sf, tmap)\nWeb Mapping: Leaflet, Mapbox, ArcGIS Online\nData Visualization: Tableau, Power BI\nSpatial Databases: PostgreSQL/PostGIS, SQLite"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "William Cornejo Portfolio",
+    "title": "Hello!!!",
     "section": "",
-    "text": "Welcome to my portfolio, here is some work I’ve done in GIS and programming. My interests are apply GIS and/or programming techniques to public/environmental health.\n\n\n\n\n\nClick Here\n\n\n\nClick Here"
+    "text": "Welcome to my website, here is some work I’ve done in GIS and programming. My interests are apply GIS and/or programming techniques to public/environmental health."
   },
   {
     "objectID": "index.html#explore",
     "href": "index.html#explore",
-    "title": "William Cornejo Portfolio",
+    "title": "Hello!!!",
+    "section": "Explore",
+    "text": "Explore\n\n\nView Maps\nClick Here\n\n\nView Programming Projects\nClick Here"
+  },
+  {
+    "objectID": "coding.html",
+    "href": "coding.html",
+    "title": "Coding Projects",
     "section": "",
-    "text": "Click Here\n\n\n\nClick Here"
+    "text": "Here are some of my programming-based projects. I mainly branched out to data- analysis related programs for my own research. Most of my work is in Python, Jupyter Notebook, C++, and R."
+  },
+  {
+    "objectID": "coding.html#featured-project-1-project-name",
+    "href": "coding.html#featured-project-1-project-name",
+    "title": "Coding Projects",
+    "section": "Featured Project 1: [Project Name]",
+    "text": "Featured Project 1: [Project Name]\nDescription: A detailed description of the project. What problem does it solve? What was your role? What challenges did you face, and how did you overcome them?\nTechnologies: Python, Pandas, Matplotlib\nKey Features: - Feature 1: Describe a key feature of the project. - Feature 2: Describe another key feature. - Feature 3: Highlight something unique or innovative.\nScreenshot: \nLinks: - GitHub Repository - Live Demo"
+  },
+  {
+    "objectID": "coding.html#featured-project-2-project-name",
+    "href": "coding.html#featured-project-2-project-name",
+    "title": "Coding Projects",
+    "section": "Featured Project 2: [Project Name]",
+    "text": "Featured Project 2: [Project Name]\nDescription: A detailed description of the project. What problem does it solve? What was your role? What challenges did you face, and how did you overcome them?\nTechnologies: R, Shiny, Leaflet\nKey Features: - Feature 1: Describe a key feature of the project. - Feature 2: Describe another key feature. - Feature 3: Highlight something unique or innovative.\nScreenshot: \nLinks: - GitHub Repository - Live Demo"
+  },
+  {
+    "objectID": "coding.html#other-projects",
+    "href": "coding.html#other-projects",
+    "title": "Coding Projects",
+    "section": "Other Projects",
+    "text": "Other Projects\nHere are some other projects I’ve worked on:\n\n[Project Name]: Brief description. GitHub\n[Project Name]: Brief description. GitHub\n[Project Name]: Brief description. GitHub"
   }
 ]
