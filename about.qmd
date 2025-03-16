@@ -2,26 +2,31 @@
 title: "About Me"
 ---
 
-Hello! I’m passionate about using **GIS** and **programming** to solve real-world problems in public and environmental health. I believe in the power of data and technology to create meaningful change.
+I’m passionate about using **GIS** and **programming** to solve real-world problems in public and environmental health. I believe in the power of data and technology to create meaningful change.
 
 ## My Background
 
 I have a strong foundation in **geospatial analysis**, **data visualization**, and **programming**. My work focuses on applying these skills to address challenges in public health, environmental sustainability, and urban planning.
 
-- **Education**: Bachelor of Science in Computer Science from SUNY Binghamton.
-- **Skills**: GIS (ArcGIS, QGIS), Python, R, JavaScript, Data Visualization, Spatial Analysis.
-- **Interests**: Public health, environmental sustainability, open data, and community-driven solutions.
+- **Education**: Master of Science in Geographic Information Sciences from Hunter College (expected to graduate Spring 2026). Bachelor of Science in Computer Science from Binghamton University.
+- **Skills**: GIS (ArcGIS, QGIS), Python (GDAL, Pandas), R, JavaScript, Data Visualization, Spatial Analysis.
+- **Interests**: Public health, environmental sustainability, transportation systems.
 
 ## My Work
 
 I’ve worked on a variety of projects, including:
-- **Mapping disease outbreaks** to identify high-risk areas.
-- **Developing interactive dashboards** for visualizing environmental data.
-- **Automating data workflows** to improve efficiency and accuracy.
 
+- **Identified grocery store and deli distributions** to identify food deserts 
+in NYC.
+- **Developing map books** for visualizing drains in Northern Manhattan Parks.
+- **Contributed to IPARC** a web app that keeps track of NYC Park Issues and streamlines
+the process of its fix.
+- **Contributed to UCGIS** a chapter on Object Oriented Programming and GIS.
+- **Leading Volunteer Events** at NYC Manhattan Parks with NYC Cares.
+ - **Contributed to a Solar Panel Map of the US** as an intern.
 ## Let’s Connect
 
 I’m always excited to collaborate on new projects or discuss ideas. Feel free to reach out!
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/william-m-cornejo-6393001a2/)
+- [GitHub](https://github.com/willm625)

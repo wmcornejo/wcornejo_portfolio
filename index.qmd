@@ -1,10 +1,8 @@
 ---
-title: "William Cornejo Portfolio"
+title: "Hello!!!"
 ---
 
-# Hello!!
-
-Welcome to my portfolio, here is some work I've done in GIS and programming.
+Welcome to my website, here is some work I've done in GIS and programming.
 My interests are apply GIS and/or programming techniques to public/environmental
 health.
 
@@ -13,19 +11,11 @@ health.
 ::: grid
 ::: g-col-4
 ### View Maps
-[Click Here](Map.html){.btn .btn-primary}
+[Click Here](maps.html){.btn .btn-primary}
 :::
 ::: g-col-4
 ### View Programming Projects
-[Click Here](Data.html){.btn .btn-primary}
+[Click Here](coding.html){.btn .btn-primary}
 :::
 :::
 
-
----
-footer: |
-  Connect with me:
-  - [LinkedIn](#)
-  - [GitHub](#)
-  - Email: [your.email@example.com](mailto:your.email@example.com)
----

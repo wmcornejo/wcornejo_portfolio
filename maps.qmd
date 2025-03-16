@@ -2,86 +2,66 @@
 title: "Maps"
 ---
 
-## Geospatial Data Visualizations
-
-This page showcases interactive maps and dashboards that communicate geospatial data effectively. Below is an example of a dashboard created on **ArcGIS Online** to visualize **positive COVID-19 cases per MODZCTA (Modified Zip Code Tabulation Areas)** in New York City.
+Here are some of the maps and GIS projects I’ve created. Each project reflects my passion for spatial analysis, cartography, and solving real-world problems using geospatial tools.
 
 ---
 
-### COVID-19 Cases in NYC (MODZCTA)
+## Featured Map 1: [Map Name]
 
-<div style="display: flex; justify-content: center; padding: 20px;">
-  <iframe 
-    style="width: 100%; max-width: 1200px; height: 700px; border: 2px solid #ddd; box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);" 
-    src="https://hunter.maps.arcgis.com/apps/dashboards/d2e637f5a2334034bd4c0d671a3fe541" 
-    title="ArcGIS Dashboard: COVID-19 Cases in NYC" 
-    frameborder="1" 
-    allowfullscreen>
-  </iframe>
-</div>
+**Description**: A detailed description of the map. What is the purpose of the map? What data did you use? What insights does it provide?
 
----
+**Tools**: ArcGIS, QGIS, Python (GeoPandas), R (sf)
 
-### Key Insights from the Dashboard
-- **Hotspots**: Areas with the highest concentration of positive cases.
-- **Trends Over Time**: Use the time slider to see how cases evolved during the pandemic.
-- **Demographics**: Explore how different neighborhoods were affected.
+**Key Features**:
+- Feature 1: Describe a key feature of the map (e.g., interactive elements, unique data sources).
+- Feature 2: Highlight any spatial analysis techniques used (e.g., buffer analysis, spatial joins).
+- Feature 3: Mention any challenges and how you overcame them.
 
----
+**Screenshot**:
+![Map Screenshot](map1-screenshot.png){.rounded .shadow width="600px"}
 
-### Other Mapping Projects
-
-#### 1. **Vaccination Rates in NYC**
-- **Description**: A map showing vaccination rates by neighborhood.
-- **Tools Used**: ArcGIS Online, NYC Health Data.
-- [View Project](#)
-
-#### 2. **Public Transportation Accessibility**
-- **Description**: A map visualizing subway and bus accessibility across NYC.
-- **Tools Used**: QGIS, OpenStreetMap.
-- [View Project](#)
-
-#### 3. **Urban Heat Island Effect**
-- **Description**: A map showing temperature variations across NYC.
-- **Tools Used**: ArcGIS Pro, Landsat Satellite Data.
-- [View Project](#)
+**Links**:
+- [Interactive Map](#)
+- [GitHub Repository](#)
 
 ---
 
-### Tools and Technologies
-- **ArcGIS Online**: For creating interactive dashboards.
-- **QGIS**: For advanced geospatial analysis.
-- **R/Python**: For data processing and visualization.
-- **Leaflet.js**: For custom web maps.
+## Featured Map 2: [Map Name]
+
+**Description**: A detailed description of the map. What is the purpose of the map? What data did you use? What insights does it provide?
+
+**Tools**: ArcGIS Online, Leaflet, JavaScript
+
+**Key Features**:
+- Feature 1: Describe a key feature of the map (e.g., interactive elements, unique data sources).
+- Feature 2: Highlight any spatial analysis techniques used (e.g., heatmaps, clustering).
+- Feature 3: Mention any challenges and how you overcame them.
+
+**Screenshot**:
+![Map Screenshot](map2-screenshot.png){.rounded .shadow width="600px"}
+
+**Links**:
+- [Interactive Map](#)
+- [GitHub Repository](#)
 
 ---
 
-### About This Page
-This page is part of my portfolio for **GTECH 78534: WebGIS**. It demonstrates my ability to create user-interactive geospatial visualizations that communicate complex data effectively.
+## Other Maps
 
-For more information, feel free to [contact me](mailto:youremail@example.com).
+Here are some other maps I’ve created:
+
+- **[Map Name]**: Brief description. [View Map](#)
+- **[Map Name]**: Brief description. [View Map](#)
+- **[Map Name]**: Brief description. [View Map](#)
 
 ---
 
-### CSS for Styling (Optional):
-Add this to your `styles.css` file to improve the layout:
-```css
-iframe {
-  border-radius: 8px;
-  margin: 20px 0;
-}
+## Tools I Use
 
-h2 {
-  color: #2c3e50;
-  border-bottom: 2px solid #2c3e50;
-  padding-bottom: 10px;
-}
+Here are some of the tools and technologies I use for GIS work:
 
-a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
+- **Desktop GIS**: ArcGIS, QGIS
+- **Programming**: Python (GeoPandas, Shapely), R (sf, tmap)
+- **Web Mapping**: Leaflet, Mapbox, ArcGIS Online
+- **Data Visualization**: Tableau, Power BI
+- **Spatial Databases**: PostgreSQL/PostGIS, SQLite

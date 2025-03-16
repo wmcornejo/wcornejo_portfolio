@@ -1,0 +1,57 @@
+---
+title: "Coding Projects"
+---
+
+Here are some of my programming-based projects. I mainly branched out to data-
+analysis related programs for my own research. Most of my work is in Python, 
+Jupyter Notebook, C++, and R.
+
+---
+
+## Featured Project 1: [Project Name]
+
+**Description**: A detailed description of the project. What problem does it solve? What was your role? What challenges did you face, and how did you overcome them?
+
+**Technologies**: Python, Pandas, Matplotlib
+
+**Key Features**:
+- Feature 1: Describe a key feature of the project.
+- Feature 2: Describe another key feature.
+- Feature 3: Highlight something unique or innovative.
+
+**Screenshot**:
+![Project Screenshot](project1-screenshot.png){.rounded .shadow width="600px"}
+
+**Links**:
+- [GitHub Repository](#)
+- [Live Demo](#)
+
+---
+
+## Featured Project 2: [Project Name]
+
+**Description**: A detailed description of the project. What problem does it solve? What was your role? What challenges did you face, and how did you overcome them?
+
+**Technologies**: R, Shiny, Leaflet
+
+**Key Features**:
+- Feature 1: Describe a key feature of the project.
+- Feature 2: Describe another key feature.
+- Feature 3: Highlight something unique or innovative.
+
+**Screenshot**:
+![Project Screenshot](project2-screenshot.png){.rounded .shadow width="600px"}
+
+**Links**:
+- [GitHub Repository](#)
+- [Live Demo](#)
+
+---
+
+## Other Projects
+
+Here are some other projects I’ve worked on:
+
+- **[Project Name]**: Brief description. [GitHub](#)
+- **[Project Name]**: Brief description. [GitHub](#)
+- **[Project Name]**: Brief description. [GitHub](#)
