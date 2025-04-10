@@ -11,8 +11,8 @@ website:
       - about.qmd
       - href: maps.qmd
         text: Maps
-      - href: coding.qmd
-        text: Coding Projects
+      #- href: coding.qmd
+        #text: Coding Projects
       - href: field.qmd
         text: Field Work
 

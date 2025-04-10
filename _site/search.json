@@ -4,7 +4,7 @@
     "href": "maps.html",
     "title": "Maps",
     "section": "",
-    "text": "Here are some of the maps and GIS projects I’ve created. Each project reflects my passion for spatial analysis, cartography, and solving real-world problems using geospatial tools."
+    "text": "Here are some of the maps and spatial analyses I’ve created, focusing on urban planning and public health applications in New York City.\n\n\n\nGrocery Store & Deli Distribution\nDescription:\nNew York City, one of the most populous urban centers in the world, is home to a diverse and bustling population. With so many people constantly on the move—commuting to work, school, —the availability of food sources is essential. With this analysis, I aim to identify food deserts by examining the interplay between poverty rates, median income, and the availability of grocery stores. This project will assess the quality of food resources based on the presence and density of delis and grocery stores. While fast food restaurants are a popular choice for many, delis provide a more affordable and often quicker alternative, offering freshly made meals at lower prices than major fast-food chains. Grocery stores serve as the backbone of food access, supplying residents with everything they need for their weekly meals.\nTools: R\nKey Features: - Identified “food deserts” where the scope is solely grocery stores and delis. Their distribution is related to the poverty rate and median income per MODZCTA\nOutput:\n\n\n\n\n\n\n\n\nQueens Link Impact Study\nDescription:\nThe MTA is a vital mode of transportation for many New Yorkers and a great alternative to cars, especially when there is traffic. However, a closer examination of the subway map shows that only certain areas in Queens and Brooklyn connect multiple subway lines. To address this, QueensLink is a plan to extend the M line along the A line to Far Rockaway. Making use of old LIRR train stations that go through Forest Park, the plan minimizes additional construction and substitutes the popular buses which many residents take to get to the major train stations. I hypothesized that the introduction of new M stations and their integration with existing A stations will lead to a reduction in residents’ commute times.\nTools: R (sf), Google Maps API\nKey Features: - Identified census tracts in south queens with highest commute times to work, before and after new stations\n\nPotential time savings for residents of Ozone Park and Howard Beach.\n\n\n\n\n\n\n311 Call Spatial Analysis\nDescription:\nMapped and analyzed 311 complaint patterns related to housing maintenance issues across Bronx Community Districts.\nTools: ArcGIS Pro\nKey Features: - Small multiple chloropleth maps - Highlights top housing complaints in the Bronx\nOutput:\n{.rounded .width=“500px” .height=“500px” .shadow width=“600px”}"
   },
   {
     "objectID": "about.html",
@@ -101,8 +101,8 @@
     "objectID": "maps.html#tools-i-use",
     "href": "maps.html#tools-i-use",
     "title": "Maps",
-    "section": "Tools I Use",
-    "text": "Tools I Use\nHere are some of the tools and technologies I use for GIS work:\n\nDesktop GIS: ArcGIS, QGIS\nProgramming: Python (GeoPandas, Shapely), R (sf, tmap)\nWeb Mapping: Leaflet, Mapbox, ArcGIS Online\nData Visualization: Tableau, Power BI\nSpatial Databases: PostgreSQL/PostGIS, SQLite"
+    "section": "",
+    "text": "Advanced Spatial Analysis: - Network analysis (Pedestrian sheds, commute routing) - Spatial statistics (Hot spots, cluster detection) - Geoprocessing automation (Python scripts, ModelBuilder)\nTechnical Stack: - Field Data Collection: ArcGIS Field Maps, Fulcrum - Visualization: ArcGIS StoryMaps, Leaflet, Datawrapper - Analysis: R spatial packages, GeoDa, Google Earth Engine"
   },
   {
     "objectID": "maps.html#lets-collaborate",
@@ -130,6 +130,34 @@
     "href": "field.html#park-management-gis-internship",
     "title": "Park Management & Field Work",
     "section": "Park Management & GIS Internship",
-    "text": "Park Management & GIS Internship\nNYC Parks & Recreation\nJuly 2023 - June 2024\n\nOverview\nAs a Park Management Intern, I played a key role in planning and executing park repairs, leading volunteer events, and ensuring the maintenance of public spaces. This internship allowed me to develop leadership and project management skills while contributing to the community.\n\n\nKey Responsibilities\n\nPlanned and supervised park repair projects, including trail maintenance, signage installation, and infrastructure improvements.\nLed volunteer events, recruiting and managing teams of volunteers for park cleanups and restoration projects.\nConducted site assessments to identify areas in need of repair or improvement.\nCollaborated with local organizations and community members to promote park stewardship.\n\n\n\nVolunteer Events\nDuring this internship, I organized and led several volunteer events, including:\n\nPark Cleanups: Coordinated teams to remove litter and maintain park facilities.\nTree Planting: Led volunteers in planting native trees to restore park ecosystems.\nEducational Workshops: Hosted workshops to teach volunteers about park conservation and sustainability.\n\n\nLeading a lawn renovation volunteer event at Tompkins Square Park."
+    "text": "Park Management & GIS Internship\nNYC Parks & Recreation\nJuly 2023 - June 2024\n\nOverview\nAs a Park Management and GIS Intern, I played a key role in planning and executing park repairs, leading volunteer events, and ensuring the maintenance of public spaces. This internship allowed me to develop leadership and project management skills while contributing to the community.\n\n\nKey Responsibilities\n\nPlanned and supervised park repair projects, including trail maintenance, signage installation, and infrastructure improvements.\nLed volunteer events, recruiting and managing teams of volunteers for park cleanups and restoration projects.\nConducted site assessments to identify areas in need of repair or improvement.\nCollaborated with local organizations and community members to promote park stewardship.\n\n\n\nVolunteer Events\nDuring this internship, I organized and led several volunteer events, including:\n\nPark Cleanups: Coordinated teams to remove litter and maintain park facilities.\nTree Planting: Led volunteers in planting native trees to restore park ecosystems.\n\n\nLeading a lawn renovation volunteer event at Tompkins Square Park."
+  },
+  {
+    "objectID": "maps.html#featured-map-1-nyc-food-access-analysis",
+    "href": "maps.html#featured-map-1-nyc-food-access-analysis",
+    "title": "Maps",
+    "section": "",
+    "text": "Grocery Store & Deli Distribution\nDescription:\nNew York City, one of the most populous urban centers in the world, is home to a diverse and bustling population. With so many people constantly on the move—commuting to work, school, —the availability of food sources is essential. With this analysis, I aim to identify food deserts by examining the interplay between poverty rates, median income, and the availability of grocery stores. This project will assess the quality of food resources based on the presence and density of delis and grocery stores. While fast food restaurants are a popular choice for many, delis provide a more affordable and often quicker alternative, offering freshly made meals at lower prices than major fast-food chains. Grocery stores serve as the backbone of food access, supplying residents with everything they need for their weekly meals.\nTools: R\nKey Features: - Identified “food deserts” where the scope is solely grocery stores and delis. Their distribution is related to the poverty rate and median income per MODZCTA\nOutput:"
+  },
+  {
+    "objectID": "maps.html#featured-map-2-south-queens-commute-analysis",
+    "href": "maps.html#featured-map-2-south-queens-commute-analysis",
+    "title": "Maps",
+    "section": "",
+    "text": "Queens Link Impact Study\nDescription:\nThe MTA is a vital mode of transportation for many New Yorkers and a great alternative to cars, especially when there is traffic. However, a closer examination of the subway map shows that only certain areas in Queens and Brooklyn connect multiple subway lines. To address this, QueensLink is a plan to extend the M line along the A line to Far Rockaway. Making use of old LIRR train stations that go through Forest Park, the plan minimizes additional construction and substitutes the popular buses which many residents take to get to the major train stations. I hypothesized that the introduction of new M stations and their integration with existing A stations will lead to a reduction in residents’ commute times.\nTools: R (sf), Google Maps API\nKey Features: - Identified census tracts in south queens with highest commute times to work, before and after new stations\n\nPotential time savings for residents of Ozone Park and Howard Beach."
+  },
+  {
+    "objectID": "maps.html#featured-map-3-bronx-housing-conditions",
+    "href": "maps.html#featured-map-3-bronx-housing-conditions",
+    "title": "Maps",
+    "section": "",
+    "text": "311 Call Spatial Analysis\nDescription:\nMapped and analyzed 311 complaint patterns related to housing maintenance issues across Bronx Community Districts.\nTools: ArcGIS Pro\nKey Features: - Small multiple chloropleth maps - Highlights top housing complaints in the Bronx\nOutput:\n{.rounded .width=“500px” .height=“500px” .shadow width=“600px”}"
+  },
+  {
+    "objectID": "maps.html#analysis-approach",
+    "href": "maps.html#analysis-approach",
+    "title": "Maps",
+    "section": "",
+    "text": "All projects follow my core methodology: 1. Problem Framing - Collaborate with stakeholders to define key questions 2. Data Wrangling - Clean and standardize datasets from multiple sources\n3. Spatial Statistics - Apply appropriate analytical techniques (hot spots, network analysis) 4. Visual Storytelling - Design accessible maps tailored to the audience"
   }
 ]
