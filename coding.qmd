@@ -8,50 +8,22 @@ Jupyter Notebook, C++, and R.
 
 ---
 
-## Featured Project 1: [Project Name]
+## Car Collision Analysis in King County, Washington
 
-**Description**: A detailed description of the project. What problem does it solve? What was your role? What challenges did you face, and how did you overcome them?
+Throughout the United States, a significant portion of the population relies on cars for transportation. The objective of this project is to develop a predictive model capable of assessing the likelihood of a car collision. Its primary aim is to offer the safest possible route to a destination. Ultimately, this initiative aims to enhance road safety, benefiting all drivers, whether they are commuting for work or leisure, and ensuring that they can navigate with increased safety compared to current conditions.
 
-**Technologies**: Python, Pandas, Matplotlib
+
+**Technologies**: Python, Pandas, Matplotlib, sklearn
 
 **Key Features**:
-- Feature 1: Describe a key feature of the project.
-- Feature 2: Describe another key feature.
-- Feature 3: Highlight something unique or innovative.
 
-**Screenshot**:
-![Project Screenshot](project1-screenshot.png){.rounded .shadow width="600px"}
+- Performed exploratory data analysis to clean and interpret data.
+- Applied Logistic Regression and Support Vector Machine models.
+- Severity of a collision is higher when the collision occurs at an intersection.
 
-**Links**:
-- [GitHub Repository](#)
-- [Live Demo](#)
+
+- [GitHub Repository](https://github.com/willm625/Coursera_Capstone)
+
 
 ---
 
-## Featured Project 2: [Project Name]
-
-**Description**: A detailed description of the project. What problem does it solve? What was your role? What challenges did you face, and how did you overcome them?
-
-**Technologies**: R, Shiny, Leaflet
-
-**Key Features**:
-- Feature 1: Describe a key feature of the project.
-- Feature 2: Describe another key feature.
-- Feature 3: Highlight something unique or innovative.
-
-**Screenshot**:
-![Project Screenshot](project2-screenshot.png){.rounded .shadow width="600px"}
-
-**Links**:
-- [GitHub Repository](#)
-- [Live Demo](#)
-
----
-
-## Other Projects
-
-Here are some other projects I’ve worked on:
-
-- **[Project Name]**: Brief description. [GitHub](#)
-- **[Project Name]**: Brief description. [GitHub](#)
-- **[Project Name]**: Brief description. [GitHub](#)

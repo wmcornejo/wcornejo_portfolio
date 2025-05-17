@@ -2,7 +2,14 @@
 title: "About Me"
 ---
 
-I’m passionate about using **GIS** and **programming** to solve real-world problems in public and environmental health. I believe in the power of data and technology to create meaningful change.
+
+What began as a mystery during an undergraduate geography class evolved into something much more. My curiosity about spatial relationships grew as I recognized GIS as the powerful intersection of geography, data science, and technology that shapes our understanding of places and systems. This realization redirected my career toward geospatial data analysis, leading me to:  
+
+- **Field Experience**: Mapping NYC's urban ecosystems with NYC Parks and the Natural Areas Conservancy  
+- **Academic Growth**: Advancing my technical skills through Hunter College's Master's program  
+- **Clean Energy Innovation**: Contributing to national renewable energy solutions at NREL  
+
+GIS has become more than a tool—it's a lens that reveals patterns in our world. From urban parks to national labs, spatial thinking continues to guide my career in a meaningful direction.  
 
 ## My Background
 
@@ -16,17 +23,17 @@ I have a strong foundation in **geospatial analysis**, **data visualization**, a
 
 I’ve worked on a variety of projects, including:
 
+- **Created webmaps** to visualize effects of PM2.5 and Benzene in NYC.
 - **Identified grocery store and deli distributions** to identify food deserts 
 in NYC.
-- **Developing map books** for visualizing drains in Northern Manhattan Parks.
+- **Developing map books** for visualizing drains in Northern Manhattan Parks for NYC Parks & Recreation.
 - **Contributed to IPARC** a web app that keeps track of NYC Park Issues and streamlines
 the process of its fix.
-- **Contributed to UCGIS** a chapter on Object Oriented Programming and GIS.
 - **Leading Volunteer Events** at NYC Manhattan Parks with NYC Cares.
- - **Contributed to a Solar Panel Map of the US** as an intern.
+- **Contributed to UCGIST** a chapter on Object Oriented Programming and GIS.
+ - **Contributed to a Solar Panel Map of the US** as an intern for a Solar consultant company.
+ 
 ## Let’s Connect
-
-I’m always excited to collaborate on new projects or discuss ideas. Feel free to reach out!
 
 - [LinkedIn](https://www.linkedin.com/in/william-m-cornejo-6393001a2/)
 - [GitHub](https://github.com/willm625)

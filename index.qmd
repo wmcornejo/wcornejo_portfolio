@@ -1,21 +1,23 @@
 ---
-title: "Hello!!!"
+title: "Welcome"
 ---
 
-Welcome to my website, here is some work I've done in GIS and programming.
+Welcome to my website, here are some work I've done in GIS and programming.
 My interests are apply GIS and/or programming techniques to public/environmental
 health.
 
 ## Explore
 
-::: grid
-::: g-col-4
+::: {.grid}
+::: {.g-col-4 .bg-card style="background-image: url('pictures/nys_webmap.png')"}
 ### View Maps
 [Click Here](maps.html){.btn .btn-primary}
 :::
-::: g-col-4
+::: {.g-col-4 .bg-card style="background-image: url('pictures/wsc.png')"}
 ### View Programming Projects
 [Click Here](coding.html){.btn .btn-primary}
 :::
 :::
+
+
 

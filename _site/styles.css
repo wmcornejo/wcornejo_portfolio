@@ -21,6 +21,24 @@
   transform: translateY(-10px); 
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); 
 }
+
+.bg-card {
+  background-size: cover;
+  background-position: center;
+  min-height: 200px;
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.bg-card .btn {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0,0,0,0.7);
+  border: none;
+}
 body {
   background-color: #f0f0f0; /* Off-white background */
   color: #333333; /* Dark gray text */

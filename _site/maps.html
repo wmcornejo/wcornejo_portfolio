@@ -101,6 +101,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Maps</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./coding.html"> 
+<span class="menu-text">Coding Projects</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./field.html"> 
 <span class="menu-text">Field Work</span></a>
   </li>  
@@ -120,16 +124,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#gis-projects" id="toc-gis-projects" class="nav-link active" data-scroll-target="#gis-projects">GIS Projects</a>
-  <ul class="collapse">
-  <li><a href="#featured-map-1-nyc-food-access-analysis" id="toc-featured-map-1-nyc-food-access-analysis" class="nav-link" data-scroll-target="#featured-map-1-nyc-food-access-analysis">Featured Map 1: NYC Food Access Analysis</a></li>
-  <li><a href="#gwr" id="toc-gwr" class="nav-link" data-scroll-target="#gwr"><img src="pictures/Rplot.jpeg" class="rounded shadow img-fluid" width="600" alt="GWR"><br>
-  </a></li>
-  <li><a href="#featured-map-2-south-queens-commute-analysis" id="toc-featured-map-2-south-queens-commute-analysis" class="nav-link" data-scroll-target="#featured-map-2-south-queens-commute-analysis">Featured Map 2: South Queens Commute Analysis</a></li>
-  <li><a href="#commute-map" id="toc-commute-map" class="nav-link" data-scroll-target="#commute-map"><img src="pictures/new_commute.png" class="rounded shadow" height="600" alt="Commute Map"><br>
-  </a></li>
-  <li><a href="#featured-map-3-bronx-housing-conditions" id="toc-featured-map-3-bronx-housing-conditions" class="nav-link" data-scroll-target="#featured-map-3-bronx-housing-conditions">Featured Map 3: Bronx Housing Conditions</a></li>
-  </ul></li>
+  <li><a href="#nyc-web-map" id="toc-nyc-web-map" class="nav-link active" data-scroll-target="#nyc-web-map">NYC Web Map</a></li>
+  <li><a href="#nyc-food-access-analysis" id="toc-nyc-food-access-analysis" class="nav-link" data-scroll-target="#nyc-food-access-analysis">NYC Food Access Analysis</a></li>
+  <li><a href="#bronx-housing-conditions" id="toc-bronx-housing-conditions" class="nav-link" data-scroll-target="#bronx-housing-conditions">Bronx Housing Conditions</a></li>
   </ul>
 </nav>
     </div>
@@ -155,52 +152,51 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="gis-projects" class="level1">
-<h1>GIS Projects</h1>
-<p>Here are some of the maps and spatial analyses I’ve created, focusing on urban planning and public health applications in New York City.</p>
+<section id="nyc-web-map" class="level2">
+<h2 class="anchored" data-anchor-id="nyc-web-map">NYC Web Map</h2>
+<p><strong>Mapping Asthma and COPD rates in New York City area</strong></p>
+<p>The relationship between highway traffic and air quality is often overlooked. However, highway traffic can significantly impact air quality, leading to increased levels of pollutants such as nitrogen oxides (NOx), particulate matter (PM), and volatile organic compounds (VOCs). These pollutants can have serious health effects, particularly for vulnerable populations such as children, the elderly, and those with pre-existing respiratory conditions. The health impacts of highway traffic can be particularly pronounced in low-income and minority communities, which are often located near major highways and transportation corridors. These communities may be exposed to higher levels of air pollution, leading to increased rates of respiratory illnesses such as asthma and chronic obstructive pulmonary disease (COPD). This web map allows for users to see the spatial relationships between car density, pollutants, and environmental effects.</p>
+<p>Link -&gt; <a href="https://wmcornejo.github.io/nys_webmap/">https://wmcornejo.github.io/nys_webmap/</a></p>
+<p><img src="pictures/nys_webmap.png" class="rounded shadow img-fluid" width="600" alt="Food Access Map"><br>
+</p>
+<p><strong>Tools</strong>: Leaflet, Javascript, html, css</p>
+<p><strong>Key Features</strong>:</p>
+<ul>
+<li>Six related layers available to toggle.</li>
+<li>Filtering toggles for PM2.5 and Benzene.</li>
+<li>Search functionality for census tracts.</li>
+</ul>
 <hr>
-<section id="featured-map-1-nyc-food-access-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="featured-map-1-nyc-food-access-analysis">Featured Map 1: NYC Food Access Analysis</h2>
+</section>
+<section id="nyc-food-access-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="nyc-food-access-analysis">NYC Food Access Analysis</h2>
 <p><strong>Grocery Store &amp; Deli Distribution</strong></p>
-<p><strong>Description</strong>:<br>
-New York City, one of the most populous urban centers in the world, is home to a diverse and bustling population. With so many people constantly on the move—commuting to work, school, —the availability of food sources is essential. With this analysis, I aim to identify food deserts by examining the interplay between poverty rates, median income, and the availability of grocery stores. This project will assess the quality of food resources based on the presence and density of delis and grocery stores. While fast food restaurants are a popular choice for many, delis provide a more affordable and often quicker alternative, offering freshly made meals at lower prices than major fast-food chains. Grocery stores serve as the backbone of food access, supplying residents with everything they need for their weekly meals.</p>
-<p><strong>Tools</strong>: R</p>
-<p><strong>Key Features</strong>: - Identified “food deserts” where the scope is solely grocery stores and delis. Their distribution is related to the poverty rate and median income per MODZCTA</p>
-<p><strong>Output</strong>:<br>
-<img src="pictures/fac_income.jpeg" class="rounded shadow img-fluid" width="600" alt="Food Access Map"><br>
+<p>New York City, one of the most populous urban centers in the world, is home to a diverse and bustling population. With so many people constantly on the move—commuting to work, school, —the availability of food sources is essential. With this analysis, I aim to identify food deserts by examining the interplay between poverty rates, median income, and the availability of grocery stores. This project will assess the quality of food resources based on the presence and density of delis and grocery stores. While fast food restaurants are a popular choice for many, delis provide a more affordable and often quicker alternative, offering freshly made meals at lower prices than major fast-food chains. Grocery stores serve as the backbone of food access, supplying residents with everything they need for their weekly meals.</p>
+<p><img src="pictures/fac_income.jpeg" class="rounded shadow img-fluid" width="600" alt="Food Access Map"><br>
 </p>
+<p><img src="pictures/Rplot.jpeg" class="rounded shadow img-fluid" width="600" alt="GWR"><br>
+</p>
+<p><strong>Tools</strong>: R, sf</p>
+<p><strong>Key Features</strong>:</p>
+<ul>
+<li>Identified “food deserts” where the scope is solely grocery stores and delis. Their distribution is related to the poverty rate and median income per MODZCTA</li>
+</ul>
+<hr>
 </section>
-<section id="gwr" class="level2">
-<h2 class="anchored" data-anchor-id="gwr"><img src="pictures/Rplot.jpeg" class="rounded shadow img-fluid" width="600" alt="GWR"><br>
-</h2>
-</section>
-<section id="featured-map-2-south-queens-commute-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="featured-map-2-south-queens-commute-analysis">Featured Map 2: South Queens Commute Analysis</h2>
-<p><strong>Queens Link Impact Study</strong></p>
-<p><strong>Description</strong>:<br>
-The MTA is a vital mode of transportation for many New Yorkers and a great alternative to cars, especially when there is traffic. However, a closer examination of the subway map shows that only certain areas in Queens and Brooklyn connect multiple subway lines. To address this, QueensLink is a plan to extend the M line along the A line to Far Rockaway. Making use of old LIRR train stations that go through Forest Park, the plan minimizes additional construction and substitutes the popular buses which many residents take to get to the major train stations. I hypothesized that the introduction of new M stations and their integration with existing A stations will lead to a reduction in residents’ commute times.</p>
-<p><strong>Tools</strong>: R (sf), Google Maps API</p>
-<p><strong>Key Features</strong>: - Identified census tracts in south queens with highest commute times to work, before and after new stations</p>
-<p><img src="pictures/old_commute.png" class="rounded shadow" height="600" alt="Commute Map"><br>
-<em>Potential time savings for residents of Ozone Park and Howard Beach.</em></p>
-</section>
-<section id="commute-map" class="level2">
-<h2 class="anchored" data-anchor-id="commute-map"><img src="pictures/new_commute.png" class="rounded shadow" height="600" alt="Commute Map"><br>
-</h2>
-</section>
-<section id="featured-map-3-bronx-housing-conditions" class="level2">
-<h2 class="anchored" data-anchor-id="featured-map-3-bronx-housing-conditions">Featured Map 3: Bronx Housing Conditions</h2>
+<section id="bronx-housing-conditions" class="level2">
+<h2 class="anchored" data-anchor-id="bronx-housing-conditions">Bronx Housing Conditions</h2>
 <p><strong>311 Call Spatial Analysis</strong></p>
-<p><strong>Description</strong>:<br>
-Mapped and analyzed 311 complaint patterns related to housing maintenance issues across Bronx Community Districts.</p>
-<p><strong>Tools</strong>: ArcGIS Pro</p>
-<p><strong>Key Features</strong>: - Small multiple chloropleth maps - Highlights top housing complaints in the Bronx</p>
-<p><strong>Output</strong>:<br>
-<img src="pictures/Layout1.jpg" class="img-fluid" alt="311 Map">{.rounded .width=“500px” .height=“500px” .shadow width=“600px”}<br>
+<p>Mapped and analyzed 311 complaint patterns related to housing maintenance issues across Bronx Community Districts.</p>
+<p><img src="pictures/Layout1.jpg" class="rounded shadow img-fluid" width="600" alt="311 Map"><br>
 </p>
+<p><strong>Tools</strong>: ArcGIS Pro</p>
+<p><strong>Key Features</strong>:</p>
+<ul>
+<li>Small multiple choropleth maps</li>
+<li>Highlights top housing complaints in the Bronx</li>
+</ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

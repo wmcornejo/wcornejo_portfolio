@@ -4,21 +4,21 @@
     "href": "maps.html",
     "title": "Maps",
     "section": "",
-    "text": "Here are some of the maps and spatial analyses I’ve created, focusing on urban planning and public health applications in New York City.\n\n\n\nGrocery Store & Deli Distribution\nDescription:\nNew York City, one of the most populous urban centers in the world, is home to a diverse and bustling population. With so many people constantly on the move—commuting to work, school, —the availability of food sources is essential. With this analysis, I aim to identify food deserts by examining the interplay between poverty rates, median income, and the availability of grocery stores. This project will assess the quality of food resources based on the presence and density of delis and grocery stores. While fast food restaurants are a popular choice for many, delis provide a more affordable and often quicker alternative, offering freshly made meals at lower prices than major fast-food chains. Grocery stores serve as the backbone of food access, supplying residents with everything they need for their weekly meals.\nTools: R\nKey Features: - Identified “food deserts” where the scope is solely grocery stores and delis. Their distribution is related to the poverty rate and median income per MODZCTA\nOutput:\n\n\n\n\n\n\n\n\nQueens Link Impact Study\nDescription:\nThe MTA is a vital mode of transportation for many New Yorkers and a great alternative to cars, especially when there is traffic. However, a closer examination of the subway map shows that only certain areas in Queens and Brooklyn connect multiple subway lines. To address this, QueensLink is a plan to extend the M line along the A line to Far Rockaway. Making use of old LIRR train stations that go through Forest Park, the plan minimizes additional construction and substitutes the popular buses which many residents take to get to the major train stations. I hypothesized that the introduction of new M stations and their integration with existing A stations will lead to a reduction in residents’ commute times.\nTools: R (sf), Google Maps API\nKey Features: - Identified census tracts in south queens with highest commute times to work, before and after new stations\n\nPotential time savings for residents of Ozone Park and Howard Beach.\n\n\n\n\n\n\n311 Call Spatial Analysis\nDescription:\nMapped and analyzed 311 complaint patterns related to housing maintenance issues across Bronx Community Districts.\nTools: ArcGIS Pro\nKey Features: - Small multiple chloropleth maps - Highlights top housing complaints in the Bronx\nOutput:\n{.rounded .width=“500px” .height=“500px” .shadow width=“600px”}"
+    "text": "Mapping Asthma and COPD rates in New York City area\nThe relationship between highway traffic and air quality is often overlooked. However, highway traffic can significantly impact air quality, leading to increased levels of pollutants such as nitrogen oxides (NOx), particulate matter (PM), and volatile organic compounds (VOCs). These pollutants can have serious health effects, particularly for vulnerable populations such as children, the elderly, and those with pre-existing respiratory conditions. The health impacts of highway traffic can be particularly pronounced in low-income and minority communities, which are often located near major highways and transportation corridors. These communities may be exposed to higher levels of air pollution, leading to increased rates of respiratory illnesses such as asthma and chronic obstructive pulmonary disease (COPD). This web map allows for users to see the spatial relationships between car density, pollutants, and environmental effects.\nLink -&gt; https://wmcornejo.github.io/nys_webmap/\n\n\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nSix related layers available to toggle.\nFiltering toggles for PM2.5 and Benzene.\nSearch functionality for census tracts."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m passionate about using GIS and programming to solve real-world problems in public and environmental health. I believe in the power of data and technology to create meaningful change."
+    "text": "What began as a mystery during an undergraduate geography class evolved into something more. My curiosity about spatial relationships grew as I recognized GIS as the powerful intersection of geography, data science, and technology that shapes our understanding of places and systems. This realization redirected my career toward geospatial data analysis, leading me to:\nGIS has become more than a tool—it’s a lens that reveals patterns in our world. From urban parks to national labs, spatial thinking continues to guide my career in a meaningful direction."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello!!!",
+    "title": "Welcome",
     "section": "",
-    "text": "Welcome to my website, here is some work I’ve done in GIS and programming. My interests are apply GIS and/or programming techniques to public/environmental health."
+    "text": "Welcome to my website, here are some work I’ve done in GIS and programming. My interests are apply GIS and/or programming techniques to public/environmental health."
   },
   {
     "objectID": "about.html#my-background",
@@ -32,19 +32,19 @@
     "href": "about.html#my-work",
     "title": "About Me",
     "section": "My Work",
-    "text": "My Work\nI’ve worked on a variety of projects, including:\n\nIdentified grocery store and deli distributions to identify food deserts in NYC.\nDeveloping map books for visualizing drains in Northern Manhattan Parks.\nContributed to IPARC a web app that keeps track of NYC Park Issues and streamlines the process of its fix.\nContributed to UCGIS a chapter on Object Oriented Programming and GIS.\nLeading Volunteer Events at NYC Manhattan Parks with NYC Cares.\nContributed to a Solar Panel Map of the US as an intern. ## Let’s Connect\n\nI’m always excited to collaborate on new projects or discuss ideas. Feel free to reach out!\n\nLinkedIn\nGitHub"
+    "text": "My Work\nI’ve worked on a variety of projects, including:\n\nCreated webmaps to visualize effects of PM2.5 and Benzene in NYC.\nIdentified grocery store and deli distributions to identify food deserts in NYC.\nDeveloping map books for visualizing drains in Northern Manhattan Parks for NYC Parks & Recreation.\nContributed to IPARC a web app that keeps track of NYC Park Issues and streamlines the process of its fix.\nLeading Volunteer Events at NYC Manhattan Parks with NYC Cares.\nContributed to UCGIST a chapter on Object Oriented Programming and GIS.\nContributed to a Solar Panel Map of the US as an intern for a Solar consultant company."
   },
   {
     "objectID": "about.html#lets-connect",
     "href": "about.html#lets-connect",
     "title": "About Me",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\nI’m always excited to collaborate on new projects or discuss ideas. Feel free to reach out!\n\nLinkedIn\nGitHub"
+    "text": "Let’s Connect\n\nLinkedIn\nGitHub"
   },
   {
     "objectID": "index.html#explore",
     "href": "index.html#explore",
-    "title": "Hello!!!",
+    "title": "Welcome",
     "section": "Explore",
     "text": "Explore\n\n\nView Maps\nClick Here\n\n\nView Programming Projects\nClick Here"
   },
@@ -159,5 +159,40 @@
     "title": "Maps",
     "section": "",
     "text": "All projects follow my core methodology: 1. Problem Framing - Collaborate with stakeholders to define key questions 2. Data Wrangling - Clean and standardize datasets from multiple sources\n3. Spatial Statistics - Apply appropriate analytical techniques (hot spots, network analysis) 4. Visual Storytelling - Design accessible maps tailored to the audience"
+  },
+  {
+    "objectID": "maps.html#mapping-asthma-and-copd-rates-in-new-york-city-area",
+    "href": "maps.html#mapping-asthma-and-copd-rates-in-new-york-city-area",
+    "title": "Maps",
+    "section": "",
+    "text": "Queens Link Impact Study\nDescription:\nThe MTA is a vital mode of transportation for many New Yorkers and a great alternative to cars, especially when there is traffic. However, a closer examination of the subway map shows that only certain areas in Queens and Brooklyn connect multiple subway lines. To address this, QueensLink is a plan to extend the M line along the A line to Far Rockaway. Making use of old LIRR train stations that go through Forest Park, the plan minimizes additional construction and substitutes the popular buses which many residents take to get to the major train stations. I hypothesized that the introduction of new M stations and their integration with existing A stations will lead to a reduction in residents’ commute times.\nTools: R (sf), Google Maps API\nKey Features: - Identified census tracts in south queens with highest commute times to work, before and after new stations"
+  },
+  {
+    "objectID": "maps.html#nyc-food-access-analysis",
+    "href": "maps.html#nyc-food-access-analysis",
+    "title": "Maps",
+    "section": "NYC Food Access Analysis",
+    "text": "NYC Food Access Analysis\nGrocery Store & Deli Distribution\nNew York City, one of the most populous urban centers in the world, is home to a diverse and bustling population. With so many people constantly on the move—commuting to work, school, —the availability of food sources is essential. With this analysis, I aim to identify food deserts by examining the interplay between poverty rates, median income, and the availability of grocery stores. This project will assess the quality of food resources based on the presence and density of delis and grocery stores. While fast food restaurants are a popular choice for many, delis provide a more affordable and often quicker alternative, offering freshly made meals at lower prices than major fast-food chains. Grocery stores serve as the backbone of food access, supplying residents with everything they need for their weekly meals.\n\n\n\n\nTools: R, sf\nKey Features:\n\nIdentified “food deserts” where the scope is solely grocery stores and delis. Their distribution is related to the poverty rate and median income per MODZCTA"
+  },
+  {
+    "objectID": "maps.html#bronx-housing-conditions",
+    "href": "maps.html#bronx-housing-conditions",
+    "title": "Maps",
+    "section": "Bronx Housing Conditions",
+    "text": "Bronx Housing Conditions\n311 Call Spatial Analysis\nMapped and analyzed 311 complaint patterns related to housing maintenance issues across Bronx Community Districts.\n\n\nTools: ArcGIS Pro\nKey Features:\n\nSmall multiple choropleth maps\nHighlights top housing complaints in the Bronx"
+  },
+  {
+    "objectID": "maps.html#nyc-web-map",
+    "href": "maps.html#nyc-web-map",
+    "title": "Maps",
+    "section": "",
+    "text": "Mapping Asthma and COPD rates in New York City area\nThe relationship between highway traffic and air quality is often overlooked. However, highway traffic can significantly impact air quality, leading to increased levels of pollutants such as nitrogen oxides (NOx), particulate matter (PM), and volatile organic compounds (VOCs). These pollutants can have serious health effects, particularly for vulnerable populations such as children, the elderly, and those with pre-existing respiratory conditions. The health impacts of highway traffic can be particularly pronounced in low-income and minority communities, which are often located near major highways and transportation corridors. These communities may be exposed to higher levels of air pollution, leading to increased rates of respiratory illnesses such as asthma and chronic obstructive pulmonary disease (COPD). This web map allows for users to see the spatial relationships between car density, pollutants, and environmental effects.\nLink -&gt; https://wmcornejo.github.io/nys_webmap/\n\n\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nSix related layers available to toggle.\nFiltering toggles for PM2.5 and Benzene.\nSearch functionality for census tracts."
+  },
+  {
+    "objectID": "coding.html#car-collision-analysis-in-king-county-washington",
+    "href": "coding.html#car-collision-analysis-in-king-county-washington",
+    "title": "Coding Projects",
+    "section": "Car Collision Analysis in King County, Washington",
+    "text": "Car Collision Analysis in King County, Washington\nThroughout the United States, a significant portion of the population relies on cars for transportation. The objective of this project is to develop a predictive model capable of assessing the likelihood of a car collision. Its primary aim is to offer the safest possible route to a destination. Ultimately, this initiative aims to enhance road safety, benefiting all drivers, whether they are commuting for work or leisure, and ensuring that they can navigate with increased safety compared to current conditions.\nTechnologies: Python, Pandas, Matplotlib, sklearn\nKey Features:\n\nPerformed exploratory data analysis to clean and interpret data.\nApplied Logistic Regression and Support Vector Machine models.\nSeverity of a collision is higher when the collision occurs at an intersection.\nGitHub Repository"
   }
 ]
