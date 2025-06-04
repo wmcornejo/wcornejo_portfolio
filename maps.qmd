@@ -12,7 +12,7 @@ between car density, pollutants, and environmental effects.
 
 Link -> [https://wmcornejo.github.io/nys_webmap/](https://wmcornejo.github.io/nys_webmap/)
 
-![Food Access Map](pictures/nys_webmap.png){.rounded .shadow width="600px"}\
+![Web Map](pictures/nys_webmap.png){.rounded .shadow width="600px"}\
 
 **Tools**: Leaflet, Javascript, html, css
 
@@ -22,6 +22,27 @@ Link -> [https://wmcornejo.github.io/nys_webmap/](https://wmcornejo.github.io/ny
 - Six related layers available to toggle.
 - Filtering toggles for PM2.5 and Benzene.
 - Search functionality for census tracts.
+
+
+------------------------------------------------------------------------
+
+## Phish Concert Analysis
+
+**Visualizing Phish concert trends over the years**
+
+Phish, one of America’s most iconic Rock bands, is known for their creative and improvisational concerts. Here in NYC, every year during Christmas, tons of tickets sell out for Phish’s 5 day shows at Madison Square Garden. During the early 1990s, the band gained a ton of popularity. This report analyzes Phish’s concert locations during 1990-92, when the band began touring nationally. Using web-scraped data from https://phish.com/tours/, along with spatial techniques in R, I delivered maps showing concert count by state, identified top venues, and tracked tour expansion over the three-year timespan. 
+
+Link -> [https://wmcornejo.github.io/phish/](https://wmcornejo.github.io/phish/)
+
+
+**Tools**: Leaflet, Javascript, html, css
+
+**Key Features**: 
+
+
+- Toggle through years.
+- Get statistics by State (tbd).
+- Search functionality for venues (tbd).
 
 
 ------------------------------------------------------------------------
@@ -44,6 +65,14 @@ New York City, one of the most populous urban centers in the world, is home to a
 
 - Identified "food deserts" where the scope is solely grocery stores and 
 delis. Their distribution is related to the poverty rate and median income per MODZCTA
+
+
+------------------------------------------------------------------------
+
+
+## Mapping Phish Concerts from 1990-92
+
+
 
 
 ------------------------------------------------------------------------

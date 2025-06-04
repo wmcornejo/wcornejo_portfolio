@@ -1,23 +1,95 @@
 ---
-title: "Welcome"
+title: "William Cornejo - GIS Developer & Geospatial Data Scientist"
+subtitle: "Combining Computer Science and Geographic Information Systems to solve environmental and public health challenges"
 ---
 
-Welcome to my website, here are some work I've done in GIS and programming.
-My interests are apply GIS and/or programming techniques to public/environmental
-health.
+## About Me
 
-## Explore
+I'm a GIS Developer with a Computer Science background, currently pursuing my Master's in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.
+
+**Currently:** Geospatial Data Science Intern at the National Renewable Energy Laboratory  
+**Focus Areas:** WebGIS development, spatial data analysis, environmental applications
+
+---
+
+## Featured Work
 
 ::: {.grid}
-::: {.g-col-4 .bg-card style="background-image: url('pictures/nys_webmap.png')"}
-### View Maps
-[Click Here](maps.html){.btn .btn-primary}
-:::
-::: {.g-col-4 .bg-card style="background-image: url('pictures/wsc.png')"}
-### View Programming Projects
-[Click Here](coding.html){.btn .btn-primary}
-:::
+
+::: {.g-col-6 .bg-card style="background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('pictures/nys_webmap.png'); background-size: cover; background-position: center; min-height: 200px; border-radius: 8px; padding: 20px; color: white;"}
+### ️ Interactive Maps & WebGIS
+Explore my collection of web-based mapping applications, from NYC trail systems to renewable energy infrastructure.
+
+[View Maps →](maps.html){.btn .btn-light .btn-sm style="margin-top: 10px;"}
 :::
 
+::: {.g-col-6 .bg-card style="background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('pictures/wsc.png'); background-size: cover; background-position: center; min-height: 200px; border-radius: 8px; padding: 20px; color: white;"}
+###  Programming & Data Analysis
+Python automation, R analysis, and JavaScript applications for geospatial problem-solving.
 
+[View Code Projects →](coding.html){.btn .btn-light .btn-sm style="margin-top: 10px;"}
+:::
+
+:::
+
+---
+
+## Core Expertise
+
+::: {.grid}
+
+::: {.g-col-3}
+**GIS & Mapping**
+- ArcGIS Pro/Online, QGIS
+- WebGIS Development
+- Spatial Analysis
+- Cartographic Design
+:::
+
+::: {.g-col-3}
+**Programming**
+- Python (GDAL, geopandas)
+- R (spatial analysis)
+- JavaScript (Leaflet, D3)
+- SQL & PostGIS
+:::
+
+::: {.g-col-3}
+**Domain Focus**
+- Renewable Energy
+- Environmental Conservation
+- Urban Infrastructure
+- Public Health Applications
+:::
+
+::: {.g-col-3}
+**Tech Stack**
+- Cloud Deployment
+- Docker/Kubernetes
+- Git/GitHub
+- Database Management
+:::
+
+:::
+
+---
+
+## Recent Highlights
+
+- **️ Trail Mapping:** Documented unmapped trail systems at Floyd Bennett Field for NYC Parks
+- **Energy Optimization:** Supporting wind and solar projects at NREL through geospatial analysis  
+- **Infrastructure:** Mapped storm drainage systems across Northern Manhattan parks
+- **Web Applications:** Built interactive mapping tools for NYC spray showers and park issues
+
+---
+
+## Get in Touch
+
+Interested in collaborating or learning more about my work? 
+
+[ wcornejo3000@gmail.com](mailto:wcornejo3000@gmail.com) | [ LinkedIn](https://www.linkedin.com/in/william-m-cornejo-6393001a2) | [ GitHub](https://github.com/willm625)
+
+---
+
+*Currently seeking full-time opportunities in GIS development, geospatial data science, and environmental technology.*
 

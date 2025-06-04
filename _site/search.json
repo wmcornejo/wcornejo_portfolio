@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "What began as a mystery during an undergraduate geography class evolved into something more. My curiosity about spatial relationships grew as I recognized GIS as the powerful intersection of geography, data science, and technology that shapes our understanding of places and systems. This realization redirected my career toward geospatial data analysis, leading me to:\nGIS has become more than a tool—it’s a lens that reveals patterns in our world. From urban parks to national labs, spatial thinking continues to guide my career in a meaningful direction."
+    "text": "What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a powerful lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\n🏙️ Urban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n🎓 Advanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\n⚡ Clean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "",
-    "text": "Welcome to my website, here are some work I’ve done in GIS and programming. My interests are apply GIS and/or programming techniques to public/environmental health."
+    "text": "I’m a GIS Developer with a Computer Science background, currently pursuing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
   },
   {
     "objectID": "about.html#my-background",
@@ -39,7 +39,7 @@
     "href": "about.html#lets-connect",
     "title": "About Me",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\n\nLinkedIn\nGitHub"
+    "text": "Let’s Connect\nI’m always interested in discussing geospatial challenges, collaboration opportunities, or just sharing ideas about the intersection of technology and environmental stewardship.\nGet in touch: - 📧 wcornejo3000@gmail.com - 💼 LinkedIn - 💻 GitHub\nCurrently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges."
   },
   {
     "objectID": "index.html#explore",
@@ -194,5 +194,89 @@
     "title": "Coding Projects",
     "section": "Car Collision Analysis in King County, Washington",
     "text": "Car Collision Analysis in King County, Washington\nThroughout the United States, a significant portion of the population relies on cars for transportation. The objective of this project is to develop a predictive model capable of assessing the likelihood of a car collision. Its primary aim is to offer the safest possible route to a destination. Ultimately, this initiative aims to enhance road safety, benefiting all drivers, whether they are commuting for work or leisure, and ensuring that they can navigate with increased safety compared to current conditions.\nTechnologies: Python, Pandas, Matplotlib, sklearn\nKey Features:\n\nPerformed exploratory data analysis to clean and interpret data.\nApplied Logistic Regression and Support Vector Machine models.\nSeverity of a collision is higher when the collision occurs at an intersection.\nGitHub Repository"
+  },
+  {
+    "objectID": "maps.html#phish-concert-analysis",
+    "href": "maps.html#phish-concert-analysis",
+    "title": "Maps",
+    "section": "Phish Concert Analysis",
+    "text": "Phish Concert Analysis\nVisualizing Phish concert trends over the years\nPhish, one of America’s most iconic Rock bands, is known for their creative and improvisational concerts. Here in NYC, every year during Christmas, tons of tickets sell out for Phish’s 5 day shows at Madison Square Garden. During the early 1990s, the band gained a ton of popularity. This report analyzes Phish’s concert locations during 1990-92, when the band began touring nationally. Using web-scraped data from https://phish.com/tours/, along with spatial techniques in R, I delivered maps showing concert count by state, identified top venues, and tracked tour expansion over the three-year timespan.\nLink -&gt; https://wmcornejo.github.io/phish/\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nToggle through years.\nGet statistics by State (tbd).\nSearch functionality for venues (tbd)."
+  },
+  {
+    "objectID": "maps.html#mapping-phish-concerts-from-1990-92",
+    "href": "maps.html#mapping-phish-concerts-from-1990-92",
+    "title": "Maps",
+    "section": "Mapping Phish Concerts from 1990-92",
+    "text": "Mapping Phish Concerts from 1990-92"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "",
+    "text": "I’m a GIS Developer with a Computer Science background, currently pursuing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "Featured Work",
+    "text": "Featured Work\n\n\n🗺️ Interactive Maps & WebGIS\nExplore my collection of web-based mapping applications, from NYC trail systems to renewable energy infrastructure.\nView Maps →\n\n\n💻 Programming & Data Analysis\nPython automation, R analysis, and JavaScript applications for geospatial problem-solving.\nView Code Projects →"
+  },
+  {
+    "objectID": "index.html#core-expertise",
+    "href": "index.html#core-expertise",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "Core Expertise",
+    "text": "Core Expertise\n\n\n🌍 GIS & Mapping - ArcGIS Pro/Online, QGIS - WebGIS Development - Spatial Analysis - Cartographic Design\n\n\n⚡ Programming - Python (GDAL, geopandas) - R (spatial analysis) - JavaScript (Leaflet, D3) - SQL & PostGIS\n\n\n🔋 Domain Focus - Renewable Energy - Environmental Conservation - Urban Infrastructure - Public Health Applications\n\n\n☁️ Tech Stack - Cloud Deployment - Docker/Kubernetes - Git/GitHub - Database Management"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n🏞️ Trail Mapping: Documented unmapped trail systems at Floyd Bennett Field for NYC Parks\n⚡ Energy Optimization: Supporting wind and solar projects at NREL through geospatial analysis\n\n🚰 Infrastructure: Mapped storm drainage systems across Northern Manhattan parks\n📱 Web Applications: Built interactive mapping tools for NYC spray showers and park issues"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nInterested in collaborating or learning more about my work?\n📧 wcornejo3000@gmail.com | 💼 LinkedIn | 💻 GitHub\n\nCurrently seeking full-time opportunities in GIS development, geospatial data science, and environmental technology."
+  },
+  {
+    "objectID": "about.html#my-journey-into-gis",
+    "href": "about.html#my-journey-into-gis",
+    "title": "About Me",
+    "section": "",
+    "text": "What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a powerful lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\n🏙️ Urban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n🎓 Advanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\n⚡ Clean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes."
+  },
+  {
+    "objectID": "about.html#technical-foundation",
+    "href": "about.html#technical-foundation",
+    "title": "About Me",
+    "section": "Technical Foundation",
+    "text": "Technical Foundation\nCurrent Focus: Geospatial Data Science Intern at NREL, where I develop automated solutions for renewable energy infrastructure optimization.\nEducation: - Master of Science in Geographic Information Systems, Hunter College CUNY (graduating Fall 2025) - Bachelor of Science in Computer Science, Binghamton University SUNY (2022)\nCore Technical Skills: - GIS Platforms: ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise - Programming: Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS) - Specializations: Spatial analysis, cartographic design, web mapping, automated geospatial workflows - Cloud & DevOps: Docker, Kubernetes, Git, database management"
+  },
+  {
+    "objectID": "about.html#impact-projects",
+    "href": "about.html#impact-projects",
+    "title": "About Me",
+    "section": "Impact & Projects",
+    "text": "Impact & Projects\n\nEnvironmental & Public Health\n\nAir Quality Analysis: Created interactive webmaps visualizing PM2.5 and Benzene exposure patterns across NYC neighborhoods\nFood Access Study: Mapped grocery store and deli distributions to identify and analyze food desert patterns in NYC\nConservation Mapping: Documented previously unmapped trail systems at Floyd Bennett Field for NYC Parks\n\n\n\nInfrastructure & Urban Planning\n\nStorm Water Management: Developed comprehensive drainage maps for Northern Manhattan parks, digitizing historical infrastructure data\nIPARC System: Built and enhanced web application for tracking and prioritizing NYC park maintenance issues\nSolar Energy Mapping: Contributed to nationwide solar panel mapping initiative for renewable energy consulting\n\n\n\nResearch & Education\n\nAcademic Contribution: Co-authored chapter on Object-Oriented Programming and GIS for UCGIST publication\nCommunity Leadership: Organized volunteer conservation events with NYC Cares, leading teams of 50+ participants"
+  },
+  {
+    "objectID": "about.html#what-drives-me",
+    "href": "about.html#what-drives-me",
+    "title": "About Me",
+    "section": "What Drives Me",
+    "text": "What Drives Me\nI’m passionate about using technology to solve problems that matter—from climate change and public health to urban sustainability. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.\nCurrent Interests: - Climate resilience and renewable energy optimization - Environmental justice and equitable access to resources\n- Smart city technologies and sustainable urban planning - Open-source geospatial tools and community-driven solutions"
+  },
+  {
+    "objectID": "about.html#beyond-the-code",
+    "href": "about.html#beyond-the-code",
+    "title": "About Me",
+    "section": "Beyond the Code",
+    "text": "Beyond the Code\nWhen I’m not analyzing spatial data or building mapping applications, you’ll find me exploring NYC’s trail systems (often documenting them for conservation efforts), volunteering with environmental organizations, or experimenting with new visualization techniques.\nI believe the best geospatial solutions come from understanding both the technology and the places we’re trying to improve—which is why I spend as much time in the field as I do behind a computer."
   }
 ]

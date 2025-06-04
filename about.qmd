@@ -2,38 +2,82 @@
 title: "About Me"
 ---
 
+## My Journey into GIS
 
-What began as a mystery during an undergraduate geography class evolved into something much more. My curiosity about spatial relationships grew as I recognized GIS as the powerful intersection of geography, data science, and technology that shapes our understanding of places and systems. This realization redirected my career toward geospatial data analysis, leading me to:  
+What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn't just about making maps—it's a powerful lens for understanding spatial relationships and revealing patterns that drive real-world solutions.
 
-- **Field Experience**: Mapping NYC's urban ecosystems with NYC Parks and the Natural Areas Conservancy  
-- **Academic Growth**: Advancing my technical skills through Hunter College's Master's program  
-- **Clean Energy Innovation**: Contributing to national renewable energy solutions at NREL  
+This realization redirected my path from traditional computer science toward geospatial innovation, leading me through:
 
-GIS has become more than a tool—it's a lens that reveals patterns in our world. From urban parks to national labs, spatial thinking continues to guide my career in a meaningful direction.  
+- ** Urban Conservation**: Mapping NYC's ecosystems with Parks & Recreation and the Natural Areas Conservancy
+- ** Advanced Learning**: Developing cutting-edge skills through Hunter College's Master's program in GIS  
+- ** Clean Energy Impact**: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory
 
-## My Background
+Today, I approach every project with the understanding that **spatial thinking reveals solutions**—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.
 
-I have a strong foundation in **geospatial analysis**, **data visualization**, and **programming**. My work focuses on applying these skills to address challenges in public health, environmental sustainability, and urban planning.
+---
 
-- **Education**: Master of Science in Geographic Information Sciences from Hunter College (expected to graduate Spring 2026). Bachelor of Science in Computer Science from Binghamton University.
-- **Skills**: GIS (ArcGIS, QGIS), Python (GDAL, Pandas), R, JavaScript, Data Visualization, Spatial Analysis.
-- **Interests**: Public health, environmental sustainability, transportation systems.
+## Technical Foundation
 
-## My Work
+**Current Focus:** Geospatial Data Science Intern at NREL, where I develop automated solutions for renewable energy infrastructure optimization.
 
-I’ve worked on a variety of projects, including:
+**Education:** 
+- Master of Science in Geographic Information Systems, Hunter College CUNY *(graduating Fall 2025)*
+- Bachelor of Science in Computer Science, Binghamton University SUNY *(2022)*
 
-- **Created webmaps** to visualize effects of PM2.5 and Benzene in NYC.
-- **Identified grocery store and deli distributions** to identify food deserts 
-in NYC.
-- **Developing map books** for visualizing drains in Northern Manhattan Parks for NYC Parks & Recreation.
-- **Contributed to IPARC** a web app that keeps track of NYC Park Issues and streamlines
-the process of its fix.
-- **Leading Volunteer Events** at NYC Manhattan Parks with NYC Cares.
-- **Contributed to UCGIST** a chapter on Object Oriented Programming and GIS.
- - **Contributed to a Solar Panel Map of the US** as an intern for a Solar consultant company.
- 
-## Let’s Connect
+**Core Technical Skills:**
+- **GIS Platforms:** ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise
+- **Programming:** Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS)
+- **Specializations:** Spatial analysis, cartographic design, web mapping, automated geospatial workflows
+- **Cloud & DevOps:** Docker, Kubernetes, Git, database management
 
+---
+
+## Impact & Projects
+
+### Environmental & Public Health
+- **Air Quality Analysis:** Created interactive webmaps visualizing PM2.5 and Benzene exposure patterns across NYC neighborhoods
+- **Food Access Study:** Mapped grocery store and deli distributions to identify and analyze food desert patterns in NYC
+- **Conservation Mapping:** Documented previously unmapped trail systems at Floyd Bennett Field for NYC Parks
+
+### Infrastructure & Urban Planning  
+- **Storm Water Management:** Developed comprehensive drainage maps for Northern Manhattan parks, digitizing historical infrastructure data
+- **IPARC System:** Built and enhanced web application for tracking and prioritizing NYC park maintenance issues
+- **Solar Energy Mapping:** Contributed to nationwide solar panel mapping initiative for renewable energy consulting
+
+### Research & Education
+- **Academic Contribution:** Co-authored chapter on Object-Oriented Programming and GIS for UCGIST publication
+- **Community Leadership:** Organized volunteer conservation events with NYC Cares, leading teams of 50+ participants
+
+---
+
+## What Drives Me
+
+I'm passionate about using technology to solve problems that matter—from climate change and public health to urban sustainability. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.
+
+**Current Interests:**
+
+- Climate resilience and renewable energy optimization
+- Environmental justice and equitable access to resources  
+- Smart city technologies and sustainable urban planning
+- Open-source geospatial tools and community-driven solutions
+
+---
+
+## Beyond the Code
+
+When I'm not analyzing spatial data or building mapping applications, you'll find me exploring NYC's trail systems (often documenting them for conservation efforts), volunteering with environmental organizations, or experimenting with new visualization techniques.
+
+I believe the best geospatial solutions come from understanding both the technology and the places we're trying to improve—which is why I spend as much time in the field as I do behind a computer.
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing geospatial challenges, collaboration opportunities, or just sharing ideas about the intersection of technology and environmental stewardship.
+
+**Get in touch:**
+- [wcornejo3000@gmail.com](mailto:wcornejo3000@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/william-m-cornejo-6393001a2/)
 - [GitHub](https://github.com/willm625)
+
+*Currently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges.*
