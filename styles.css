@@ -40,6 +40,9 @@
   border: none;
 }
 body {
-  background-color: #f0f0f0; /* Off-white background */
+  background-image: url('pictures/background.png');
   color: #333333; /* Dark gray text */
+}
+.navbar {
+  background-color: #e6f0ff; /* Off-white background */
 }

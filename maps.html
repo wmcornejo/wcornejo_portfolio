@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dde8d7229bfee0f8bb5efd37f0f9ae1e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a986a95301e671fce2c6472dffc862a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -128,7 +128,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#nyc-web-map" id="toc-nyc-web-map" class="nav-link active" data-scroll-target="#nyc-web-map">NYC Web Map</a></li>
   <li><a href="#phish-concert-analysis" id="toc-phish-concert-analysis" class="nav-link" data-scroll-target="#phish-concert-analysis">Phish Concert Analysis</a></li>
   <li><a href="#nyc-food-access-analysis" id="toc-nyc-food-access-analysis" class="nav-link" data-scroll-target="#nyc-food-access-analysis">NYC Food Access Analysis</a></li>
-  <li><a href="#mapping-phish-concerts-from-1990-92" id="toc-mapping-phish-concerts-from-1990-92" class="nav-link" data-scroll-target="#mapping-phish-concerts-from-1990-92">Mapping Phish Concerts from 1990-92</a></li>
   <li><a href="#bronx-housing-conditions" id="toc-bronx-housing-conditions" class="nav-link" data-scroll-target="#bronx-housing-conditions">Bronx Housing Conditions</a></li>
   </ul>
 </nav>
@@ -155,13 +154,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><img src="pictures/nys_webmap.png" class="rounded shadow img-fluid" width="600" alt="Web Map"><br>
+</p>
 <section id="nyc-web-map" class="level2">
 <h2 class="anchored" data-anchor-id="nyc-web-map">NYC Web Map</h2>
 <p><strong>Mapping Asthma and COPD rates in New York City area</strong></p>
-<p>The relationship between highway traffic and air quality is often overlooked. However, highway traffic can significantly impact air quality, leading to increased levels of pollutants such as nitrogen oxides (NOx), particulate matter (PM), and volatile organic compounds (VOCs). These pollutants can have serious health effects, particularly for vulnerable populations such as children, the elderly, and those with pre-existing respiratory conditions. The health impacts of highway traffic can be particularly pronounced in low-income and minority communities, which are often located near major highways and transportation corridors. These communities may be exposed to higher levels of air pollution, leading to increased rates of respiratory illnesses such as asthma and chronic obstructive pulmonary disease (COPD). This web map allows for users to see the spatial relationships between car density, pollutants, and environmental effects.</p>
 <p>Link -&gt; <a href="https://wmcornejo.github.io/nys_webmap/">https://wmcornejo.github.io/nys_webmap/</a></p>
-<p><img src="pictures/nys_webmap.png" class="rounded shadow img-fluid" width="600" alt="Web Map"><br>
-</p>
 <p><strong>Tools</strong>: Leaflet, Javascript, html, css</p>
 <p><strong>Key Features</strong>:</p>
 <ul>
@@ -170,46 +168,39 @@ ul.task-list li input[type="checkbox"] {
 <li>Search functionality for census tracts.</li>
 </ul>
 <hr>
+<p><img src="pictures/phish_sc.png" class="rounded shadow img-fluid" width="600" alt="Web Map"><br>
+</p>
 </section>
 <section id="phish-concert-analysis" class="level2">
 <h2 class="anchored" data-anchor-id="phish-concert-analysis">Phish Concert Analysis</h2>
 <p><strong>Visualizing Phish concert trends over the years</strong></p>
-<p>Phish, one of America’s most iconic Rock bands, is known for their creative and improvisational concerts. Here in NYC, every year during Christmas, tons of tickets sell out for Phish’s 5 day shows at Madison Square Garden. During the early 1990s, the band gained a ton of popularity. This report analyzes Phish’s concert locations during 1990-92, when the band began touring nationally. Using web-scraped data from https://phish.com/tours/, along with spatial techniques in R, I delivered maps showing concert count by state, identified top venues, and tracked tour expansion over the three-year timespan.</p>
 <p>Link -&gt; <a href="https://wmcornejo.github.io/phish/">https://wmcornejo.github.io/phish/</a></p>
 <p><strong>Tools</strong>: Leaflet, Javascript, html, css</p>
 <p><strong>Key Features</strong>:</p>
 <ul>
 <li>Toggle through years.</li>
-<li>Get statistics by State (tbd).</li>
-<li>Search functionality for venues (tbd).</li>
+<li>Get statistics by State (upcoming).</li>
+<li>Search functionality for venues (upcoming).</li>
 </ul>
 <hr>
+<p><img src="pictures/fac_income.jpeg" class="rounded shadow img-fluid" width="600" alt="Food Access Map"><br>
+</p>
 </section>
 <section id="nyc-food-access-analysis" class="level2">
 <h2 class="anchored" data-anchor-id="nyc-food-access-analysis">NYC Food Access Analysis</h2>
 <p><strong>Grocery Store &amp; Deli Distribution</strong></p>
-<p>New York City, one of the most populous urban centers in the world, is home to a diverse and bustling population. With so many people constantly on the move—commuting to work, school, —the availability of food sources is essential. With this analysis, I aim to identify food deserts by examining the interplay between poverty rates, median income, and the availability of grocery stores. This project will assess the quality of food resources based on the presence and density of delis and grocery stores. While fast food restaurants are a popular choice for many, delis provide a more affordable and often quicker alternative, offering freshly made meals at lower prices than major fast-food chains. Grocery stores serve as the backbone of food access, supplying residents with everything they need for their weekly meals.</p>
-<p><img src="pictures/fac_income.jpeg" class="rounded shadow img-fluid" width="600" alt="Food Access Map"><br>
-</p>
-<p><img src="pictures/Rplot.jpeg" class="rounded shadow img-fluid" width="600" alt="GWR"><br>
-</p>
 <p><strong>Tools</strong>: R, sf</p>
 <p><strong>Key Features</strong>:</p>
 <ul>
 <li>Identified “food deserts” where the scope is solely grocery stores and delis. Their distribution is related to the poverty rate and median income per MODZCTA</li>
 </ul>
 <hr>
-</section>
-<section id="mapping-phish-concerts-from-1990-92" class="level2">
-<h2 class="anchored" data-anchor-id="mapping-phish-concerts-from-1990-92">Mapping Phish Concerts from 1990-92</h2>
-<hr>
+<p><img src="pictures/Layout1.jpg" class="rounded shadow img-fluid" width="600" alt="311 Map"><br>
+</p>
 </section>
 <section id="bronx-housing-conditions" class="level2">
 <h2 class="anchored" data-anchor-id="bronx-housing-conditions">Bronx Housing Conditions</h2>
 <p><strong>311 Call Spatial Analysis</strong></p>
-<p>Mapped and analyzed 311 complaint patterns related to housing maintenance issues across Bronx Community Districts.</p>
-<p><img src="pictures/Layout1.jpg" class="rounded shadow img-fluid" width="600" alt="311 Map"><br>
-</p>
 <p><strong>Tools</strong>: ArcGIS Pro</p>
 <p><strong>Key Features</strong>:</p>
 <ul>
