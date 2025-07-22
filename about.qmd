@@ -1,19 +1,24 @@
 ---
 title: "About Me"
+format: html
 ---
+
+
 
 ## My Journey into GIS
 
-What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn't just about making maps—it's a powerful lens for understanding spatial relationships and revealing patterns that drive real-world solutions.
+Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn't just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.
 
 This realization redirected my path from traditional computer science toward geospatial innovation, leading me through:
 
-- ** Urban Conservation**: Mapping NYC's ecosystems with Parks & Recreation and the Natural Areas Conservancy
-- ** Advanced Learning**: Developing cutting-edge skills through Hunter College's Master's program in GIS  
-- ** Clean Energy Impact**: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory
+- **Urban Conservation**: Mapping NYC's ecosystems with Parks & Recreation and the Natural Areas Conservancy  
+- **Advanced Learning**: Developing cutting-edge skills through Hunter College's Master's program in GIS  
+- **Clean Energy Impact**: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory
 
 Today, I approach every project with the understanding that **spatial thinking reveals solutions**—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.
 
+
+For a stable version of resume, please click here - [William's Resume](/pictures/William_Cornejo_resume.pdf)
 ---
 
 ## Technical Foundation
@@ -21,10 +26,12 @@ Today, I approach every project with the understanding that **spatial thinking r
 **Current Focus:** Geospatial Data Science Intern at NREL, where I develop automated solutions for renewable energy infrastructure optimization.
 
 **Education:** 
+
 - Master of Science in Geographic Information Systems, Hunter College CUNY *(graduating Fall 2025)*
 - Bachelor of Science in Computer Science, Binghamton University SUNY *(2022)*
 
 **Core Technical Skills:**
+
 - **GIS Platforms:** ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise
 - **Programming:** Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS)
 - **Specializations:** Spatial analysis, cartographic design, web mapping, automated geospatial workflows
@@ -45,14 +52,14 @@ Today, I approach every project with the understanding that **spatial thinking r
 - **Solar Energy Mapping:** Contributed to nationwide solar panel mapping initiative for renewable energy consulting
 
 ### Research & Education
-- **Academic Contribution:** Co-authored chapter on Object-Oriented Programming and GIS for UCGIST publication
+- **Academic Contribution:** Authored chapter on Object-Oriented Programming and GIS for UCGIST Body of Knowledge publication    [Read Here!](https://gistbok-topics.ucgis.org/PD-01-021)
 - **Community Leadership:** Organized volunteer conservation events with NYC Cares, leading teams of 50+ participants
 
 ---
 
 ## What Drives Me
 
-I'm passionate about using technology to solve problems that matter—from climate change and public health to urban sustainability. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.
+I'm passionate about using technology to solve problems related to climate change, public health and urban sustainability. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.
 
 **Current Interests:**
 
@@ -65,7 +72,7 @@ I'm passionate about using technology to solve problems that matter—from clima
 
 ## Beyond the Code
 
-When I'm not analyzing spatial data or building mapping applications, you'll find me exploring NYC's trail systems (often documenting them for conservation efforts), volunteering with environmental organizations, or experimenting with new visualization techniques.
+When I'm not analyzing spatial data or building mapping applications, you'll find me exploring NYC's trail systems, volunteering with at Forest Park, biking, or taking pictures.
 
 I believe the best geospatial solutions come from understanding both the technology and the places we're trying to improve—which is why I spend as much time in the field as I do behind a computer.
 
@@ -76,8 +83,9 @@ I believe the best geospatial solutions come from understanding both the technol
 I'm always interested in discussing geospatial challenges, collaboration opportunities, or just sharing ideas about the intersection of technology and environmental stewardship.
 
 **Get in touch:**
+
 - [wcornejo3000@gmail.com](mailto:wcornejo3000@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/william-m-cornejo-6393001a2/)
-- [GitHub](https://github.com/willm625)
+- [GitHub](https://github.com/wmcornejo)
 
 *Currently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges.*

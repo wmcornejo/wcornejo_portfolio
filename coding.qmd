@@ -27,3 +27,19 @@ Throughout the United States, a significant portion of the population relies on 
 
 ---
 
+## Customer Account Microservice
+
+A secure RESTful API built using Test-Driven Development principles that enables full CRUD operations for user account management. Developed following Agile methodology with comprehensive user stories and sprint planning, this containerized microservice features enterprise-grade security implementations including Flask-Talisman security headers and Flask-CORS policies. The project demonstrates modern DevOps practices through automated GitHub Actions workflows for continuous integration, Docker containerization for scalability, and Kubernetes deployment for production readiness. Complete with automated testing achieving 95%+ coverage and Tekton pipeline integration, this microservice showcases end-to-end software engineering capabilities from planning through deployment.
+
+**Technologies**: Docker, Kubernentes, Tekton, Github Actions, Zenhub, Python, Flask
+
+**Key Features**:
+
+- Developed Agile plan to create RESTful microservice supporting 4 CRUD operations for user.
+- Managed development using Github and Zenhub, completing 25+ user stories in 3 sprints.
+- Created Docker image and deployed microservice to Kubernetes cluster serving 900+ users.
+- Automated work pipeline using Tekton, reducing time from 30 minutes to 3 minutes.
+
+
+- [GitHub Repository](https://github.com/willm625/devops-capstone-project)
+

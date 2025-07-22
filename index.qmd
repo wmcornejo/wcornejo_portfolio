@@ -3,7 +3,7 @@ title: "William Cornejo - GIS Developer & Geospatial Data Scientist"
 subtitle: "Combining Computer Science and Geographic Information Systems to solve environmental and public health challenges"
 ---
 
-## About Me
+## Hello!
 
 I'm a GIS Developer with a Computer Science background, currently pursuing my Master's in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.
 
@@ -76,7 +76,7 @@ Python automation, R analysis, and JavaScript applications for geospatial proble
 
 ## Recent Highlights
 
-- **️ Trail Mapping:** Documented unmapped trail systems at Floyd Bennett Field for NYC Parks
+- **Trail Mapping:** Documented unmapped trail systems at Floyd Bennett Field for NYC Parks
 - **Energy Optimization:** Supporting wind and solar projects at NREL through geospatial analysis  
 - **Infrastructure:** Mapped storm drainage systems across Northern Manhattan parks
 - **Web Applications:** Built interactive mapping tools for NYC spray showers and park issues
