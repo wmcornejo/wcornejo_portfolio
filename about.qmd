@@ -18,7 +18,15 @@ This realization redirected my path from traditional computer science toward geo
 Today, I approach every project with the understanding that **spatial thinking reveals solutions**—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.
 
 
+
 For a stable version of resume, please click here - [William's Resume](/pictures/William_Cornejo_resume.pdf)
+
+I recently presented my work at a GIS user conference - check it out below!
+
+  
+<iframe src="https://storymaps.arcgis.com/stories/0719c4f302b54785a65d5405df45df11" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+
+
 ---
 
 ## Technical Foundation
