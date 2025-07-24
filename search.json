@@ -46,21 +46,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes."
+    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume\nI recently presented my work at a GIS user conference - check it out below!"
   },
   {
     "objectID": "about.html#my-journey-into-gis",
     "href": "about.html#my-journey-into-gis",
     "title": "About Me",
     "section": "",
-    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes."
-  },
-  {
-    "objectID": "about.html#for-a-stable-version-of-resume-please-click-here---williams-resume",
-    "href": "about.html#for-a-stable-version-of-resume-please-click-here---williams-resume",
-    "title": "About Me",
-    "section": "For a stable version of resume, please click here - William’s Resume",
-    "text": "For a stable version of resume, please click here - William’s Resume"
+    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume\nI recently presented my work at a GIS user conference - check it out below!"
   },
   {
     "objectID": "about.html#technical-foundation",
@@ -140,6 +133,13 @@
     "text": "I’m a GIS Developer with a Computer Science background, currently pursuing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
   },
   {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\nPresentation at ESRI User Conference 2025: Check out my presentation on IPARC, a way to use FieldMaps to streamline park issues Slides are here\n\n\n\n\nOOP Chapter Publication: I recently contributed a chapter to the UCGIST Body of Knowledge Read Here!\nTrail Mapping: Documented unmapped trail systems at Floyd Bennett Field for NYC Parks\nEnergy Optimization: Supporting wind and solar projects at NREL through geospatial analysis"
+  },
+  {
     "objectID": "index.html#featured-work",
     "href": "index.html#featured-work",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
@@ -152,13 +152,6 @@
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "Core Expertise",
     "text": "Core Expertise\n\n\nGIS & Mapping - ArcGIS Pro/Online, QGIS - WebGIS Development - Spatial Analysis - Cartographic Design\n\n\nProgramming - Python (GDAL, geopandas) - R (spatial analysis) - JavaScript (Leaflet, D3) - SQL & PostGIS\n\n\nDomain Focus - Renewable Energy - Environmental Conservation - Urban Infrastructure - Public Health Applications\n\n\nTech Stack - Cloud Deployment - Docker/Kubernetes - Git/GitHub - Database Management"
-  },
-  {
-    "objectID": "index.html#recent-highlights",
-    "href": "index.html#recent-highlights",
-    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
-    "section": "Recent Highlights",
-    "text": "Recent Highlights\n\nTrail Mapping: Documented unmapped trail systems at Floyd Bennett Field for NYC Parks\nEnergy Optimization: Supporting wind and solar projects at NREL through geospatial analysis\n\nInfrastructure: Mapped storm drainage systems across Northern Manhattan parks\nWeb Applications: Built interactive mapping tools for NYC spray showers and park issues"
   },
   {
     "objectID": "index.html#get-in-touch",
