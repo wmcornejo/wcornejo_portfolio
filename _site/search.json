@@ -4,14 +4,14 @@
     "href": "maps.html",
     "title": "Maps",
     "section": "",
-    "text": "Mapping Asthma and COPD rates in New York City area\nThe relationship between highway traffic and air quality is often overlooked. However, highway traffic can significantly impact air quality, leading to increased levels of pollutants such as nitrogen oxides (NOx), particulate matter (PM), and volatile organic compounds (VOCs). These pollutants can have serious health effects, particularly for vulnerable populations such as children, the elderly, and those with pre-existing respiratory conditions. The health impacts of highway traffic can be particularly pronounced in low-income and minority communities, which are often located near major highways and transportation corridors. These communities may be exposed to higher levels of air pollution, leading to increased rates of respiratory illnesses such as asthma and chronic obstructive pulmonary disease (COPD). This web map allows for users to see the spatial relationships between car density, pollutants, and environmental effects.\nLink -&gt; https://wmcornejo.github.io/nys_webmap/\n\n\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nSix related layers available to toggle.\nFiltering toggles for PM2.5 and Benzene.\nSearch functionality for census tracts."
+    "text": "## San Diego Transit Equity Analysis\nVisualizing census tracts on San Diego that do not benefit from public transit (2023)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume\nI recently presented my work at a GIS user conference - check it out below!"
+    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume"
   },
   {
     "objectID": "index.html",
@@ -39,7 +39,7 @@
     "href": "about.html#lets-connect",
     "title": "About Me",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\nI’m always interested in discussing geospatial challenges, collaboration opportunities, or just sharing ideas about the intersection of technology and environmental stewardship.\nGet in touch:\n\nwcornejo3000@gmail.com\nLinkedIn\nGitHub\n\nCurrently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges."
+    "text": "Let’s Connect\nI’m always interested in discussing geospatial challenges, collaboration opportunities, or just sharing ideas about the intersection of technology and environmental stewardship.\nGet in touch:\n\nwilliam.m.cornejo@gmail.com\nLinkedIn\nGitHub\n\nCurrently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges."
   },
   {
     "objectID": "index.html#explore",
@@ -242,14 +242,14 @@
     "href": "index.html#get-in-touch",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "Get in Touch",
-    "text": "Get in Touch\nInterested in collaborating or learning more about my work?\nwcornejo3000@gmail.com | LinkedIn | GitHub\n\nCurrently seeking full-time opportunities in GIS development, geospatial data science, and environmental technology."
+    "text": "Get in Touch\nInterested in collaborating or learning more about my work?\nwilliam.m.cornejo@gmail.com | LinkedIn | GitHub\n\nCurrently seeking full-time opportunities in GIS development, geospatial data science, and environmental technology."
   },
   {
     "objectID": "about.html#my-journey-into-gis",
     "href": "about.html#my-journey-into-gis",
     "title": "About Me",
     "section": "",
-    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume\nI recently presented my work at a GIS user conference - check it out below!"
+    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping NYC’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume"
   },
   {
     "objectID": "about.html#technical-foundation",
@@ -292,5 +292,12 @@
     "title": "Coding Projects",
     "section": "Customer Account Microservice",
     "text": "Customer Account Microservice\nA secure RESTful API built using Test-Driven Development principles that enables full CRUD operations for user account management. Developed following Agile methodology with comprehensive user stories and sprint planning, this containerized microservice features enterprise-grade security implementations including Flask-Talisman security headers and Flask-CORS policies. The project demonstrates modern DevOps practices through automated GitHub Actions workflows for continuous integration, Docker containerization for scalability, and Kubernetes deployment for production readiness. Complete with automated testing achieving 95%+ coverage and Tekton pipeline integration, this microservice showcases end-to-end software engineering capabilities from planning through deployment.\nTechnologies: Docker, Kubernentes, Tekton, Github Actions, Zenhub, Python, Flask\nKey Features:\n\nDeveloped Agile plan to create RESTful microservice supporting 4 CRUD operations for user.\nManaged development using Github and Zenhub, completing 25+ user stories in 3 sprints.\nCreated Docker image and deployed microservice to Kubernetes cluster serving 900+ users.\nAutomated work pipeline using Tekton, reducing time from 30 minutes to 3 minutes.\nGitHub Repository"
+  },
+  {
+    "objectID": "maps.html#san-diego-transit-equity-analysis",
+    "href": "maps.html#san-diego-transit-equity-analysis",
+    "title": "Maps",
+    "section": "San Diego Transit Equity Analysis",
+    "text": "San Diego Transit Equity Analysis\nVisualizing census tracts on San Diego that do not benefit from public transit (2023)\nLink -&gt; https://wmcornejo.github.io/sdiego_transit/\nTools: Mapbox, Vue, Javascript, html, css\nKey Features:\n\nVisualizes long travel times for residents living far from metropolitan areas.\nLinks median income with transit station availability.\nProvides policy makers with a visual on what areas are deprived of transit access."
   }
 ]

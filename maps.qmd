@@ -3,24 +3,40 @@ title: "Maps"
 ---
 
 
+![Web Map](pictures/s_diego.png){.rounded .shadow width="600px"}\
+
+## San Diego Transit Equity Analysis
+
+**Visualizing census tracts on San Diego that do not benefit from public transit (2023)**
+
+
+Link -\> <https://wmcornejo.github.io/sdiego_transit/>
+
+**Tools**: Mapbox, Vue, Javascript, html, css
+
+**Key Features**:
+
+- Visualizes long travel times for residents living far from metropolitan areas.
+- Links median income with transit station availability.
+- Provides policy makers with a visual on what areas are deprived of transit access.
+
+------------------------------------------------------------------------
+
 ![Web Map](pictures/nys_webmap.png){.rounded .shadow width="600px"}\
 
 ## NYC Web Map
 
 **Mapping Asthma and COPD rates in New York City area**
 
-
-Link -> [https://wmcornejo.github.io/nys_webmap/](https://wmcornejo.github.io/nys_webmap/)
+Link -\> <https://wmcornejo.github.io/nys_webmap/>
 
 **Tools**: Leaflet, Javascript, html, css
 
-**Key Features**: 
+**Key Features**:
 
-
-- Six related layers available to toggle.
-- Filtering toggles for PM2.5 and Benzene.
-- Search functionality for census tracts.
-
+-   Six related layers available to toggle.
+-   Filtering toggles for PM2.5 and Benzene.
+-   Search functionality for census tracts.
 
 ------------------------------------------------------------------------
 
@@ -30,20 +46,15 @@ Link -> [https://wmcornejo.github.io/nys_webmap/](https://wmcornejo.github.io/ny
 
 **Visualizing Phish concert trends over the years**
 
-
-
-Link -> [https://wmcornejo.github.io/phish/](https://wmcornejo.github.io/phish/)
-
+Link -\> <https://wmcornejo.github.io/phish/>
 
 **Tools**: Leaflet, Javascript, html, css
 
-**Key Features**: 
+**Key Features**:
 
-
-- Toggle through years.
-- Get statistics by State (upcoming).
-- Search functionality for venues (upcoming).
-
+-   Toggle through years.
+-   Get statistics by State (upcoming).
+-   Search functionality for venues (upcoming).
 
 ------------------------------------------------------------------------
 
@@ -57,9 +68,7 @@ Link -> [https://wmcornejo.github.io/phish/](https://wmcornejo.github.io/phish/)
 
 **Key Features**:
 
-
-- Identified "food deserts" where the scope is solely grocery stores and 
-delis. Their distribution is related to the poverty rate and median income per MODZCTA
+-   Identified "food deserts" where the scope is solely grocery stores and delis. Their distribution is related to the poverty rate and median income per MODZCTA
 
 ------------------------------------------------------------------------
 
@@ -71,11 +80,7 @@ delis. Their distribution is related to the poverty rate and median income per M
 
 **Tools**: ArcGIS Pro
 
-**Key Features**: 
+**Key Features**:
 
-- Small multiple choropleth maps 
-- Highlights top housing complaints in the Bronx
-
-
-
-
+-   Small multiple choropleth maps
+-   Highlights top housing complaints in the Bronx
