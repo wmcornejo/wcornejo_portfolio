@@ -3,12 +3,9 @@ title: "Bronx Housing Conditions"
 format: html
 ---
 
-
 **311 Call Spatial Analysis**
 
-
 ![311 Map](../pictures/Layout1.jpg){.rounded .shadow width="800px"}\
-
 
 **Tools**: ArcGIS Pro
 

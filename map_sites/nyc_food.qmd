@@ -3,13 +3,9 @@ title: "NYC Food Access Analysis"
 format: html
 ---
 
-
 **Grocery Store & Deli Distribution**
 
-
-
 ![Food Access Map](../pictures/fac_income.jpeg){.rounded .shadow width="800px"}\
-
 
 **Grocery Store & Deli Distribution**
 
@@ -17,5 +13,5 @@ format: html
 
 **Key Features**:
 
--   Identified "food deserts" where the scope is solely grocery stores and delis. 
+-   Identified "food deserts" where the scope is solely grocery stores and delis.
 -   Their distribution is related to the poverty rate and median income per MODZCTA.
