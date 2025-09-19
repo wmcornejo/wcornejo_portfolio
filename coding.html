@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4df3b0c4fafa0f66eafcead0ee6cff11.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1713c1db1ad41a796903378fc9ac7b2b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">William Cornejo’s Portfolio</span>
     </a>
@@ -125,7 +128,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#car-collision-analysis-in-king-county-washington" id="toc-car-collision-analysis-in-king-county-washington" class="nav-link active" data-scroll-target="#car-collision-analysis-in-king-county-washington">Car Collision Analysis in King County, Washington</a></li>
+  <li><a href="#tree-count-analysis-in-nyc" id="toc-tree-count-analysis-in-nyc" class="nav-link active" data-scroll-target="#tree-count-analysis-in-nyc">Tree Count Analysis in NYC</a></li>
+  <li><a href="#car-collision-analysis-in-king-county-washington" id="toc-car-collision-analysis-in-king-county-washington" class="nav-link" data-scroll-target="#car-collision-analysis-in-king-county-washington">Car Collision Analysis in King County, Washington</a></li>
   <li><a href="#customer-account-microservice" id="toc-customer-account-microservice" class="nav-link" data-scroll-target="#customer-account-microservice">Customer Account Microservice</a></li>
   </ul>
 </nav>
@@ -154,6 +158,18 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Here are some of my programming-based projects. I mainly branched out to data- analysis related programs for my own research. Most of my work is in Python, Jupyter Notebook, C++, and R.</p>
 <hr>
+<section id="tree-count-analysis-in-nyc" class="level2">
+<h2 class="anchored" data-anchor-id="tree-count-analysis-in-nyc">Tree Count Analysis in NYC</h2>
+<p><strong>Technologies</strong>: Python, Pandas, scikit, Linear Regression</p>
+<p><strong>Key Features</strong>:</p>
+<ul>
+<li><p>Performed exploratory data analysis to clean and interpret data.</p></li>
+<li><p>Applied Logistic Regression and Support Vector Machine models.</p></li>
+<li><p>Severity of a collision is higher when the collision occurs at an intersection.</p></li>
+<li><p><a href="https://www.kaggle.com/code/williamcornejo/evaluating-and-predicting-tree-health-in-nyc">Kaggle Link</a></p></li>
+</ul>
+<hr>
+</section>
 <section id="car-collision-analysis-in-king-county-washington" class="level2">
 <h2 class="anchored" data-anchor-id="car-collision-analysis-in-king-county-washington">Car Collision Analysis in King County, Washington</h2>
 <p>Throughout the United States, a significant portion of the population relies on cars for transportation. The objective of this project is to develop a predictive model capable of assessing the likelihood of a car collision. Its primary aim is to offer the safest possible route to a destination. Ultimately, this initiative aims to enhance road safety, benefiting all drivers, whether they are commuting for work or leisure, and ensuring that they can navigate with increased safety compared to current conditions.</p>
@@ -169,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="customer-account-microservice" class="level2">
 <h2 class="anchored" data-anchor-id="customer-account-microservice">Customer Account Microservice</h2>
-<p>A secure RESTful API built using Test-Driven Development principles that enables full CRUD operations for user account management. Developed following Agile methodology with comprehensive user stories and sprint planning, this containerized microservice features enterprise-grade security implementations including Flask-Talisman security headers and Flask-CORS policies. The project demonstrates modern DevOps practices through automated GitHub Actions workflows for continuous integration, Docker containerization for scalability, and Kubernetes deployment for production readiness. Complete with automated testing achieving 95%+ coverage and Tekton pipeline integration, this microservice showcases end-to-end software engineering capabilities from planning through deployment.</p>
+<p>This project is a secure RESTful API built using Test-Driven Development (TDD) principles, enabling full CRUD operations for user account management. Developed using Agile methodology, it features well-defined user stories and sprint planning. The API is containerized and designed as a microservice with enterprise-level security, including Flask-Talisman headers and Flask-CORS policies. It incorporates modern DevOps practices, such as automated GitHub Actions for continuous integration, Docker for scalability, and Kubernetes for production deployment. With automated tests achieving over 95% coverage and Tekton pipeline integration, this microservice demonstrates end-to-end software engineering, from planning to deployment.</p>
 <p><strong>Technologies</strong>: Docker, Kubernentes, Tekton, Github Actions, Zenhub, Python, Flask</p>
 <p><strong>Key Features</strong>:</p>
 <ul>
@@ -235,13 +251,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

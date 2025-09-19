@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4df3b0c4fafa0f66eafcead0ee6cff11.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1713c1db1ad41a796903378fc9ac7b2b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">William Cornejo’s Portfolio</span>
     </a>
@@ -166,14 +169,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.</p>
 <p>This realization redirected my path from traditional computer science toward geospatial innovation, leading me through:</p>
 <ul>
-<li><strong>Urban Conservation</strong>: Mapping NYC’s ecosystems with Parks &amp; Recreation and the Natural Areas Conservancy<br>
+<li><strong>Urban Conservation</strong>: Mapping New York City’s ecosystems with Parks &amp; Recreation and the Natural Areas Conservancy<br>
 </li>
 <li><strong>Advanced Learning</strong>: Developing cutting-edge skills through Hunter College’s Master’s program in GIS<br>
 </li>
 <li><strong>Clean Energy Impact</strong>: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory</li>
 </ul>
 <p>Today, I approach every project with the understanding that <strong>spatial thinking reveals solutions</strong>—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.</p>
-<p>For a stable version of resume, please click here - <a href="./pictures/William_Cornejo_resume.pdf">William’s Resume</a></p>
+<p>For a stable version of resume, please click here - <a href="./pictures/William_Cornejo_resume.pdf" target="_blank">William’s Resume</a></p>
 <hr>
 </section>
 <section id="technical-foundation" class="level2">
@@ -214,7 +217,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="research-education" class="level3">
 <h3 class="anchored" data-anchor-id="research-education">Research &amp; Education</h3>
 <ul>
-<li><strong>Academic Contribution:</strong> Authored chapter on Object-Oriented Programming and GIS for UCGIST Body of Knowledge publication <a href="https://gistbok-topics.ucgis.org/PD-01-021">Read Here!</a></li>
+<li><strong>Academic Contribution:</strong> Authored <strong>the first</strong> chapter on Object-Oriented Programming and GIS for UCGIST Body of Knowledge publication <a href="https://gistbok-topics.ucgis.org/PD-01-021" target="_blank">Read here!</a></li>
 <li><strong>Community Leadership:</strong> Organized volunteer conservation events with NYC Cares, leading teams of 50+ participants</li>
 </ul>
 <hr>
@@ -245,8 +248,8 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Get in touch:</strong></p>
 <ul>
 <li><a href="mailto:william.m.cornejo@gmail.com">william.m.cornejo@gmail.com</a></li>
-<li><a href="https://www.linkedin.com/in/william-m-cornejo-6393001a2/">LinkedIn</a></li>
-<li><a href="https://github.com/wmcornejo">GitHub</a></li>
+<li><a href="https://www.linkedin.com/in/william-m-cornejo-6393001a2/" target="_blank">LinkedIn</a></li>
+<li><a href="https://github.com/wmcornejo" target="_blank">GitHub</a></li>
 </ul>
 <p><em>Currently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges.</em></p>
 
@@ -305,13 +308,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
