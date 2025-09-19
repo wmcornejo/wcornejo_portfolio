@@ -1,86 +1,76 @@
 ---
 title: "Maps"
+format: html
 ---
 
 
-![Web Map](pictures/s_diego.png){.rounded .shadow width="600px"}\
 
-## San Diego Transit Equity Analysis
+```{=html}
+<div class="container">
+  <div class="my_row">
+    
+    <div class="col-md-4">
+      <div class="card">
+        <a href="map_sites/sdiego.html">
+          <img class="card-img-top" src="pictures/s_diego.png" alt="San Diego Transit map" loading="lazy">
+        </a>
+        <div class="card-body">
+          <h4 class="card-title">San Diego Transit Equity Map</h4>
+          <a href="map_sites/sdiego.qmd" class="btn btn-primary">View Map</a>
+        </div>
+      </div>
+    </div>
 
-**Visualizing census tracts on San Diego that do not benefit from public transit (2023)**
+    <div class="col-md-4">
+      <div class="card">
+        <a href="map_sites/nyswebmap.qmd">
+          <img class="card-img-top" src="pictures/nys_webmap.png" alt="Mapping Health Concerns in NYC" loading="lazy">
+        </a>
+        <div class="card-body">
+          <h4 class="card-title">NYC Health Concern Web Map</h4>
+          <a href="map_sites/nyswebmap.qmd" class="btn btn-primary">View Map</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-md-4">
+      <div class="card">
+        <a href="map_sites/phish.qmd">
+          <img class="card-img-top" src="pictures/phish_sc.png" alt="Phish Concert Analysis" loading="lazy">
+        </a>
+        <div class="card-body">
+          <h4 class="card-title">Phish Concert Analysis</h4>
+          <a href="map_sites/phish.qmd" class="btn btn-primary">View Map</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-md-4">
+      <div class="card">
+        <a href="map_sites/nyc_food.qmd">
+          <img class="card-img-top" src="pictures/fac_income.jpeg" alt="NYC Food Access Analysis" loading="lazy">
+        </a>
+        <div class="card-body">
+          <h4 class="card-title">NYC Food Access Analysis</h4>
+          <a href="map_sites/nyc_food.qmd" class="btn btn-primary">View Map</a>
+        </div>
+      </div>
+    </div>
+ 
+    <div class="col-md-4">
+      <div class="card">
+        <a href="map_sites/bronx.qmd">
+          <img class="card-img-top" src="pictures/Layout1.jpg" alt="Bronx Housing Conditions" loading="lazy">
+        </a>
+        <div class="card-body">
+          <h4 class="card-title">Bronx Housing Conditions</h4>
+          <a href="map_sites/bronx.qmd" class="btn btn-primary">View Map</a>
+        </div>
+      </div>
+    </div>  
+
+  </div>
+</div>
+```
 
 
-Link -\> <https://wmcornejo.github.io/sdiego_transit/>
-
-**Tools**: Mapbox, Vue, Javascript, html, css
-
-**Key Features**:
-
-- Visualizes long travel times for residents living far from metropolitan areas.
-- Links median income with transit station availability.
-- Provides policy makers with a visual on what areas are deprived of transit access.
-
-------------------------------------------------------------------------
-
-![Web Map](pictures/nys_webmap.png){.rounded .shadow width="600px"}\
-
-## NYC Web Map
-
-**Mapping Asthma and COPD rates in New York City area**
-
-Link -\> <https://wmcornejo.github.io/nys_webmap/>
-
-**Tools**: Leaflet, Javascript, html, css
-
-**Key Features**:
-
--   Six related layers available to toggle.
--   Filtering toggles for PM2.5 and Benzene.
--   Search functionality for census tracts.
-
-------------------------------------------------------------------------
-
-![Web Map](pictures/phish_sc.png){.rounded .shadow width="600px"}\
-
-## Phish Concert Analysis
-
-**Visualizing Phish concert trends over the years**
-
-Link -\> <https://wmcornejo.github.io/phish/>
-
-**Tools**: Leaflet, Javascript, html, css
-
-**Key Features**:
-
--   Toggle through years.
--   Get statistics by State (upcoming).
--   Search functionality for venues (upcoming).
-
-------------------------------------------------------------------------
-
-![Food Access Map](pictures/fac_income.jpeg){.rounded .shadow width="600px"}\
-
-## NYC Food Access Analysis
-
-**Grocery Store & Deli Distribution**
-
-**Tools**: R, sf
-
-**Key Features**:
-
--   Identified "food deserts" where the scope is solely grocery stores and delis. Their distribution is related to the poverty rate and median income per MODZCTA
-
-------------------------------------------------------------------------
-
-![311 Map](pictures/Layout1.jpg){.rounded .shadow width="600px"}\
-
-## Bronx Housing Conditions
-
-**311 Call Spatial Analysis**
-
-**Tools**: ArcGIS Pro
-
-**Key Features**:
-
--   Small multiple choropleth maps
--   Highlights top housing complaints in the Bronx

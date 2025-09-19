@@ -1,0 +1,23 @@
+---
+title: "San Diego Transit Equity Map"
+format: html
+---
+
+
+**Visualizing census tracts on San Diego that do not benefit from public transit (2023)**
+
+
+![Web Map](../pictures/s_diego.png){.rounded .shadow width="800px"}\
+
+
+
+Link -\> <https://wmcornejo.github.io/sdiego_transit/>
+
+**Tools**: Mapbox, Vue, Javascript, html, css
+
+**Key Features**:
+
+-   Visualizes long travel times for residents living far from metropolitan areas.
+-   Links median income with transit station availability.
+-   Provides policy makers with a visual on what areas are deprived of transit access.
+zgurt

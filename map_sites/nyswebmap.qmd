@@ -1,0 +1,19 @@
+---
+title: "Mapping Health Concerns in NYC"
+format: html
+---
+
+**Visualizing Asthma and COPD rates in New York City area**
+
+![Web Map](../pictures/nys_webmap.png){.rounded .shadow width="800px"}\
+
+
+Link -\> <https://wmcornejo.github.io/nys_webmap/>
+
+**Tools**: Leaflet, Javascript, html, css
+
+**Key Features**:
+
+-   Six related layers available to toggle.
+-   Filtering toggles for PM2.5 and Benzene.
+-   Search functionality for census tracts.

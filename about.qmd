@@ -3,62 +3,64 @@ title: "About Me"
 format: html
 ---
 
-
-
 ## My Journey into GIS
 
 Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn't just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.
 
 This realization redirected my path from traditional computer science toward geospatial innovation, leading me through:
 
-- **Urban Conservation**: Mapping NYC's ecosystems with Parks & Recreation and the Natural Areas Conservancy  
-- **Advanced Learning**: Developing cutting-edge skills through Hunter College's Master's program in GIS  
-- **Clean Energy Impact**: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory
+-   **Urban Conservation**: Mapping New York City's ecosystems with Parks & Recreation and the Natural Areas Conservancy\
+-   **Advanced Learning**: Developing cutting-edge skills through Hunter College's Master's program in GIS\
+-   **Clean Energy Impact**: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory
 
 Today, I approach every project with the understanding that **spatial thinking reveals solutions**—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.
 
+For a stable version of resume, please click here - <a href="/pictures/William_Cornejo_resume.pdf" target="_blank">William's Resume</a>
 
 
-For a stable version of resume, please click here - [William's Resume](/pictures/William_Cornejo_resume.pdf)
 
 
----
+
+------------------------------------------------------------------------
 
 ## Technical Foundation
 
 **Current Focus:** Geospatial Data Science Intern at NREL, where I develop automated solutions for renewable energy infrastructure optimization.
 
-**Education:** 
+**Education:**
 
-- Master of Science in Geographic Information Systems, Hunter College CUNY *(graduating Fall 2025)*
-- Bachelor of Science in Computer Science, Binghamton University SUNY *(2022)*
+-   Master of Science in Geographic Information Systems, Hunter College CUNY *(graduating Fall 2025)*
+-   Bachelor of Science in Computer Science, Binghamton University SUNY *(2022)*
 
 **Core Technical Skills:**
 
-- **GIS Platforms:** ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise
-- **Programming:** Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS)
-- **Specializations:** Spatial analysis, cartographic design, web mapping, automated geospatial workflows
-- **Cloud & DevOps:** Docker, Kubernetes, Git, database management
+-   **GIS Platforms:** ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise
+-   **Programming:** Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS)
+-   **Specializations:** Spatial analysis, cartographic design, web mapping, automated geospatial workflows
+-   **Cloud & DevOps:** Docker, Kubernetes, Git, database management
 
----
+------------------------------------------------------------------------
 
 ## Impact & Projects
 
 ### Environmental & Public Health
-- **Air Quality Analysis:** Created interactive webmaps visualizing PM2.5 and Benzene exposure patterns across NYC neighborhoods
-- **Food Access Study:** Mapped grocery store and deli distributions to identify and analyze food desert patterns in NYC
-- **Conservation Mapping:** Documented previously unmapped trail systems at Floyd Bennett Field for NYC Parks
 
-### Infrastructure & Urban Planning  
-- **Storm Water Management:** Developed comprehensive drainage maps for Northern Manhattan parks, digitizing historical infrastructure data
-- **IPARC System:** Built and enhanced web application for tracking and prioritizing NYC park maintenance issues
-- **Solar Energy Mapping:** Contributed to nationwide solar panel mapping initiative for renewable energy consulting
+-   **Air Quality Analysis:** Created interactive webmaps visualizing PM2.5 and Benzene exposure patterns across NYC neighborhoods
+-   **Food Access Study:** Mapped grocery store and deli distributions to identify and analyze food desert patterns in NYC
+-   **Conservation Mapping:** Documented previously unmapped trail systems at Floyd Bennett Field for NYC Parks
+
+### Infrastructure & Urban Planning
+
+-   **Storm Water Management:** Developed comprehensive drainage maps for Northern Manhattan parks, digitizing historical infrastructure data
+-   **IPARC System:** Built and enhanced web application for tracking and prioritizing NYC park maintenance issues
+-   **Solar Energy Mapping:** Contributed to nationwide solar panel mapping initiative for renewable energy consulting
 
 ### Research & Education
-- **Academic Contribution:** Authored chapter on Object-Oriented Programming and GIS for UCGIST Body of Knowledge publication    [Read Here!](https://gistbok-topics.ucgis.org/PD-01-021)
-- **Community Leadership:** Organized volunteer conservation events with NYC Cares, leading teams of 50+ participants
 
----
+-   **Academic Contribution:** Authored **the first** chapter on Object-Oriented Programming and GIS for UCGIST Body of Knowledge publication <a href="https://gistbok-topics.ucgis.org/PD-01-021" target="_blank">Read here!</a>
+-   **Community Leadership:** Organized volunteer conservation events with NYC Cares, leading teams of 50+ participants
+
+------------------------------------------------------------------------
 
 ## What Drives Me
 
@@ -66,12 +68,12 @@ I'm passionate about using technology to solve problems related to climate chang
 
 **Current Interests:**
 
-- Climate resilience and renewable energy optimization
-- Environmental justice and equitable access to resources  
-- Smart city technologies and sustainable urban planning
-- Open-source geospatial tools and community-driven solutions
+-   Climate resilience and renewable energy optimization
+-   Environmental justice and equitable access to resources\
+-   Smart city technologies and sustainable urban planning
+-   Open-source geospatial tools and community-driven solutions
 
----
+------------------------------------------------------------------------
 
 ## Beyond the Code
 
@@ -79,7 +81,7 @@ When I'm not analyzing spatial data or building mapping applications, you'll fin
 
 I believe the best geospatial solutions come from understanding both the technology and the places we're trying to improve—which is why I spend as much time in the field as I do behind a computer.
 
----
+------------------------------------------------------------------------
 
 ## Let's Connect
 
@@ -87,8 +89,8 @@ I'm always interested in discussing geospatial challenges, collaboration opportu
 
 **Get in touch:**
 
-- [william.m.cornejo@gmail.com](mailto:william.m.cornejo@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/william-m-cornejo-6393001a2/)
-- [GitHub](https://github.com/wmcornejo)
+-   [william.m.cornejo\@gmail.com](mailto:william.m.cornejo@gmail.com)
+-   <a href="https://www.linkedin.com/in/william-m-cornejo-6393001a2/" target="_blank">LinkedIn</a>
+-   <a href="https://github.com/wmcornejo" target="_blank">GitHub</a>
 
 *Currently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges.*

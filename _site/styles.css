@@ -39,10 +39,64 @@
   background-color: rgba(0,0,0,0.7);
   border: none;
 }
+
+
 body {
   background-image: url('pictures/background.png');
   color: #333333; /* Dark gray text */
 }
 .navbar {
   background-color: #e6f0ff; /* Off-white background */
+}
+
+
+/* Card Styles */
+
+.card {
+    background-color: #fff;
+    border-color: #cccccc;
+    border-width: 1px;
+    width: 100%;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 25px;
+}
+
+.card:hover {
+    filter: drop-shadow(5px 5px 10px #4e4e4e);
+    border-color: #7989a0;
+    border-radius: 1px ;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #7989a0;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #d95f0e;
+    border-color: #7989a0;
+    filter: drop-shadow(3px 3px 5px #4e4e4e);
+}
+
+.card-title{
+    font-size: 18px;
+}
+
+.container{
+    padding:25px 25px;
+}
+
+.my_row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
 }

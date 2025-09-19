@@ -14,13 +14,13 @@ I'm a GIS Developer with a Computer Science background, currently pursuing my Ma
 
 ## Recent Highlights
 
--   **Presentation at ESRI User Conference 2025:** Check out my presentation on IPARC, a way to use FieldMaps to streamline park issues [Slides are here](https://storymaps.arcgis.com/stories/0719c4f302b54785a65d5405df45df11)
+-   **Presentation at ESRI User Conference 2025:** Check out my presentation on IPARC, a way to use FieldMaps to streamline park issues <a href="https://storymaps.arcgis.com/stories/0719c4f302b54785a65d5405df45df11" target="_blank">Slides are here</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SStmC6SzGS0?si=cv8jS3G4DEkgaXrB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 </iframe>
 
--   **OOP Chapter Publication:** I recently contributed a chapter to the UCGIST Body of Knowledge [Read Here!](https://gistbok-topics.ucgis.org/PD-01-021)
+-   **OOP Chapter Publication:** I recently contributed a chapter to the UCGIST Body of Knowledge <a href="https://gistbok-topics.ucgis.org/PD-01-021" target="_blank">Read here!</a>
 -   **Trail Mapping:** Documented unmapped trail systems at Floyd Bennett Field for NYC Parks
 -   **Energy Optimization:** Supporting wind and solar projects at NREL through geospatial analysis
 
