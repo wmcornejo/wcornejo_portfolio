@@ -100,3 +100,11 @@ body {
 *, ::after, ::before {
     box-sizing: border-box;
 }
+
+
+.img1{
+    float: right;
+    width: 300px;
+    height: 400px;
+    margin: 0px 0px 15px 20px;
+}

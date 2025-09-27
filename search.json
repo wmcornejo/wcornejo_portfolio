@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "map_sites/nyswebmap.html",
+    "href": "map_sites/nyswebmap.html",
+    "title": "Mapping Health Concerns in NYC",
+    "section": "",
+    "text": "Visualizing Asthma and COPD rates in New York City area\n\n\nLink -&gt; https://wmcornejo.github.io/nys_webmap/\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nSix related layers available to toggle.\nFiltering toggles for PM2.5 and Benzene.\nSearch functionality for census tracts."
+  },
+  {
+    "objectID": "map_sites/bronx.html",
+    "href": "map_sites/bronx.html",
+    "title": "Bronx Housing Conditions",
+    "section": "",
+    "text": "311 Call Spatial Analysis\n\n\nTools: ArcGIS Pro\nKey Features:\n\nSmall multiple choropleth maps\nHighlights top housing complaints in the Bronx"
+  },
+  {
+    "objectID": "map_sites/sdiego.html",
+    "href": "map_sites/sdiego.html",
+    "title": "San Diego Transit Equity Map",
+    "section": "",
+    "text": "Visualizing census tracts on San Diego that do not benefit from public transit (2023)\n\n\nLink -&gt; https://wmcornejo.github.io/sdiego_transit/\nTools: Mapbox, Vue, Javascript, html, css\nKey Features:\n\nVisualizes long travel times for residents living far from metropolitan areas.\nLinks median income with transit station availability.\nProvides policy makers with a visual on what areas are deprived of transit access. zgurt"
+  },
+  {
     "objectID": "field.html",
     "href": "field.html",
     "title": "Park Management & Field Work",
@@ -21,32 +42,46 @@
     "text": "Park Management & GIS Internship\nNYC Parks & Recreation\nJuly 2023 - June 2024\n\nOverview\nAs a Park Management and GIS Intern, I played a key role in planning and executing park repairs, leading volunteer events, and ensuring the maintenance of public spaces. This internship allowed me to develop leadership and project management skills while contributing to the community.\n\n\nKey Responsibilities\n\nPlanned and supervised park repair projects, including trail maintenance, signage installation, and infrastructure improvements.\nLed volunteer events, recruiting and managing teams of volunteers for park cleanups and restoration projects.\nConducted site assessments to identify areas in need of repair or improvement.\nCollaborated with local organizations and community members to promote park stewardship.\n\n\n\nVolunteer Events\nDuring this internship, I organized and led several volunteer events, including:\n\nPark Cleanups: Coordinated teams to remove litter and maintain park facilities.\nTree Planting: Led volunteers in planting native trees to restore park ecosystems.\n\n\nLeading a lawn renovation volunteer event at Tompkins Square Park."
   },
   {
-    "objectID": "map_sites/sdiego.html",
-    "href": "map_sites/sdiego.html",
-    "title": "San Diego Transit Equity Map",
+    "objectID": "coding.html",
+    "href": "coding.html",
+    "title": "Coding Projects",
     "section": "",
-    "text": "Visualizing census tracts on San Diego that do not benefit from public transit (2023)\n\n\nLink -&gt; https://wmcornejo.github.io/sdiego_transit/\nTools: Mapbox, Vue, Javascript, html, css\nKey Features:\n\nVisualizes long travel times for residents living far from metropolitan areas.\nLinks median income with transit station availability.\nProvides policy makers with a visual on what areas are deprived of transit access. zgurt"
+    "text": "Here are some of my programming-based projects. I mainly branched out to data- analysis related programs for my own research. Most of my work is in Python, Jupyter Notebook, C++, and R."
   },
   {
-    "objectID": "map_sites/phish.html",
-    "href": "map_sites/phish.html",
-    "title": "Phish Concert Analysis",
-    "section": "",
-    "text": "Visualizing Phish concert trends over the years\n\n\nLink -&gt; https://wmcornejo.github.io/phish/\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nToggle through years.\nGet statistics by State (upcoming).\nSearch functionality for venues (upcoming)."
+    "objectID": "coding.html#tree-count-analysis-in-nyc",
+    "href": "coding.html#tree-count-analysis-in-nyc",
+    "title": "Coding Projects",
+    "section": "Tree Count Analysis in NYC",
+    "text": "Tree Count Analysis in NYC\nTrees are crucial in urban environments as they offer shade, a home for species, and regulate local temperature. Every 10 years in NYC there is a tree count of all trees in New York City. As it is crucial to see how the worsening climate crisis has been affecting the tree life here, the aim of this project is to look at every tree recorded in the NYC Tree count every 10 years and apply geospatial machine learning to predict tree health and areas that need assistance.\nTechnologies: Python, Pandas, scikit, Linear Regression\nKey Features:\n\nPerformed exploratory data analysis to clean and interpret data.\nApplied Logistic Regression and Support Vector Machine models.\nSeverity of a collision is higher when the collision occurs at an intersection.\nKaggle Link"
+  },
+  {
+    "objectID": "coding.html#car-collision-analysis-in-king-county-washington",
+    "href": "coding.html#car-collision-analysis-in-king-county-washington",
+    "title": "Coding Projects",
+    "section": "Car Collision Analysis in King County, Washington",
+    "text": "Car Collision Analysis in King County, Washington\nThroughout the United States, a significant portion of the population relies on cars for transportation. The objective of this project is to develop a predictive model capable of assessing the likelihood of a car collision. Its primary aim is to offer the safest possible route to a destination. Ultimately, this initiative aims to enhance road safety, benefiting all drivers, whether they are commuting for work or leisure, and ensuring that they can navigate with increased safety compared to current conditions.\nTechnologies: Python, Pandas, Matplotlib, sklearn\nKey Features:\n\nPerformed exploratory data analysis to clean and interpret data.\nApplied Logistic Regression and Support Vector Machine models.\nSeverity of a collision is higher when the collision occurs at an intersection.\nGitHub Repository"
+  },
+  {
+    "objectID": "coding.html#customer-account-microservice",
+    "href": "coding.html#customer-account-microservice",
+    "title": "Coding Projects",
+    "section": "Customer Account Microservice",
+    "text": "Customer Account Microservice\nThis project is a secure RESTful API built using Test-Driven Development (TDD) principles, enabling full CRUD operations for user account management. Developed using Agile methodology, it features well-defined user stories and sprint planning. The API is containerized and designed as a microservice with enterprise-level security, including Flask-Talisman headers and Flask-CORS policies. It incorporates modern DevOps practices, such as automated GitHub Actions for continuous integration, Docker for scalability, and Kubernetes for production deployment. With automated tests achieving over 95% coverage and Tekton pipeline integration, this microservice demonstrates end-to-end software engineering, from planning to deployment.\nTechnologies: Docker, Kubernentes, Tekton, Github Actions, Zenhub, Python, Flask\nKey Features:\n\nDeveloped Agile plan to create RESTful microservice supporting 4 CRUD operations for user.\nManaged development using Github and Zenhub, completing 25+ user stories in 3 sprints.\nCreated Docker image and deployed microservice to Kubernetes cluster serving 900+ users.\nAutomated work pipeline using Tekton, reducing time from 30 minutes to 3 minutes.\nGitHub Repository"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "",
-    "text": "I’m a GIS Developer with a Computer Science background, currently pursuing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
+    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "",
-    "text": "I’m a GIS Developer with a Computer Science background, currently pursuing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
+    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
   },
   {
     "objectID": "index.html#recent-highlights",
@@ -56,20 +91,6 @@
     "text": "Recent Highlights\n\nPresentation at ESRI User Conference 2025: Check out my presentation on IPARC, a way to use FieldMaps to streamline park issues Slides are here\n\n\n\n\nOOP Chapter Publication: I recently contributed a chapter to the UCGIST Body of Knowledge Read here!\nTrail Mapping: Documented unmapped trail systems at Floyd Bennett Field for NYC Parks\nEnergy Optimization: Supporting wind and solar projects at NREL through geospatial analysis"
   },
   {
-    "objectID": "index.html#featured-work",
-    "href": "index.html#featured-work",
-    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
-    "section": "Featured Work",
-    "text": "Featured Work\n\n\n️ Interactive Maps & WebGIS\nExplore my collection of web-based mapping applications, from NYC trail systems to renewable energy infrastructure.\nView Maps →\n\n\nProgramming & Data Analysis\nPython automation, R analysis, and JavaScript applications for geospatial problem-solving.\nView Code Projects →"
-  },
-  {
-    "objectID": "index.html#core-expertise",
-    "href": "index.html#core-expertise",
-    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
-    "section": "Core Expertise",
-    "text": "Core Expertise\n\n\nGIS & Mapping - ArcGIS Pro/Online, QGIS - WebGIS Development - Spatial Analysis - Cartographic Design\n\n\nProgramming - Python (GDAL, geopandas) - R (spatial analysis) - JavaScript (Leaflet, D3) - SQL & PostGIS\n\n\nDomain Focus - Renewable Energy - Environmental Conservation - Urban Infrastructure - Public Health Applications\n\n\nTech Stack - Cloud Deployment - Docker/Kubernetes - Git/GitHub - Database Management"
-  },
-  {
     "objectID": "index.html#get-in-touch",
     "href": "index.html#get-in-touch",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
@@ -77,11 +98,18 @@
     "text": "Get in Touch\nInterested in collaborating or learning more about my work?\nwilliam.m.cornejo@gmail.com | LinkedIn | GitHub\n\nCurrently seeking full-time opportunities in GIS development, geospatial data science, and environmental technology."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume"
+  },
+  {
     "objectID": "about.html#my-journey-into-gis",
     "href": "about.html#my-journey-into-gis",
     "title": "About Me",
-    "section": "My Journey into GIS",
-    "text": "My Journey into GIS\nUp until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume"
+    "section": "",
+    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume"
   },
   {
     "objectID": "about.html#technical-foundation",
@@ -102,7 +130,7 @@
     "href": "about.html#what-drives-me",
     "title": "About Me",
     "section": "What Drives Me",
-    "text": "What Drives Me\nI’m passionate about using technology to solve problems related to climate change, public health and urban sustainability. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.\nCurrent Interests:\n\nClimate resilience and renewable energy optimization\nEnvironmental justice and equitable access to resources\n\nSmart city technologies and sustainable urban planning\nOpen-source geospatial tools and community-driven solutions"
+    "text": "What Drives Me\nI’m passionate about using technology to solve problems related to climate change, public health and urban sustainability. I believe these topics are related at their core and deserve our utmost attention. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.\nCurrent Interests:\n\nClimate resilience and renewable energy optimization\nEnvironmental justice and equitable access to resources\nSmart city technologies and sustainable urban planning\nOpen-source geospatial tools and community-driven solutions"
   },
   {
     "objectID": "about.html#beyond-the-code",
@@ -119,39 +147,18 @@
     "text": "Let’s Connect\nI’m always interested in discussing geospatial challenges, collaboration opportunities, or just sharing ideas about the intersection of technology and environmental stewardship.\nGet in touch:\n\nwilliam.m.cornejo@gmail.com\nLinkedIn\nGitHub\n\nCurrently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges."
   },
   {
-    "objectID": "coding.html",
-    "href": "coding.html",
-    "title": "Coding Projects",
-    "section": "",
-    "text": "Here are some of my programming-based projects. I mainly branched out to data- analysis related programs for my own research. Most of my work is in Python, Jupyter Notebook, C++, and R."
-  },
-  {
-    "objectID": "coding.html#tree-count-analysis-in-nyc",
-    "href": "coding.html#tree-count-analysis-in-nyc",
-    "title": "Coding Projects",
-    "section": "Tree Count Analysis in NYC",
-    "text": "Tree Count Analysis in NYC\nTechnologies: Python, Pandas, scikit, Linear Regression\nKey Features:\n\nPerformed exploratory data analysis to clean and interpret data.\nApplied Logistic Regression and Support Vector Machine models.\nSeverity of a collision is higher when the collision occurs at an intersection.\nKaggle Link"
-  },
-  {
-    "objectID": "coding.html#car-collision-analysis-in-king-county-washington",
-    "href": "coding.html#car-collision-analysis-in-king-county-washington",
-    "title": "Coding Projects",
-    "section": "Car Collision Analysis in King County, Washington",
-    "text": "Car Collision Analysis in King County, Washington\nThroughout the United States, a significant portion of the population relies on cars for transportation. The objective of this project is to develop a predictive model capable of assessing the likelihood of a car collision. Its primary aim is to offer the safest possible route to a destination. Ultimately, this initiative aims to enhance road safety, benefiting all drivers, whether they are commuting for work or leisure, and ensuring that they can navigate with increased safety compared to current conditions.\nTechnologies: Python, Pandas, Matplotlib, sklearn\nKey Features:\n\nPerformed exploratory data analysis to clean and interpret data.\nApplied Logistic Regression and Support Vector Machine models.\nSeverity of a collision is higher when the collision occurs at an intersection.\nGitHub Repository"
-  },
-  {
-    "objectID": "coding.html#customer-account-microservice",
-    "href": "coding.html#customer-account-microservice",
-    "title": "Coding Projects",
-    "section": "Customer Account Microservice",
-    "text": "Customer Account Microservice\nThis project is a secure RESTful API built using Test-Driven Development (TDD) principles, enabling full CRUD operations for user account management. Developed using Agile methodology, it features well-defined user stories and sprint planning. The API is containerized and designed as a microservice with enterprise-level security, including Flask-Talisman headers and Flask-CORS policies. It incorporates modern DevOps practices, such as automated GitHub Actions for continuous integration, Docker for scalability, and Kubernetes for production deployment. With automated tests achieving over 95% coverage and Tekton pipeline integration, this microservice demonstrates end-to-end software engineering, from planning to deployment.\nTechnologies: Docker, Kubernentes, Tekton, Github Actions, Zenhub, Python, Flask\nKey Features:\n\nDeveloped Agile plan to create RESTful microservice supporting 4 CRUD operations for user.\nManaged development using Github and Zenhub, completing 25+ user stories in 3 sprints.\nCreated Docker image and deployed microservice to Kubernetes cluster serving 900+ users.\nAutomated work pipeline using Tekton, reducing time from 30 minutes to 3 minutes.\nGitHub Repository"
-  },
-  {
     "objectID": "maps.html",
     "href": "maps.html",
     "title": "Maps",
     "section": "",
-    "text": "San Diego Transit Equity Map\n          View Map\n        \n      \n    \n\n    \n      \n        \n          \n        \n        \n          NYC Health Concern Web Map\n          View Map\n        \n      \n    \n    \n    \n      \n        \n          \n        \n        \n          Phish Concert Analysis\n          View Map\n        \n      \n    \n    \n    \n      \n        \n          \n        \n        \n          NYC Food Access Analysis\n          View Map\n        \n      \n    \n \n    \n      \n        \n          \n        \n        \n          Bronx Housing Conditions\n          View Map"
+    "text": "San Diego Transit Equity Map\n            View Map\n          \n        \n      \n  \n      \n        \n          \n            \n          \n          \n            NYC Health Concern Map\n            View Map\n          \n        \n      \n      \n      \n        \n          \n            \n          \n          \n            Phish Concert Analysis\n            View Map\n          \n        \n      \n      \n      \n        \n          \n            \n          \n          \n            NYC Food Access Analysis\n            View Map\n          \n        \n      \n   \n      \n        \n          \n            \n          \n          \n            Bronx Housing Conditions\n            View Map"
+  },
+  {
+    "objectID": "map_sites/phish.html",
+    "href": "map_sites/phish.html",
+    "title": "Phish Concert Analysis",
+    "section": "",
+    "text": "Visualizing Phish concert trends over the years\n\n\nLink -&gt; https://wmcornejo.github.io/phish/\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nToggle through years.\nGet statistics by State (upcoming).\nSearch functionality for venues (upcoming)."
   },
   {
     "objectID": "map_sites/nyc_food.html",
@@ -159,19 +166,5 @@
     "title": "NYC Food Access Analysis",
     "section": "",
     "text": "Grocery Store & Deli Distribution\n\n\nGrocery Store & Deli Distribution\nTools: R, sf\nKey Features:\n\nIdentified “food deserts” where the scope is solely grocery stores and delis.\nTheir distribution is related to the poverty rate and median income per MODZCTA."
-  },
-  {
-    "objectID": "map_sites/bronx.html",
-    "href": "map_sites/bronx.html",
-    "title": "Bronx Housing Conditions",
-    "section": "",
-    "text": "311 Call Spatial Analysis\n\n\nTools: ArcGIS Pro\nKey Features:\n\nSmall multiple choropleth maps\nHighlights top housing complaints in the Bronx"
-  },
-  {
-    "objectID": "map_sites/nyswebmap.html",
-    "href": "map_sites/nyswebmap.html",
-    "title": "Mapping Health Concerns in NYC",
-    "section": "",
-    "text": "Visualizing Asthma and COPD rates in New York City area\n\n\nLink -&gt; https://wmcornejo.github.io/nys_webmap/\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nSix related layers available to toggle.\nFiltering toggles for PM2.5 and Benzene.\nSearch functionality for census tracts."
   }
 ]
