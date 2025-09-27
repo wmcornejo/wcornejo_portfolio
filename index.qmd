@@ -5,7 +5,7 @@ subtitle: "Combining Computer Science and Geographic Information Systems to solv
 
 ## Hello!
 
-I'm a GIS Developer with a Computer Science background, currently pursuing my Master's in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.
+I'm a GIS Developer with a Computer Science background, currently finishing my Master's in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.
 
 **Currently:** Geospatial Data Science Intern at the National Renewable Energy Laboratory\
 **Focus Areas:** WebGIS development, spatial data analysis, environmental applications
@@ -26,49 +26,6 @@ I'm a GIS Developer with a Computer Science background, currently pursuing my Ma
 
 ------------------------------------------------------------------------
 
-## Featured Work
-
-::::: grid
-::: {.g-col-6 .bg-card style="background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('pictures/nys_webmap.png'); background-size: cover; background-position: center; min-height: 200px; border-radius: 8px; padding: 20px; color: white;"}
-### ️ Interactive Maps & WebGIS
-
-Explore my collection of web-based mapping applications, from NYC trail systems to renewable energy infrastructure.
-
-[View Maps →](maps.html){.btn .btn-light .btn-sm style="margin-top: 10px;"}
-:::
-
-::: {.g-col-6 .bg-card style="background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('pictures/wsc.png'); background-size: cover; background-position: center; min-height: 200px; border-radius: 8px; padding: 20px; color: white;"}
-### Programming & Data Analysis
-
-Python automation, R analysis, and JavaScript applications for geospatial problem-solving.
-
-[View Code Projects →](coding.html){.btn .btn-light .btn-sm style="margin-top: 10px;"}
-:::
-:::::
-
-------------------------------------------------------------------------
-
-## Core Expertise
-
-::::::: grid
-::: g-col-3
-**GIS & Mapping** - ArcGIS Pro/Online, QGIS - WebGIS Development - Spatial Analysis - Cartographic Design
-:::
-
-::: g-col-3
-**Programming** - Python (GDAL, geopandas) - R (spatial analysis) - JavaScript (Leaflet, D3) - SQL & PostGIS
-:::
-
-::: g-col-3
-**Domain Focus** - Renewable Energy - Environmental Conservation - Urban Infrastructure - Public Health Applications
-:::
-
-::: g-col-3
-**Tech Stack** - Cloud Deployment - Docker/Kubernetes - Git/GitHub - Database Management
-:::
-:::::::
-
-------------------------------------------------------------------------
 
 ## Get in Touch
 

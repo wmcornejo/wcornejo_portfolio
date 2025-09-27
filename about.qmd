@@ -3,11 +3,20 @@ title: "About Me"
 format: html
 ---
 
-![Me](pictures/Download.jpg){.rounded .shadow width="300px" height="400px"}\
 
 ## My Journey into GIS
 
+
+```{=html}
+<div id="mypic">
+  <img class = 'img1' src="pictures/Download.jpg" alt="San Diego Transit map" loading="lazy".rounded .shadow>
+</div>
+```
+
+
+
 Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn't just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.
+
 
 This realization redirected my path from traditional computer science toward geospatial innovation, leading me through:
 
@@ -62,12 +71,12 @@ For a stable version of resume, please click here - <a href="/pictures/William_C
 
 ## What Drives Me
 
-I'm passionate about using technology to solve problems related to climate change, public health and urban sustainability. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.
+I'm passionate about using technology to solve problems related to climate change, public health and urban sustainability. I believe these topics are related at their core and deserve our utmost attention. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.
 
 **Current Interests:**
 
 -   Climate resilience and renewable energy optimization
--   Environmental justice and equitable access to resources\
+-   Environmental justice and equitable access to resources
 -   Smart city technologies and sustainable urban planning
 -   Open-source geospatial tools and community-driven solutions
 

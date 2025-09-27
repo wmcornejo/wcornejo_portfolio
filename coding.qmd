@@ -4,11 +4,11 @@ title: "Coding Projects"
 
 Here are some of my programming-based projects. I mainly branched out to data- analysis related programs for my own research. Most of my work is in Python, Jupyter Notebook, C++, and R.
 
-
 ------------------------------------------------------------------------
 
 ## Tree Count Analysis in NYC
 
+Trees are crucial in urban environments as they offer shade, a home for species, and regulate local temperature. Every 10 years in NYC there is a tree count of all trees in New York City. As it is crucial to see how the worsening climate crisis has been affecting the tree life here, the aim of this project is to look at every tree recorded in the NYC Tree count every 10 years and apply geospatial machine learning to predict tree health and areas that need assistance.
 
 
 **Technologies**: Python, Pandas, scikit, Linear Regression
@@ -22,7 +22,6 @@ Here are some of my programming-based projects. I mainly branched out to data- a
 -   Severity of a collision is higher when the collision occurs at an intersection.
 
 -   [Kaggle Link](https://www.kaggle.com/code/williamcornejo/evaluating-and-predicting-tree-health-in-nyc)
-
 
 ------------------------------------------------------------------------
 
@@ -46,9 +45,7 @@ Throughout the United States, a significant portion of the population relies on 
 
 ## Customer Account Microservice
 
-
 This project is a secure RESTful API built using Test-Driven Development (TDD) principles, enabling full CRUD operations for user account management. Developed using Agile methodology, it features well-defined user stories and sprint planning. The API is containerized and designed as a microservice with enterprise-level security, including Flask-Talisman headers and Flask-CORS policies. It incorporates modern DevOps practices, such as automated GitHub Actions for continuous integration, Docker for scalability, and Kubernetes for production deployment. With automated tests achieving over 95% coverage and Tekton pipeline integration, this microservice demonstrates end-to-end software engineering, from planning to deployment.
-
 
 **Technologies**: Docker, Kubernentes, Tekton, Github Actions, Zenhub, Python, Flask
 

@@ -4,7 +4,7 @@
     "href": "maps.html",
     "title": "Maps",
     "section": "",
-    "text": "San Diego Transit Equity Map\n          View Map\n        \n      \n    \n\n    \n      \n        \n          \n        \n        \n          NYC Health Concern Web Map\n          View Map\n        \n      \n    \n    \n    \n      \n        \n          \n        \n        \n          Phish Concert Analysis\n          View Map\n        \n      \n    \n    \n    \n      \n        \n          \n        \n        \n          NYC Food Access Analysis\n          View Map\n        \n      \n    \n \n    \n      \n        \n          \n        \n        \n          Bronx Housing Conditions\n          View Map"
+    "text": "San Diego Transit Equity Map\n            View Map\n          \n        \n      \n  \n      \n        \n          \n            \n          \n          \n            NYC Health Concern Map\n            View Map\n          \n        \n      \n      \n      \n        \n          \n            \n          \n          \n            Phish Concert Analysis\n            View Map\n          \n        \n      \n      \n      \n        \n          \n            \n          \n          \n            NYC Food Access Analysis\n            View Map\n          \n        \n      \n   \n      \n        \n          \n            \n          \n          \n            Bronx Housing Conditions\n            View Map\n          \n        \n        \n  \n    \n  \n\nyo"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "",
-    "text": "I’m a GIS Developer with a Computer Science background, currently pursuing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
+    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
   },
   {
     "objectID": "about.html#my-background",
@@ -248,8 +248,8 @@
     "objectID": "about.html#my-journey-into-gis",
     "href": "about.html#my-journey-into-gis",
     "title": "About Me",
-    "section": "My Journey into GIS",
-    "text": "My Journey into GIS\nUp until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume"
+    "section": "",
+    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume"
   },
   {
     "objectID": "about.html#technical-foundation",
@@ -270,7 +270,7 @@
     "href": "about.html#what-drives-me",
     "title": "About Me",
     "section": "What Drives Me",
-    "text": "What Drives Me\nI’m passionate about using technology to solve problems related to climate change, public health and urban sustainability. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.\nCurrent Interests:\n\nClimate resilience and renewable energy optimization\nEnvironmental justice and equitable access to resources\n\nSmart city technologies and sustainable urban planning\nOpen-source geospatial tools and community-driven solutions"
+    "text": "What Drives Me\nI’m passionate about using technology to solve problems related to climate change, public health and urban sustainability. I believe these topics are related at their core and deserve our utmost attention. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.\nCurrent Interests:\n\nClimate resilience and renewable energy optimization\nEnvironmental justice and equitable access to resources\nSmart city technologies and sustainable urban planning\nOpen-source geospatial tools and community-driven solutions"
   },
   {
     "objectID": "about.html#beyond-the-code",
@@ -284,7 +284,7 @@
     "href": "index.html#hello",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "",
-    "text": "I’m a GIS Developer with a Computer Science background, currently pursuing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
+    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
   },
   {
     "objectID": "coding.html#customer-account-microservice",
@@ -305,7 +305,7 @@
     "href": "coding.html#tree-count-analysis-in-nyc",
     "title": "Coding Projects",
     "section": "Tree Count Analysis in NYC",
-    "text": "Tree Count Analysis in NYC\nTechnologies: Python, Pandas, scikit, Linear Regression\nKey Features:\n\nPerformed exploratory data analysis to clean and interpret data.\nApplied Logistic Regression and Support Vector Machine models.\nSeverity of a collision is higher when the collision occurs at an intersection.\nKaggle Link"
+    "text": "Tree Count Analysis in NYC\nTrees are crucial in urban environments as they offer shade, a home for species, and regulate local temperature. Every 10 years in NYC there is a tree count of all trees in New York City. As it is crucial to see how the worsening climate crisis has been affecting the tree life here, the aim of this project is to look at every tree recorded in the NYC Tree count every 10 years and apply geospatial machine learning to predict tree health and areas that need assistance.\nTechnologies: Python, Pandas, scikit, Linear Regression\nKey Features:\n\nPerformed exploratory data analysis to clean and interpret data.\nApplied Logistic Regression and Support Vector Machine models.\nSeverity of a collision is higher when the collision occurs at an intersection.\nKaggle Link"
   },
   {
     "objectID": "map_sites/sdiego.html#san-diego-transit-equity-analysis",
