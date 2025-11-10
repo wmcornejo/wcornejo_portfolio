@@ -13,6 +13,18 @@ format: html
 <body>
   <div class="container-fluid mt-4">
     <div class="row">
+
+      <div class="col-12 col-sm-6 col-md-4">
+        <div class="card">
+          <a href="map_sites/nyc_events.qmd">
+            <img class="card-img-top" src="pictures/events_sc.png" alt="NYC Events map" loading="lazy">
+          </a>
+          <div class="card-body">
+            <h4 class="card-title">NYC Events Map</h4>
+            <a href="map_sites/nyc_events.qmd" class="btn btn-primary">View Map</a>
+          </div>
+        </div>
+      </div>
       
       <div class="col-12 col-sm-6 col-md-4">
         <div class="card">

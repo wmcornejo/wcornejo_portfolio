@@ -1,0 +1,22 @@
+---
+title: "NYC Permitted Events Map"
+format: html
+---
+
+**Visualizing Public Events in New York City**
+
+![Permitted Events Map](../pictures/events_sc.png){.rounded .shadow width="800px"}\
+
+
+
+Link -\> <https://wmcornejo.github.io/nyc_events_map/>
+
+
+**Tools**: JavaScript, Leaflet, NYC Open Data API, NYC Geoservice API, CSS, HTML
+
+**Key Features**:
+
+-   Provide a web tool where NYC residents can see what events are occuring near them, and filter based on borough, time, and event type. 
+-   Access data from NYC Open Data endpoint to get up-to-date events.
+-   Mapped events to sub park features to get precise location.
+-   Referenced the Geoservice API to get geoJSON data for events that occur in streets.

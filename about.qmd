@@ -4,7 +4,7 @@ format: html
 ---
 
 
-## My Journey into GIS
+## My Journey into GIS and What I do
 
 
 ```{=html}
@@ -15,7 +15,7 @@ format: html
 
 
 
-Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn't just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.
+If you had asked me 3 years ago what GIS is, I wouldn't have had the slightest idea. Being fresh off completing my Computer Science degree, I was looking solely for jobs in the tech industry. But I felt an urge to grow into the data science world, and explore intersection of technology and environmental problem-solving. I discovered that GIS isn't just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.
 
 
 This realization redirected my path from traditional computer science toward geospatial innovation, leading me through:
@@ -24,20 +24,28 @@ This realization redirected my path from traditional computer science toward geo
 -   **Advanced Learning**: Developing cutting-edge skills through Hunter College's Master's program in GIS\
 -   **Clean Energy Impact**: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory
 
-Today, I approach every project with the understanding that **spatial thinking reveals solutions**—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.
 
-For a stable version of resume, please click here - <a href="/pictures/William_Cornejo_resume.pdf" target="_blank">William's Resume</a>
+These experiences have each equipped me with core GIS skills, whether I was optimizing solar installations, protecting urban green spaces, or improving public health outcomes. GIS and spatial analysis have taught me how to communicate findings in such a way that **is easy for anyone to understand, and it is a skill I want to continue to harness**.
+
+*For a stable version of resume, please click here* - <a href="/pictures/resume_port.pdf" target="_blank">William's Resume</a>
 
 ------------------------------------------------------------------------
 
 ## Technical Foundation
 
-**Current Focus:** Geospatial Data Science Intern at NREL, where I develop automated solutions for renewable energy infrastructure optimization.
+**Current Focus:** GIS Specialist at Con Edison, where I ensure proper migration of spatial utility asset data to ArcFM.
 
 **Education:**
 
 -   Master of Science in Geographic Information Systems, Hunter College CUNY *(graduating Fall 2025)*
 -   Bachelor of Science in Computer Science, Binghamton University SUNY *(2022)*
+
+**Certificates:**
+
+-   IBM Machine Learning Professional Certificate, Coursera *(2023)*
+-   IBM Cybersecurity Analyst Professional Certificate, Coursera *(2023)*
+-   IBM DevOps and Software Engineering Professional Certificate, Coursera *(2022)*
+-   IBM Data Science Professional Certificate, Coursera *(2020)*
 
 **Core Technical Skills:**
 
@@ -84,7 +92,7 @@ I'm passionate about using technology to solve problems related to climate chang
 
 ## Beyond the Code
 
-When I'm not analyzing spatial data or building mapping applications, you'll find me exploring NYC's trail systems, volunteering with at Forest Park, biking, or taking pictures.
+When I'm not analyzing spatial data or building mapping applications, you'll find me exploring NYC's trail systems, volunteering at Forest Park, biking, or taking pictures.
 
 I believe the best geospatial solutions come from understanding both the technology and the places we're trying to improve—which is why I spend as much time in the field as I do behind a computer.
 
@@ -92,7 +100,7 @@ I believe the best geospatial solutions come from understanding both the technol
 
 ## Let's Connect
 
-I'm always interested in discussing geospatial challenges, collaboration opportunities, or just sharing ideas about the intersection of technology and environmental stewardship.
+I'm always interested in collaboration, or just sharing ideas about the intersection of technology and environmental stewardship.
 
 **Get in touch:**
 

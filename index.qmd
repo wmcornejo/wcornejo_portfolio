@@ -1,14 +1,14 @@
 ---
 title: "William Cornejo - GIS Developer & Geospatial Data Scientist"
-subtitle: "Combining Computer Science and Geographic Information Systems to solve environmental and public health challenges"
+subtitle: "Combining Computer Science and Geographic Information Systems to solve geospatial challenges"
 ---
 
 ## Hello!
 
 I'm a GIS Developer with a Computer Science background, currently finishing my Master's in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.
 
-**Currently:** Geospatial Data Science Intern at the National Renewable Energy Laboratory\
-**Focus Areas:** WebGIS development, spatial data analysis, environmental applications
+**Currently:** QA/QC Specialist at Con Edison\
+**Focus Areas:** eGIS data migration, utilities mapping
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,6 @@ I'm a GIS Developer with a Computer Science background, currently finishing my M
 -   **Energy Optimization:** Supporting wind and solar projects at NREL through geospatial analysis
 
 ------------------------------------------------------------------------
-
 
 ## Get in Touch
 

@@ -7,7 +7,6 @@ format: html
 
 ![Food Access Map](../pictures/fac_income.jpeg){.rounded .shadow width="800px"}\
 
-**Grocery Store & Deli Distribution**
 
 **Tools**: R, sf
 
