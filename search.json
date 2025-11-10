@@ -14,32 +14,95 @@
     "text": "311 Call Spatial Analysis\n\n\nTools: ArcGIS Pro\nKey Features:\n\nSmall multiple choropleth maps\nHighlights top housing complaints in the Bronx"
   },
   {
-    "objectID": "map_sites/sdiego.html",
-    "href": "map_sites/sdiego.html",
-    "title": "San Diego Transit Equity Map",
+    "objectID": "map_sites/phish.html",
+    "href": "map_sites/phish.html",
+    "title": "Phish Concert Analysis",
     "section": "",
-    "text": "Visualizing census tracts on San Diego that do not benefit from public transit (2023)\n\n\nLink -&gt; https://wmcornejo.github.io/sdiego_transit/\nTools: Mapbox, Vue, Javascript, html, css\nKey Features:\n\nVisualizes long travel times for residents living far from metropolitan areas.\nLinks median income with transit station availability.\nProvides policy makers with a visual on what areas are deprived of transit access. zgurt"
+    "text": "Visualizing Phish concert trends over the years\n\n\nLink -&gt; https://wmcornejo.github.io/phish/\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nToggle through years.\nGet statistics by State (upcoming).\nSearch functionality for venues (upcoming)."
   },
   {
-    "objectID": "field.html",
-    "href": "field.html",
-    "title": "Park Management & Field Work",
+    "objectID": "maps.html",
+    "href": "maps.html",
+    "title": "Maps",
     "section": "",
-    "text": "My field work experience has allowed me to combine my passion for the environment with practical skills in trail mapping, park management, and community engagement. Below are some highlights from my internships and volunteer events."
+    "text": "NYC Events Map\n            View Map\n          \n        \n      \n      \n      \n        \n          \n            \n          \n          \n            San Diego Transit Equity Map\n            View Map\n          \n        \n      \n  \n      \n        \n          \n            \n          \n          \n            NYC Health Concern Map\n            View Map\n          \n        \n      \n      \n      \n        \n          \n            \n          \n          \n            Phish Concert Analysis\n            View Map\n          \n        \n      \n      \n      \n        \n          \n            \n          \n          \n            NYC Food Access Analysis\n            View Map\n          \n        \n      \n   \n      \n        \n          \n            \n          \n          \n            Bronx Housing Conditions\n            View Map"
   },
   {
-    "objectID": "field.html#gis-trail-mapping-internship",
-    "href": "field.html#gis-trail-mapping-internship",
-    "title": "Park Management & Field Work",
-    "section": "GIS Trail Mapping Internship",
-    "text": "GIS Trail Mapping Internship\nThe Natural Areas Conservancy\nJune - August 2024\n\nOverview\nAs a GIS & Trail Mapping Intern with the Natural Areas Conservancy, I was responsible for mapping and assessing trails in natural areas to improve accessibility and conservation efforts. For the summer of 2024, I, along with my partner, were tasked with mapping the North Forty Natural Area in Floyd Bennett Field in Brooklyn New York.\nThis role involved extensive fieldwork, data collection, and collaboration with conservation teams.\n\n\nKey Responsibilities\n\nConducted ground-truthing to map trail conditions, including surface type, width, and accessibility features.\nUsed GPS devices and ESRI software (ArcGIS Online, FieldMaps) to create detailed trail maps.\nCollected and analyzed data on vegetation and erosion along trails.\nContributed trail data to the official NYC Parks Trail Map on ArcGIS Online.\n\n\nMapping trail segments in North Forty, Floyd Bennett Field.\n\nInstalling trail structures in Van Cortland Park.\n\n\nVolunteer Events\nDuring my internship, I also participated in and led events such as:\n\nTrail Cleanups: Organized and led groups of volunteers to remove litter and debris from trails.\nInvasive Species Removal: Worked with volunteers to remove invasive plants and restore native habitats.\n\nWe also participated in volunteer events in other parks across NYC, like Prospect Park and in Staten Island.\n\nParticipating in removing invasive species at Prospect Park."
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "If you had asked me 3 years ago what GIS is, I wouldn’t have had the slightest idea. Being fresh off completing my Computer Science degree, I was looking solely for jobs in the tech industry. But I felt an urge to grow into the data science world, and explore intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nThese experiences have each equipped me with core GIS skills, whether I was optimizing solar installations, protecting urban green spaces, or improving public health outcomes. GIS and spatial analysis have taught me how to communicate findings in such a way that is easy for anyone to understand, and it is a skill I want to continue to harness.\nFor a stable version of resume, please click here - William’s Resume"
   },
   {
-    "objectID": "field.html#park-management-gis-internship",
-    "href": "field.html#park-management-gis-internship",
-    "title": "Park Management & Field Work",
-    "section": "Park Management & GIS Internship",
-    "text": "Park Management & GIS Internship\nNYC Parks & Recreation\nJuly 2023 - June 2024\n\nOverview\nAs a Park Management and GIS Intern, I played a key role in planning and executing park repairs, leading volunteer events, and ensuring the maintenance of public spaces. This internship allowed me to develop leadership and project management skills while contributing to the community.\n\n\nKey Responsibilities\n\nPlanned and supervised park repair projects, including trail maintenance, signage installation, and infrastructure improvements.\nLed volunteer events, recruiting and managing teams of volunteers for park cleanups and restoration projects.\nConducted site assessments to identify areas in need of repair or improvement.\nCollaborated with local organizations and community members to promote park stewardship.\n\n\n\nVolunteer Events\nDuring this internship, I organized and led several volunteer events, including:\n\nPark Cleanups: Coordinated teams to remove litter and maintain park facilities.\nTree Planting: Led volunteers in planting native trees to restore park ecosystems.\n\n\nLeading a lawn renovation volunteer event at Tompkins Square Park."
+    "objectID": "about.html#my-journey-into-gis-and-what-i-do",
+    "href": "about.html#my-journey-into-gis-and-what-i-do",
+    "title": "About Me",
+    "section": "",
+    "text": "If you had asked me 3 years ago what GIS is, I wouldn’t have had the slightest idea. Being fresh off completing my Computer Science degree, I was looking solely for jobs in the tech industry. But I felt an urge to grow into the data science world, and explore intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nThese experiences have each equipped me with core GIS skills, whether I was optimizing solar installations, protecting urban green spaces, or improving public health outcomes. GIS and spatial analysis have taught me how to communicate findings in such a way that is easy for anyone to understand, and it is a skill I want to continue to harness.\nFor a stable version of resume, please click here - William’s Resume"
+  },
+  {
+    "objectID": "about.html#technical-foundation",
+    "href": "about.html#technical-foundation",
+    "title": "About Me",
+    "section": "Technical Foundation",
+    "text": "Technical Foundation\nCurrent Focus: GIS Specialist at Con Edison, where I ensure proper migration of spatial utility asset data to ArcFM.\nEducation:\n\nMaster of Science in Geographic Information Systems, Hunter College CUNY (graduating Fall 2025)\nBachelor of Science in Computer Science, Binghamton University SUNY (2022)\n\nCertificates:\n\nIBM Machine Learning Professional Certificate, Coursera (2023)\nIBM Cybersecurity Analyst Professional Certificate, Coursera (2023)\nIBM DevOps and Software Engineering Professional Certificate, Coursera (2022)\nIBM Data Science Professional Certificate, Coursera (2020)\n\nCore Technical Skills:\n\nGIS Platforms: ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise\nProgramming: Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS)\nSpecializations: Spatial analysis, cartographic design, web mapping, automated geospatial workflows\nCloud & DevOps: Docker, Kubernetes, Git, database management"
+  },
+  {
+    "objectID": "about.html#impact-projects",
+    "href": "about.html#impact-projects",
+    "title": "About Me",
+    "section": "Impact & Projects",
+    "text": "Impact & Projects\n\nEnvironmental & Public Health\n\nAir Quality Analysis: Created interactive webmaps visualizing PM2.5 and Benzene exposure patterns across NYC neighborhoods\nFood Access Study: Mapped grocery store and deli distributions to identify and analyze food desert patterns in NYC\nConservation Mapping: Documented previously unmapped trail systems at Floyd Bennett Field for NYC Parks\n\n\n\nInfrastructure & Urban Planning\n\nStorm Water Management: Developed comprehensive drainage maps for Northern Manhattan parks, digitizing historical infrastructure data\nIPARC System: Built and enhanced web application for tracking and prioritizing NYC park maintenance issues\nSolar Energy Mapping: Contributed to nationwide solar panel mapping initiative for renewable energy consulting\n\n\n\nResearch & Education\n\nAcademic Contribution: Authored the first chapter on Object-Oriented Programming and GIS for UCGIST Body of Knowledge publication Read here!\nCommunity Leadership: Organized volunteer conservation events with NYC Cares, leading teams of 50+ participants"
+  },
+  {
+    "objectID": "about.html#what-drives-me",
+    "href": "about.html#what-drives-me",
+    "title": "About Me",
+    "section": "What Drives Me",
+    "text": "What Drives Me\nI’m passionate about using technology to solve problems related to climate change, public health and urban sustainability. I believe these topics are related at their core and deserve our utmost attention. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.\nCurrent Interests:\n\nClimate resilience and renewable energy optimization\nEnvironmental justice and equitable access to resources\nSmart city technologies and sustainable urban planning\nOpen-source geospatial tools and community-driven solutions"
+  },
+  {
+    "objectID": "about.html#beyond-the-code",
+    "href": "about.html#beyond-the-code",
+    "title": "About Me",
+    "section": "Beyond the Code",
+    "text": "Beyond the Code\nWhen I’m not analyzing spatial data or building mapping applications, you’ll find me exploring NYC’s trail systems, volunteering at Forest Park, biking, or taking pictures.\nI believe the best geospatial solutions come from understanding both the technology and the places we’re trying to improve—which is why I spend as much time in the field as I do behind a computer."
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About Me",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nI’m always interested in collaboration, or just sharing ideas about the intersection of technology and environmental stewardship.\nGet in touch:\n\nwilliam.m.cornejo@gmail.com\nLinkedIn\nGitHub\n\nCurrently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "",
+    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: QA/QC Specialist at Con Edison\nFocus Areas: eGIS data migration, utilities mapping"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "",
+    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: QA/QC Specialist at Con Edison\nFocus Areas: eGIS data migration, utilities mapping"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\nPresentation at ESRI User Conference 2025: Check out my presentation on IPARC, a way to use FieldMaps to streamline park issues Slides are here\n\n\n\n\nOOP Chapter Publication: I recently contributed a chapter to the UCGIST Body of Knowledge Read here!\nTrail Mapping: Documented unmapped trail systems at Floyd Bennett Field for NYC Parks\nEnergy Optimization: Supporting wind and solar projects at NREL through geospatial analysis"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nInterested in collaborating or learning more about my work?\nwilliam.m.cornejo@gmail.com | LinkedIn | GitHub\n\nCurrently seeking full-time opportunities in GIS development, geospatial data science, and environmental technology."
   },
   {
     "objectID": "coding.html",
@@ -70,101 +133,45 @@
     "text": "Customer Account Microservice\nThis project is a secure RESTful API built using Test-Driven Development (TDD) principles, enabling full CRUD operations for user account management. Developed using Agile methodology, it features well-defined user stories and sprint planning. The API is containerized and designed as a microservice with enterprise-level security, including Flask-Talisman headers and Flask-CORS policies. It incorporates modern DevOps practices, such as automated GitHub Actions for continuous integration, Docker for scalability, and Kubernetes for production deployment. With automated tests achieving over 95% coverage and Tekton pipeline integration, this microservice demonstrates end-to-end software engineering, from planning to deployment.\nTechnologies: Docker, Kubernentes, Tekton, Github Actions, Zenhub, Python, Flask\nKey Features:\n\nDeveloped Agile plan to create RESTful microservice supporting 4 CRUD operations for user.\nManaged development using Github and Zenhub, completing 25+ user stories in 3 sprints.\nCreated Docker image and deployed microservice to Kubernetes cluster serving 900+ users.\nAutomated work pipeline using Tekton, reducing time from 30 minutes to 3 minutes.\nGitHub Repository"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "objectID": "field.html",
+    "href": "field.html",
+    "title": "Park Management & Field Work",
     "section": "",
-    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
+    "text": "My field work experience has allowed me to combine my passion for the environment with practical skills in trail mapping, park management, and community engagement. Below are some highlights from my internships and volunteer events."
   },
   {
-    "objectID": "index.html#hello",
-    "href": "index.html#hello",
-    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
+    "objectID": "field.html#gis-trail-mapping-internship",
+    "href": "field.html#gis-trail-mapping-internship",
+    "title": "Park Management & Field Work",
+    "section": "GIS Trail Mapping Internship",
+    "text": "GIS Trail Mapping Internship\nThe Natural Areas Conservancy\nJune - August 2024\n\nOverview\nAs a GIS & Trail Mapping Intern with the Natural Areas Conservancy, I was responsible for mapping and assessing trails in natural areas to improve accessibility and conservation efforts. For the summer of 2024, I, along with my partner, were tasked with mapping the North Forty Natural Area in Floyd Bennett Field in Brooklyn New York.\nThis role involved extensive fieldwork, data collection, and collaboration with conservation teams.\n\n\nKey Responsibilities\n\nConducted ground-truthing to map trail conditions, including surface type, width, and accessibility features.\nUsed GPS devices and ESRI software (ArcGIS Online, FieldMaps) to create detailed trail maps.\nCollected and analyzed data on vegetation and erosion along trails.\nContributed trail data to the official NYC Parks Trail Map on ArcGIS Online.\n\n\nMapping trail segments in North Forty, Floyd Bennett Field.\n\nInstalling trail structures in Van Cortland Park.\n\n\nVolunteer Events\nDuring my internship, I also participated in and led events such as:\n\nTrail Cleanups: Organized and led groups of volunteers to remove litter and debris from trails.\nInvasive Species Removal: Worked with volunteers to remove invasive plants and restore native habitats.\n\nWe also participated in volunteer events in other parks across NYC, like Prospect Park and in Staten Island.\n\nParticipating in removing invasive species at Prospect Park."
+  },
+  {
+    "objectID": "field.html#park-management-gis-internship",
+    "href": "field.html#park-management-gis-internship",
+    "title": "Park Management & Field Work",
+    "section": "Park Management & GIS Internship",
+    "text": "Park Management & GIS Internship\nNYC Parks & Recreation\nJuly 2023 - June 2024\n\nOverview\nAs a Park Management and GIS Intern, I played a key role in planning and executing park repairs, leading volunteer events, and ensuring the maintenance of public spaces. This internship allowed me to develop leadership and project management skills while contributing to the community.\n\n\nKey Responsibilities\n\nPlanned and supervised park repair projects, including trail maintenance, signage installation, and infrastructure improvements.\nLed volunteer events, recruiting and managing teams of volunteers for park cleanups and restoration projects.\nConducted site assessments to identify areas in need of repair or improvement.\nCollaborated with local organizations and community members to promote park stewardship.\n\n\n\nVolunteer Events\nDuring this internship, I organized and led several volunteer events, including:\n\nPark Cleanups: Coordinated teams to remove litter and maintain park facilities.\nTree Planting: Led volunteers in planting native trees to restore park ecosystems.\n\n\nLeading a lawn renovation volunteer event at Tompkins Square Park."
+  },
+  {
+    "objectID": "map_sites/sdiego.html",
+    "href": "map_sites/sdiego.html",
+    "title": "San Diego Transit Equity Map",
     "section": "",
-    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: Geospatial Data Science Intern at the National Renewable Energy Laboratory\nFocus Areas: WebGIS development, spatial data analysis, environmental applications"
+    "text": "Visualizing census tracts on San Diego that do not benefit from public transit (2023)\n\n\nLink -&gt; https://wmcornejo.github.io/sdiego_transit/\nTools: Mapbox, Vue, Javascript, html, css\nKey Features:\n\nVisualizes long travel times for residents living far from metropolitan areas.\nLinks median income with transit station availability.\nProvides policy makers with a visual on what areas are deprived of transit access. zgurt"
   },
   {
-    "objectID": "index.html#recent-highlights",
-    "href": "index.html#recent-highlights",
-    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
-    "section": "Recent Highlights",
-    "text": "Recent Highlights\n\nPresentation at ESRI User Conference 2025: Check out my presentation on IPARC, a way to use FieldMaps to streamline park issues Slides are here\n\n\n\n\nOOP Chapter Publication: I recently contributed a chapter to the UCGIST Body of Knowledge Read here!\nTrail Mapping: Documented unmapped trail systems at Floyd Bennett Field for NYC Parks\nEnergy Optimization: Supporting wind and solar projects at NREL through geospatial analysis"
-  },
-  {
-    "objectID": "index.html#get-in-touch",
-    "href": "index.html#get-in-touch",
-    "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
-    "section": "Get in Touch",
-    "text": "Get in Touch\nInterested in collaborating or learning more about my work?\nwilliam.m.cornejo@gmail.com | LinkedIn | GitHub\n\nCurrently seeking full-time opportunities in GIS development, geospatial data science, and environmental technology."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "map_sites/nyc_events.html",
+    "href": "map_sites/nyc_events.html",
+    "title": "NYC Permitted Events Map",
     "section": "",
-    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume"
-  },
-  {
-    "objectID": "about.html#my-journey-into-gis",
-    "href": "about.html#my-journey-into-gis",
-    "title": "About Me",
-    "section": "",
-    "text": "Up until 3 years ago, GIS was foreign to me. I had no idea what it stood for and had no interest in it as a career, or even the knowledge of it. What began as curiosity during an undergraduate geography class has evolved into a career at the intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nToday, I approach every project with the understanding that spatial thinking reveals solutions—whether optimizing solar installations, protecting urban green spaces, or improving public health outcomes.\nFor a stable version of resume, please click here - William’s Resume"
-  },
-  {
-    "objectID": "about.html#technical-foundation",
-    "href": "about.html#technical-foundation",
-    "title": "About Me",
-    "section": "Technical Foundation",
-    "text": "Technical Foundation\nCurrent Focus: Geospatial Data Science Intern at NREL, where I develop automated solutions for renewable energy infrastructure optimization.\nEducation:\n\nMaster of Science in Geographic Information Systems, Hunter College CUNY (graduating Fall 2025)\nBachelor of Science in Computer Science, Binghamton University SUNY (2022)\n\nCore Technical Skills:\n\nGIS Platforms: ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise\nProgramming: Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS)\nSpecializations: Spatial analysis, cartographic design, web mapping, automated geospatial workflows\nCloud & DevOps: Docker, Kubernetes, Git, database management"
-  },
-  {
-    "objectID": "about.html#impact-projects",
-    "href": "about.html#impact-projects",
-    "title": "About Me",
-    "section": "Impact & Projects",
-    "text": "Impact & Projects\n\nEnvironmental & Public Health\n\nAir Quality Analysis: Created interactive webmaps visualizing PM2.5 and Benzene exposure patterns across NYC neighborhoods\nFood Access Study: Mapped grocery store and deli distributions to identify and analyze food desert patterns in NYC\nConservation Mapping: Documented previously unmapped trail systems at Floyd Bennett Field for NYC Parks\n\n\n\nInfrastructure & Urban Planning\n\nStorm Water Management: Developed comprehensive drainage maps for Northern Manhattan parks, digitizing historical infrastructure data\nIPARC System: Built and enhanced web application for tracking and prioritizing NYC park maintenance issues\nSolar Energy Mapping: Contributed to nationwide solar panel mapping initiative for renewable energy consulting\n\n\n\nResearch & Education\n\nAcademic Contribution: Authored the first chapter on Object-Oriented Programming and GIS for UCGIST Body of Knowledge publication Read here!\nCommunity Leadership: Organized volunteer conservation events with NYC Cares, leading teams of 50+ participants"
-  },
-  {
-    "objectID": "about.html#what-drives-me",
-    "href": "about.html#what-drives-me",
-    "title": "About Me",
-    "section": "What Drives Me",
-    "text": "What Drives Me\nI’m passionate about using technology to solve problems related to climate change, public health and urban sustainability. I believe these topics are related at their core and deserve our utmost attention. My unique combination of computer science fundamentals and geospatial expertise allows me to build solutions that are both technically robust and practically meaningful.\nCurrent Interests:\n\nClimate resilience and renewable energy optimization\nEnvironmental justice and equitable access to resources\nSmart city technologies and sustainable urban planning\nOpen-source geospatial tools and community-driven solutions"
-  },
-  {
-    "objectID": "about.html#beyond-the-code",
-    "href": "about.html#beyond-the-code",
-    "title": "About Me",
-    "section": "Beyond the Code",
-    "text": "Beyond the Code\nWhen I’m not analyzing spatial data or building mapping applications, you’ll find me exploring NYC’s trail systems, volunteering with at Forest Park, biking, or taking pictures.\nI believe the best geospatial solutions come from understanding both the technology and the places we’re trying to improve—which is why I spend as much time in the field as I do behind a computer."
-  },
-  {
-    "objectID": "about.html#lets-connect",
-    "href": "about.html#lets-connect",
-    "title": "About Me",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nI’m always interested in discussing geospatial challenges, collaboration opportunities, or just sharing ideas about the intersection of technology and environmental stewardship.\nGet in touch:\n\nwilliam.m.cornejo@gmail.com\nLinkedIn\nGitHub\n\nCurrently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges."
-  },
-  {
-    "objectID": "maps.html",
-    "href": "maps.html",
-    "title": "Maps",
-    "section": "",
-    "text": "San Diego Transit Equity Map\n            View Map\n          \n        \n      \n  \n      \n        \n          \n            \n          \n          \n            NYC Health Concern Map\n            View Map\n          \n        \n      \n      \n      \n        \n          \n            \n          \n          \n            Phish Concert Analysis\n            View Map\n          \n        \n      \n      \n      \n        \n          \n            \n          \n          \n            NYC Food Access Analysis\n            View Map\n          \n        \n      \n   \n      \n        \n          \n            \n          \n          \n            Bronx Housing Conditions\n            View Map"
-  },
-  {
-    "objectID": "map_sites/phish.html",
-    "href": "map_sites/phish.html",
-    "title": "Phish Concert Analysis",
-    "section": "",
-    "text": "Visualizing Phish concert trends over the years\n\n\nLink -&gt; https://wmcornejo.github.io/phish/\nTools: Leaflet, Javascript, html, css\nKey Features:\n\nToggle through years.\nGet statistics by State (upcoming).\nSearch functionality for venues (upcoming)."
+    "text": "Visualizing Public Events in New York City\n\n\nLink -&gt; https://wmcornejo.github.io/nyc_events_map/\nTools: JavaScript, Leaflet, NYC Open Data API, NYC Geoservice API, CSS, HTML\nKey Features:\n\nProvide a web tool where NYC residents can see what events are occuring near them, and filter based on borough, time, and event type.\nAccess data from NYC Open Data endpoint to get up-to-date events.\nMapped events to sub park features to get precise location.\nReferenced the Geoservice API to get geoJSON data for events that occur in streets."
   },
   {
     "objectID": "map_sites/nyc_food.html",
     "href": "map_sites/nyc_food.html",
     "title": "NYC Food Access Analysis",
     "section": "",
-    "text": "Grocery Store & Deli Distribution\n\n\nGrocery Store & Deli Distribution\nTools: R, sf\nKey Features:\n\nIdentified “food deserts” where the scope is solely grocery stores and delis.\nTheir distribution is related to the poverty rate and median income per MODZCTA."
+    "text": "Grocery Store & Deli Distribution\n\n\nTools: R, sf\nKey Features:\n\nIdentified “food deserts” where the scope is solely grocery stores and delis.\nTheir distribution is related to the poverty rate and median income per MODZCTA."
   }
 ]
