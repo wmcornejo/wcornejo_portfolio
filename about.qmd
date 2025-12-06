@@ -4,7 +4,7 @@ format: html
 ---
 
 
-## My Journey into GIS and What I do
+## My Journey & What I Do
 
 
 ```{=html}
@@ -33,7 +33,7 @@ These experiences have each equipped me with core GIS skills, whether I was opti
 
 ## Technical Foundation
 
-**Current Focus:** GIS Specialist at Con Edison, where I ensure proper migration of spatial utility asset data to ArcFM.
+**Current Focus:** GIS Analyst at Con Edison, where I leverage ESRI tools to support steam, gas and electrical utilities projects.
 
 **Education:**
 
@@ -108,4 +108,3 @@ I'm always interested in collaboration, or just sharing ideas about the intersec
 -   <a href="https://www.linkedin.com/in/william-m-cornejo-6393001a2/" target="_blank">LinkedIn</a>
 -   <a href="https://github.com/wmcornejo" target="_blank">GitHub</a>
 
-*Currently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges.*

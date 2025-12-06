@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "",
-    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: QA/QC Specialist at Con Edison\nFocus Areas: eGIS data migration, utilities mapping"
+    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: GIS Analyst at Con Edison\nFocus Areas: Developing with ESRI tools, Utilities GIS Support"
   },
   {
     "objectID": "about.html#my-background",
@@ -39,7 +39,7 @@
     "href": "about.html#lets-connect",
     "title": "About Me",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\nI’m always interested in collaboration, or just sharing ideas about the intersection of technology and environmental stewardship.\nGet in touch:\n\nwilliam.m.cornejo@gmail.com\nLinkedIn\nGitHub\n\nCurrently seeking full-time opportunities where I can apply my geospatial expertise to meaningful environmental and public health challenges."
+    "text": "Let’s Connect\nI’m always interested in collaboration, or just sharing ideas about the intersection of technology and environmental stewardship.\nGet in touch:\n\nwilliam.m.cornejo@gmail.com\nLinkedIn\nGitHub"
   },
   {
     "objectID": "index.html#explore",
@@ -242,7 +242,7 @@
     "href": "index.html#get-in-touch",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "Get in Touch",
-    "text": "Get in Touch\nInterested in collaborating or learning more about my work?\nwilliam.m.cornejo@gmail.com | LinkedIn | GitHub\n\nCurrently seeking full-time opportunities in GIS development, geospatial data science, and environmental technology."
+    "text": "Get in Touch\nInterested in collaborating or learning more about my work?\nwilliam.m.cornejo@gmail.com | LinkedIn | GitHub"
   },
   {
     "objectID": "about.html#my-journey-into-gis",
@@ -256,7 +256,7 @@
     "href": "about.html#technical-foundation",
     "title": "About Me",
     "section": "Technical Foundation",
-    "text": "Technical Foundation\nCurrent Focus: GIS Specialist at Con Edison, where I ensure proper migration of spatial utility asset data to ArcFM.\nEducation:\n\nMaster of Science in Geographic Information Systems, Hunter College CUNY (graduating Fall 2025)\nBachelor of Science in Computer Science, Binghamton University SUNY (2022)\n\nCertificates:\n\nIBM Machine Learning Professional Certificate, Coursera (2023)\nIBM Cybersecurity Analyst Professional Certificate, Coursera (2023)\nIBM DevOps and Software Engineering Professional Certificate, Coursera (2022)\nIBM Data Science Professional Certificate, Coursera (2020)\n\nCore Technical Skills:\n\nGIS Platforms: ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise\nProgramming: Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS)\nSpecializations: Spatial analysis, cartographic design, web mapping, automated geospatial workflows\nCloud & DevOps: Docker, Kubernetes, Git, database management"
+    "text": "Technical Foundation\nCurrent Focus: GIS Analyst at Con Edison, where I leverage ESRI tools to support steam, gas and electrical utilities projects.\nEducation:\n\nMaster of Science in Geographic Information Systems, Hunter College CUNY (graduating Fall 2025)\nBachelor of Science in Computer Science, Binghamton University SUNY (2022)\n\nCertificates:\n\nIBM Machine Learning Professional Certificate, Coursera (2023)\nIBM Cybersecurity Analyst Professional Certificate, Coursera (2023)\nIBM DevOps and Software Engineering Professional Certificate, Coursera (2022)\nIBM Data Science Professional Certificate, Coursera (2020)\n\nCore Technical Skills:\n\nGIS Platforms: ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise\nProgramming: Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS)\nSpecializations: Spatial analysis, cartographic design, web mapping, automated geospatial workflows\nCloud & DevOps: Docker, Kubernetes, Git, database management"
   },
   {
     "objectID": "about.html#impact-projects",
@@ -284,7 +284,7 @@
     "href": "index.html#hello",
     "title": "William Cornejo - GIS Developer & Geospatial Data Scientist",
     "section": "",
-    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: QA/QC Specialist at Con Edison\nFocus Areas: eGIS data migration, utilities mapping"
+    "text": "I’m a GIS Developer with a Computer Science background, currently finishing my Master’s in GIS at Hunter College. I specialize in developing geospatial solutions for renewable energy optimization, environmental conservation, and urban infrastructure planning.\nCurrently: GIS Analyst at Con Edison\nFocus Areas: Developing with ESRI tools, Utilities GIS Support"
   },
   {
     "objectID": "coding.html#customer-account-microservice",
@@ -359,6 +359,13 @@
   {
     "objectID": "about.html#my-journey-into-gis-and-what-i-do",
     "href": "about.html#my-journey-into-gis-and-what-i-do",
+    "title": "About Me",
+    "section": "",
+    "text": "If you had asked me 3 years ago what GIS is, I wouldn’t have had the slightest idea. Being fresh off completing my Computer Science degree, I was looking solely for jobs in the tech industry. But I felt an urge to grow into the data science world, and explore intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nThese experiences have each equipped me with core GIS skills, whether I was optimizing solar installations, protecting urban green spaces, or improving public health outcomes. GIS and spatial analysis have taught me how to communicate findings in such a way that is easy for anyone to understand, and it is a skill I want to continue to harness.\nFor a stable version of resume, please click here - William’s Resume"
+  },
+  {
+    "objectID": "about.html#my-journey-what-i-do",
+    "href": "about.html#my-journey-what-i-do",
     "title": "About Me",
     "section": "",
     "text": "If you had asked me 3 years ago what GIS is, I wouldn’t have had the slightest idea. Being fresh off completing my Computer Science degree, I was looking solely for jobs in the tech industry. But I felt an urge to grow into the data science world, and explore intersection of technology and environmental problem-solving. I discovered that GIS isn’t just about making maps—it’s a unique lens for understanding spatial relationships and revealing patterns that drive real-world solutions.\nThis realization redirected my path from traditional computer science toward geospatial innovation, leading me through:\n\nUrban Conservation: Mapping New York City’s ecosystems with Parks & Recreation and the Natural Areas Conservancy\n\nAdvanced Learning: Developing cutting-edge skills through Hunter College’s Master’s program in GIS\n\nClean Energy Impact: Contributing to national renewable energy optimization at the National Renewable Energy Laboratory\n\nThese experiences have each equipped me with core GIS skills, whether I was optimizing solar installations, protecting urban green spaces, or improving public health outcomes. GIS and spatial analysis have taught me how to communicate findings in such a way that is easy for anyone to understand, and it is a skill I want to continue to harness.\nFor a stable version of resume, please click here - William’s Resume"

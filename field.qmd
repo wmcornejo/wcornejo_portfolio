@@ -2,7 +2,6 @@
 title: "Park Management & Field Work"
 ---
 
-
 My field work experience has allowed me to combine my passion for the environment with practical skills in trail mapping, park management, and community engagement. Below are some highlights from my internships and volunteer events.
 
 ------------------------------------------------------------------------
@@ -25,14 +24,11 @@ This role involved extensive fieldwork, data collection, and collaboration with 
 -   Collected and analyzed data on **vegetation** and **erosion** along trails.
 -   Contributed trail data to the official NYC Parks Trail Map on ArcGIS Online.
 
-
 ![Trail Mapping](pictures/trail.jpg){.rounded .shadow width="600px"}\
 *Mapping trail segments in North Forty, Floyd Bennett Field.*
 
-
 ![Trail Structures](pictures/ppark.jpg){.rounded .shadow width="600px"}\
 *Installing trail structures in Van Cortland Park.*
-
 
 ### Volunteer Events
 
@@ -43,10 +39,8 @@ During my internship, I also participated in and led events such as:
 
 We also participated in volunteer events in other parks across NYC, like Prospect Park and in Staten Island.
 
-
 ![Volunteer Event](pictures/ppark2.jpg){.rounded .shadow width="600px"}\
 *Participating in removing invasive species at Prospect Park.*
-
 
 ------------------------------------------------------------------------
 
@@ -75,4 +69,3 @@ During this internship, I organized and led several volunteer events, including:
 
 ![Lawn Rennovation](pictures/tompkins.jpg){.rounded .shadow width="600px"}\
 *Leading a lawn renovation volunteer event at Tompkins Square Park.*
-
