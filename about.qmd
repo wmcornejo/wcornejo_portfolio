@@ -37,7 +37,7 @@ These experiences have each equipped me with core GIS skills, whether I was opti
 
 **Education:**
 
--   Master of Science in Geographic Information Systems, Hunter College CUNY *(graduating Fall 2025)*
+-   Master of Science in Geographic Information Systems, Hunter College CUNY *(2025)*
 -   Bachelor of Science in Computer Science, Binghamton University SUNY *(2022)*
 
 **Certificates:**
@@ -50,7 +50,7 @@ These experiences have each equipped me with core GIS skills, whether I was opti
 **Core Technical Skills:**
 
 -   **GIS Platforms:** ArcGIS Pro/Online, QGIS, PostGIS, ArcGIS Enterprise
--   **Programming:** Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (WebGIS)
+-   **Programming:** Python (GDAL, geopandas, pandas), R (spatial analysis), JavaScript (webGIS), openCV (image analysis)
 -   **Specializations:** Spatial analysis, cartographic design, web mapping, automated geospatial workflows
 -   **Cloud & DevOps:** Docker, Kubernetes, Git, database management
 
@@ -66,9 +66,9 @@ These experiences have each equipped me with core GIS skills, whether I was opti
 
 ### Infrastructure & Urban Planning
 
+-   **Gas Inspection Process:** Developed first tracking and tracing app that Con Edison has launched with in-house software and experts
 -   **Storm Water Management:** Developed comprehensive drainage maps for Northern Manhattan parks, digitizing historical infrastructure data
 -   **IPARC System:** Built and enhanced web application for tracking and prioritizing NYC park maintenance issues
--   **Solar Energy Mapping:** Contributed to nationwide solar panel mapping initiative for renewable energy consulting
 
 ### Research & Education
 
@@ -92,7 +92,7 @@ I'm passionate about using technology to solve problems related to climate chang
 
 ## Beyond the Code
 
-When I'm not analyzing spatial data or building mapping applications, you'll find me exploring NYC's trail systems, volunteering at Forest Park, biking, or taking pictures.
+When I'm not analyzing spatial data or building mapping applications, you'll find me exploring NYC's trail systems, volunteering at the park, biking, or taking pictures.
 
 I believe the best geospatial solutions come from understanding both the technology and the places we're trying to improve—which is why I spend as much time in the field as I do behind a computer.
 
@@ -100,7 +100,7 @@ I believe the best geospatial solutions come from understanding both the technol
 
 ## Let's Connect
 
-I'm always interested in collaboration, or just sharing ideas about the intersection of technology and environmental stewardship.
+I'm always interested in collaboration, or just sharing ideas.
 
 **Get in touch:**
 
